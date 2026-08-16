@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -10,7 +10,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "配置中心",
@@ -24,14 +24,14 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "本地",
       "name": "本地 • 视频",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "预告",
@@ -39,7 +39,7 @@
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "热播影视",
@@ -52,7 +52,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "一起影视",
@@ -62,7 +62,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "马猴影视",
@@ -79,24 +79,7 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
-    },
-    {
-      "key": "云朵影视",
-      "name": "云朵 • APP",
-      "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://ds3xy2yunsa.xyz",
-        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
-        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.tvcloud.io",
-        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
-        "ver": "1"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "韩圈",
@@ -104,7 +87,7 @@
       "type": 3,
       "api": "csp_Hxq",
       "ext": "http://www.小不点.com/api/2026/fishhxq.php",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "剧圈99",
@@ -120,7 +103,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "半日99",
@@ -136,7 +119,7 @@
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "天堂",
@@ -157,7 +140,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "橘汁",
@@ -178,7 +161,7 @@
         "version": "3.0.2.3",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "华谊",
@@ -199,7 +182,7 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "苹果",
@@ -220,7 +203,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "蓝鹰",
@@ -236,23 +219,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
-    },
-    {
-      "key": "爱影",
-      "name": "爱影 • APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
-        "dataKey": "0UKM8jkasM8tdzgW",
-        "dataIv": "0UKM8jkasM8tdzgW",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "怀桑",
@@ -268,7 +235,21 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
+    },
+    {
+      "key": "世界",
+      "name": "世界 • APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcms.4ksj.app",
+        "dataKey": "O3K6rYx75Q4xtiIE",
+        "dataIv": "O3K6rYx75Q4xtiIE"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "不戳",
@@ -282,7 +263,7 @@
         "dataKey": "pYrEkiWRYhBLTUTC",
         "dataIv": "pYrEkiWRYhBLTUTC"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "魔方",
@@ -296,7 +277,7 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "王子",
@@ -310,7 +291,7 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "茉莉",
@@ -324,7 +305,7 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "哔哩合集",
@@ -343,7 +324,7 @@
         "n": "哔哩合集",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "哔哩视频",
@@ -361,14 +342,14 @@
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "三六零",
       "name": "三六零 • 视频",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "玩偶",
@@ -387,7 +368,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "快映",
@@ -404,7 +385,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "木偶",
@@ -424,7 +405,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "蜡笔",
@@ -445,7 +426,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "闪电",
@@ -462,7 +443,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "至臻",
@@ -481,7 +462,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "多多",
@@ -500,7 +481,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "欧哥",
@@ -520,7 +501,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "二小",
@@ -541,7 +522,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "虎斑",
@@ -558,7 +539,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "种子",
@@ -578,7 +559,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "夸父",
@@ -599,7 +580,7 @@
         "cookie": "bbs_sid=qovfaruectri75sqq38blhqt7o; bbs_token=Bvf498_2FJNbnAe_2Fse39EweDe_2BlQnFYo4s_2FpFtyHueqcGKOssB"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "123",
@@ -620,7 +601,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "指南",
@@ -631,7 +612,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "移动",
@@ -642,7 +623,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "人人",
@@ -653,7 +634,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "即刻",
@@ -667,7 +648,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "双星",
@@ -681,7 +662,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "七猫短剧",
@@ -689,7 +670,7 @@
       "type": 3,
       "api": "csp_ShortQimao",
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "河马短剧",
@@ -697,7 +678,7 @@
       "type": 3,
       "api": "csp_ShortHema",
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "围观短剧",
@@ -705,7 +686,7 @@
       "type": 3,
       "api": "csp_ShortWeiguan",
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "好看短剧",
@@ -713,7 +694,7 @@
       "type": 3,
       "api": "csp_ShortHaokan",
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "星芽短剧",
@@ -721,7 +702,7 @@
       "type": 3,
       "api": "csp_ShortXingya",
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "果果短剧",
@@ -734,35 +715,35 @@
         "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
         "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "瓜子影视",
       "name": "瓜子 • 影视",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "山楂影视",
       "name": "山楂 • 影视",
       "type": 3,
       "api": "csp_PianKu8",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "独播影视",
       "name": "独播 • 影视",
       "type": 3,
       "api": "csp_Duboku",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "厂长影视",
@@ -773,7 +754,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cz01.vip",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "金牌影视",
@@ -781,7 +762,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "修罗影视",
@@ -789,7 +770,7 @@
       "api": "csp_Xlys",
       "type": 3,
       "ext": "https://www.xlysw.ggff.net",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "骚火影视",
@@ -797,7 +778,7 @@
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "农民影视",
@@ -805,7 +786,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "枫叶影视",
@@ -813,7 +794,7 @@
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "爱看机器人",
@@ -823,7 +804,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "小镇影视",
@@ -836,7 +817,7 @@
         "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "面包影视",
@@ -850,7 +831,7 @@
         "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
         "简介": "简介：&&"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "永乐影视",
@@ -864,7 +845,7 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "剧圈影视",
@@ -872,7 +853,7 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/JQYS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "1905",
@@ -882,7 +863,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "番社动漫",
@@ -910,7 +891,24 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
+    },
+    {
+      "key": "双星99",
+      "name": "双星 • 动漫",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://175.178.65.250:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "f66f65db127e48449f073c2c6eb0f993",
+        "versionName": "6.4.5",
+        "name": "双子星动漫",
+        "package": "com.yingfu.mobile.android.pgsp",
+        "buildNumber": "2003",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "喵呜动漫",
@@ -918,7 +916,7 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_MiaoWu",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "魔都动漫",
@@ -926,7 +924,7 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_MoDu",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "漫国动漫",
@@ -940,7 +938,7 @@
         "listKey": "aassddwwxxllsx1x",
         "parsesKey": "aassddwwxxllsx1x"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "方舟动漫",
@@ -953,7 +951,7 @@
         "dataKey": "e72cdfd629e8895d",
         "dataIv": "e72cdfd629e8895d"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "曼波动漫",
@@ -966,7 +964,7 @@
         "dataKey": "66dc309cbeeca454",
         "dataIv": "66dc309cbeeca454"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "咕咕动漫",
@@ -979,7 +977,7 @@
         "dataKey": "nKfZ8KX6JTNWRzTD",
         "dataIv": "nKfZ8KX6JTNWRzTD"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "巴士动漫",
@@ -998,7 +996,7 @@
         "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
         "倒序": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "路漫漫",
@@ -1006,7 +1004,7 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/js/LMM.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "去看吧",
@@ -1014,14 +1012,14 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/js/QKB.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "荐片",
       "name": "荐片 • 磁力",
       "api": "csp_JianPian",
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "七味",
@@ -1032,7 +1030,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.qwshow.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com,https://www.qnnull.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "New6v",
@@ -1043,7 +1041,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "美剧迷",
@@ -1053,7 +1051,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "迅雷吧",
@@ -1064,7 +1062,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xunlei8.me",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "电影港",
@@ -1075,7 +1073,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/magnet/json/DYG.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "阿里云盘",
@@ -1089,7 +1087,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "夸克网盘",
@@ -1103,7 +1101,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "UC网盘",
@@ -1117,7 +1115,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "百度网盘",
@@ -1131,7 +1129,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "聚合",
@@ -1142,7 +1140,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "盘搜",
@@ -1153,7 +1151,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "米搜",
@@ -1170,7 +1168,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "百酷",
@@ -1181,7 +1179,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "酷乐",
@@ -1192,7 +1190,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "鬼鬼",
@@ -1203,7 +1201,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "趣盘",
@@ -1214,7 +1212,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "88看球",
@@ -1227,7 +1225,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "球通体育",
@@ -1240,7 +1238,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "瓜子体育",
@@ -1253,7 +1251,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "咖啡体育",
@@ -1266,7 +1264,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "呦呦DJ",
@@ -1279,7 +1277,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "轮回DJ",
@@ -1292,7 +1290,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "蜻蜓FM",
@@ -1305,7 +1303,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "世界听书",
@@ -1318,7 +1316,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "堇夏听书",
@@ -1332,7 +1330,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "博看听书",
@@ -1345,7 +1343,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "戏曲多多",
@@ -1358,7 +1356,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "童趣",
@@ -1372,7 +1370,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "兔小贝",
@@ -1386,7 +1384,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "贝乐虎",
@@ -1400,7 +1398,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "爱听音乐",
@@ -1410,7 +1408,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "api": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/py/爱听音乐.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "网络直播",
@@ -1424,7 +1422,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "哔哩哔哩音乐",
@@ -1442,7 +1440,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "哔哩哔哩听书",
@@ -1460,7 +1458,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "哔哩哔哩相声",
@@ -1478,7 +1476,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "哔哩哔哩小品",
@@ -1496,7 +1494,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -1514,7 +1512,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "少儿教育",
@@ -1532,7 +1530,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "小学课堂",
@@ -1550,7 +1548,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "初中课堂",
@@ -1568,7 +1566,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "高中课堂",
@@ -1586,7 +1584,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "急救教学",
@@ -1601,7 +1599,7 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "养生堂",
@@ -1615,7 +1613,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
       "key": "push_agent",
@@ -1625,7 +1623,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaosa.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     }
   ],
   "lives": [
