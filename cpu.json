@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
   "logo": "./logo.png",
   "warningText": "天神IY：资源来自网络，无盈利纯搬运分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
@@ -15,7 +15,7 @@
       "changeable": 0,
       "indexs": 0,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/天神小屋.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "配置中心",
@@ -29,7 +29,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "路漫漫",
@@ -37,7 +37,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "name": "🚀豆瓣｜小白弹幕｜搜索自启",
@@ -55,7 +55,7 @@
         ],
         "titleMappingsUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yins.png"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "IY音乐台",
@@ -69,14 +69,14 @@
         "cookie": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
         "json": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/iyyy.png"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "CO4K",
       "name": "❤咖啡｜4K测试",
       "type": 4,
       "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "不错",
@@ -90,7 +90,7 @@
         "dataKey": "pYrEkiWRYhBLTUTC",
         "dataIv": "pYrEkiWRYhBLTUTC"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "极影",
@@ -98,7 +98,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
       "ext": "http://cmsyun2.qijiyun.vip/api.php/app/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "藤藤",
@@ -106,7 +106,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "咕噜",
@@ -124,7 +124,7 @@
         "buildNumber": "2001",
         "buildSignature": "cada9080ddc2a0e8a89c4d0cbbcfbbbf1e562e2a90a4eb0003029254bc632f2a"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "马猴影视",
@@ -141,14 +141,14 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "山楂",
       "name": "♨️山楂｜4K线路",
       "type": 3,
       "api": "csp_PianKu8",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "爱营",
@@ -172,7 +172,7 @@
         "少儿",
         "纪录片"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "星河",
@@ -186,7 +186,7 @@
         "api": 2,
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "秒看",
@@ -200,7 +200,7 @@
         "dataIv": "c60d88b2eep53za8",
         "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "橘汁",
@@ -221,7 +221,7 @@
         "version": "3.0.2.1",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "4K影院",
@@ -235,7 +235,7 @@
         "api": 2,
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "枫叶影视",
@@ -243,7 +243,7 @@
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "歪比巴卜",
@@ -251,14 +251,14 @@
       "type": 3,
       "playerType": 2,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yb.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "瓜子影视",
       "name": "🌀瓜子｜3K线路",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "爱看剧",
@@ -266,14 +266,14 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
       "ext": "http://43.248.117.123:4680",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "个影",
       "name": "🌀个影｜1920",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/gy.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "三秋影视",
@@ -290,7 +290,7 @@
         "sk": "SK-thanks",
         "ver": "6"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "云朵影视",
@@ -307,14 +307,14 @@
         "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
         "ver": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "飞娱影视",
       "name": "🌀飞娱｜1920",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "天堂",
@@ -336,7 +336,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "华谊",
@@ -358,7 +358,7 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "苹果",
@@ -379,7 +379,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "雄鹰",
@@ -402,7 +402,7 @@
         "少儿",
         "纪录片"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "热播影视",
@@ -415,14 +415,14 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "移动",
       "name": "🌀移动｜1920",
       "type": 3,
       "api": "csp_Yidong4K",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "华数",
@@ -430,7 +430,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/华数.py",
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "茫茫",
@@ -438,7 +438,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "小优",
@@ -446,7 +446,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小优.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "小爱",
@@ -454,7 +454,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小爱.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "小哩",
@@ -462,14 +462,14 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小哩.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "七星短剧",
       "name": "🎬七星丨短剧",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "百度短剧",
@@ -479,7 +479,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "聚合短剧",
@@ -489,7 +489,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "七猫短剧",
@@ -501,7 +501,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "河马短剧",
@@ -513,7 +513,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "围观短剧",
@@ -525,7 +525,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "好看短剧",
@@ -537,7 +537,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "星芽短剧",
@@ -549,7 +549,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "玩偶哥哥",
@@ -567,7 +567,7 @@
           "https://woggpan.xxooo.cf"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "木偶",
@@ -586,7 +586,7 @@
           "https://www.muou.asia"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "蜡笔",
@@ -606,7 +606,7 @@
           "https://www.xiaocge.fun"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "闪电",
@@ -622,7 +622,7 @@
           "http://shandian.blog"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "至臻",
@@ -640,7 +640,7 @@
           "https://www.mihdr.top"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "多多",
@@ -658,7 +658,7 @@
           "https://tv.214521.xyz"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "欧哥",
@@ -677,7 +677,7 @@
           "https://woog.430520.xyz"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "二小",
@@ -697,7 +697,7 @@
           "https://wexwp.cc"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "快映",
@@ -713,7 +713,7 @@
           "http://38.76.197.172:12521"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "虎斑",
@@ -729,7 +729,7 @@
           " http://38.76.197.172:16969"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "双星",
@@ -739,7 +739,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "鸭社",
@@ -755,7 +755,7 @@
           "http://www.guangyashe.top"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "种子",
@@ -774,7 +774,7 @@
           "http://104.243.25.80"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "夸父",
@@ -794,7 +794,7 @@
         ],
         "cookie": "bbs_sid=qovfaruectri75sqq38blhqt7o; bbs_token=Bvf498_2FJNbnAe_2Fse39EweDe_2BlQnFYo4s_2FpFtyHueqcGKOssB"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "123",
@@ -815,7 +815,7 @@
           "https://pan1.me"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "即刻",
@@ -825,14 +825,14 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "人人",
       "name": "🌐人人｜4K自扫",
       "type": 3,
       "api": "csp_RenRen",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "指南",
@@ -842,7 +842,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "双星99",
@@ -859,7 +859,7 @@
         "buildNumber": "2003",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "方舟动漫",
@@ -872,7 +872,7 @@
         "dataKey": "e72cdfd629e8895d",
         "dataIv": "e72cdfd629e8895d"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "漫国动漫",
@@ -885,7 +885,7 @@
         "listKey": "aassddwwxxllsx1x",
         "parsesKey": "aassddwwxxllsx1x"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "喵呜动漫",
@@ -893,7 +893,7 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_MiaoWu",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "去看吧",
@@ -901,7 +901,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/去看吧.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "kkk动漫",
@@ -922,7 +922,7 @@
         "分类url": "https://cn.agekkkk.com/type/{cateId}-{catePg}.html",
         "分类": "日韩漫$1#国产漫$2#动态漫$5#特摄片$4#欧美漫$3"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "巴士动漫",
@@ -930,14 +930,14 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/巴士动漫.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "荐片",
       "name": "🧲荐片｜磁力",
       "api": "csp_JianPian",
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "New6v",
@@ -948,7 +948,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "电影港",
@@ -959,21 +959,21 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/电影港.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "爱听音乐",
       "name": "📻爱听｜音乐",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/爱听音乐.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "听了么",
       "name": "📻听歌｜音乐",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/tlm.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "世界听书",
@@ -983,7 +983,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "蜻蜓FM",
@@ -993,7 +993,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "凤凰FM",
@@ -1001,7 +1001,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/凤凰FM.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "随身评书",
@@ -1009,7 +1009,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/随身评书.png",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "戏曲多多",
@@ -1022,7 +1022,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "球通体育",
@@ -1032,7 +1032,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "瓜子体育",
@@ -1042,21 +1042,21 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "网络直播",
       "name": "📺网络｜点播",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/网络直播.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "哔哩直播",
       "name": "📺哔哩｜点播",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩直播.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "哔哩合集",
@@ -1075,7 +1075,7 @@
         "json": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩合集.png",
         "cookie": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "哔哩听书",
@@ -1093,7 +1093,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "哔哩相声",
@@ -1111,7 +1111,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "哔哩小品",
@@ -1129,7 +1129,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "哔哩戏曲",
@@ -1147,7 +1147,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "兔小贝",
@@ -1158,7 +1158,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "贝乐虎",
@@ -1169,7 +1169,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "少儿教育",
@@ -1187,7 +1187,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "小学课堂",
@@ -1205,7 +1205,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "初中课堂",
@@ -1223,7 +1223,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "高中课堂",
@@ -1241,7 +1241,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "养生堂",
@@ -1255,14 +1255,14 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "本地",
       "name": "📁本地｜视频",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "阿里云盘",
@@ -1276,7 +1276,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "夸克云盘",
@@ -1290,7 +1290,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "UC云盘",
@@ -1304,7 +1304,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "百度云盘",
@@ -1318,7 +1318,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "急救教学",
@@ -1333,7 +1333,7 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "push_agent",
@@ -1343,7 +1343,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "聚合",
@@ -1355,7 +1355,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "盘搜",
@@ -1366,7 +1366,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "米搜",
@@ -1380,7 +1380,7 @@
           "http://www.misoso.shop"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "百酷",
@@ -1388,7 +1388,7 @@
       "type": 3,
       "api": "csp_Baiku",
       "hide": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "酷乐",
@@ -1396,7 +1396,7 @@
       "type": 3,
       "api": "csp_KuLe",
       "hide": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "鬼鬼搜索",
@@ -1404,7 +1404,7 @@
       "type": 3,
       "hide": 1,
       "api": "csp_GuiGui",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
       "key": "趣盘",
@@ -1412,7 +1412,7 @@
       "type": 3,
       "hide": 1,
       "api": "csp_QuPanSo",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/cpu.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     }
   ],
   "parses": [
