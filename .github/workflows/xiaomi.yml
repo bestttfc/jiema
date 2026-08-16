@@ -12,15 +12,15 @@ jobs:
     #按需修改全局变量，只需在此修改
     env:
      #原始源网址http://itv666.cc/aowu/config.webp  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
-     #URL: "https://raw.githubusercontent.com/ttfc8/jiemi/main/mw.json"
+     #URL: "https://raw.githubusercontent.com/bestttfc/jiema/main/mw.json"
       URL: "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
       
       
      
       #个人仓库 本地JAR地址  代理/用户名/仓库名/输出文件名  PROXY/GIT_USER/GIT_CK/输出文件名/JAR_FILE
       PROXY: "https://gh-proxy.org/https://raw.githubusercontent.com"
-      GIT_USER: "ttfc8"
-      GIT_CK: "jiemi"
+      GIT_USER: "bestttfc"
+      GIT_CK: "jiema"
       #输出文件名，按需修改
       JAR_FILE:  "xiaomi.jar"
       JSON_FILE: "xiaomi.json"
@@ -53,7 +53,7 @@ jobs:
          cd tool/
          #python decrypt_cpu.py
           #python tvbox.py "$URL" "$CONFIG_FILE" dec        
-          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/ttfc8/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
+          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/bestttfc/jiema/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
           #按需修改需解网址
           python tvbox_pic.py "$URL" "$CONFIG_FILE"
     
@@ -62,7 +62,7 @@ jobs:
          cd tool/
          #python decrypt_cpu.py
           #python tvbox.py "$URL" "$CONFIG_FILE" dec        
-          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/ttfc8/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
+          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/bestttfc/jiema/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
           #按需修改需解网址
           if [ ! -f "$CONFIG_FILE" ] || ! grep -q -E "spider|sites" "$CONFIG_FILE"; then
           python tvbox.py "$URL" "$CONFIG_FILE" dec
@@ -99,7 +99,7 @@ jobs:
         # echo -n "$URL" | od -c
         # echo ">>> 结束检查 <<<"        
         if [ ! -f "$CONFIG_FILE" ] || ! grep -q -E "spider|sites" "$CONFIG_FILE"; then
-        curl -X POST "http://2015888.xyz/jiemi/get_jiemi.php" \
+        curl -X POST "http://2015888.xyz/jiema/get_jiema.php" \
           -H "Content-Type: application/x-www-form-urlencoded" \
           -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
           --data-urlencode "url=$URL" \
