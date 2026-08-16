@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "./logi10.gif",
   "lives": [
@@ -23,7 +23,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "配置中心",
@@ -37,7 +37,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "热播影视",
@@ -50,7 +50,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "瓜子影视",
@@ -60,7 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "鲸鱼",
@@ -76,7 +76,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "tvbys",
@@ -86,7 +86,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "name": "糖心影视",
@@ -190,7 +190,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "搜搜",
@@ -200,7 +200,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://www.zjcvod.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "至臻",
@@ -219,7 +219,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "爱盈",
@@ -236,7 +236,7 @@
         "version": "305",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "假段友get",
@@ -250,7 +250,7 @@
         "dataKey": "8E2DC386FD452D05",
         "dataIv": "8E2DC386FD452D05"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "奴娜",
@@ -261,7 +261,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.nntv.in/api.php/v1.vod",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "小鸟",
@@ -276,7 +276,7 @@
         "dataIv": "guodan2004031600",
         "token": "fd035ffa03d62775add295bfbb7d99c131e0bb49bb9451309b0ffc4df1631146"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "蝴蝶",
@@ -293,7 +293,7 @@
           "x-app-version-name": "0.0.7"
         }
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "片喵",
@@ -310,7 +310,7 @@
           "x-app-version-name": "1.2.6"
         }
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "豆丁",
@@ -327,7 +327,7 @@
           "x-app-version-name": "3.0.9"
         }
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "咕噜映画",
@@ -359,7 +359,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "云云",
@@ -385,7 +385,7 @@
         "host": "https://qh.70qh.top",
         "ver": 2
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "灵虎",
@@ -399,7 +399,7 @@
         "dataIv": "#getapp@TMD@2025",
         "version": "120"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "永恒视频",
@@ -445,7 +445,7 @@
       "type": 3,
       "api": "csp_Hxq",
       "ext": "https://fishapi.wya6.com/fish/fishhxq.php",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "Jianguo",
@@ -462,7 +462,7 @@
       "api": "csp_AppYsV2",
       "playerType": 2,
       "ext": "http://99cms.jj99.icu:8199/api.php/app/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "数字",
@@ -478,7 +478,7 @@
         "deviceId": "",
         "version": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "花小猪影视",
@@ -494,7 +494,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "花小猪影视",
@@ -521,7 +521,7 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "缘梦",
@@ -535,7 +535,7 @@
         "dataKey": "1234567890987654",
         "dataIv": "1234567890987654"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "茉莉",
@@ -549,7 +549,7 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "芬奇",
@@ -561,7 +561,7 @@
         "dataKey": "bH5mI8iK0tK7aQ5x",
         "dataIv": "bH5mI8iK0tK7aQ5x"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "优兔",
@@ -573,7 +573,7 @@
         "dataKey": "UrWKPnmQWJA8AQzd",
         "dataIv": "UrWKPnmQWJA8AQzd"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "王子",
@@ -586,7 +586,7 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "小白",
@@ -599,7 +599,7 @@
         "dataKey": "uXVVRRuaPnjEfsX5",
         "dataIv": "uXVVRRuaPnjEfsX5"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "梨瓜",
@@ -615,7 +615,7 @@
         "deviceId": "",
         "version": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "拾光视频",
@@ -628,21 +628,21 @@
         "versionCode": "10000",
         "UMENG_CHANNEL": "guan"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "T4-fangzhou",
       "name": "影视方舟",
       "type": 4,
       "api": "https://catbox.n13.club/t9/fangzhou.php",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "T4-suishenting",
       "name": "随身听",
       "type": 4,
       "api": "https://catbox.n13.club/t9/suishenting.php",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "name": "荐片影视",
@@ -671,7 +671,7 @@
         "version": "",
         "ua": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "闪影",
@@ -682,7 +682,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "咕噜映画",
@@ -695,7 +695,7 @@
         "timeout": 8,
         "ver": 3
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "柠檬",
@@ -718,7 +718,7 @@
         "分类url": "https://kangluya.com/show/{cateId}-{area}-time-{class}-------{catePg}---{year}/",
         "分类": "短剧$duanju#国产剧$guochanju#港台剧$gangtaiju#欧美剧$oumeiju#韩剧$hanguoju#日剧$ribenju#泰剧$taiguoju#其他$qitaju#动作片$dongzuo#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#喜剧片$xiju#惊悚片$jings#悬疑片$xuanyi#犯罪片$fanzui#灾难片$zainan#剧情片$juqing#奇幻片$qihuan#冒险片$maoxian#绍氏片$shaoshi#动画片$donghuadianying#其他片$qita#国产动漫$guochan#日韩动漫$rhdm#港台动漫$gtdm#欧美动漫$omdm#其他功漫$qtdm#动漫电影$dongmandianying#大陆综艺$daluzongyi#日韩综艺$rihan#港台综艺$gangtai#欧美综艺$oumei#理伦片$lilun"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "全看网cc",
@@ -731,7 +731,7 @@
         "分类url": "https://www.qkwaa.com/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
         "分类": "短剧$28#电视剧$2#电影$1#动漫$4#综艺$3"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "csp_appys_天堂",
@@ -742,7 +742,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cmstt.lyyytv.cn/api.php/app/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "金牌",
@@ -756,7 +756,7 @@
         "dataKey": "kecbio48dsq131ed",
         "dataIv": "kecbio48dsq131ed"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "小猫",
@@ -770,7 +770,7 @@
         "dataKey": "xmyxmyxywlkjxywl",
         "dataIv": "xmyxmyxywlkjxywl"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "丫丫",
@@ -785,7 +785,7 @@
         "deviceId": "",
         "version": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "驿站",
@@ -802,7 +802,7 @@
         "version": "",
         "ua": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "火花",
@@ -816,7 +816,7 @@
         "dataKey": "PoiUytRedFghjklm",
         "dataIv": "PoiUytRedFghjklm"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "农牧",
@@ -827,7 +827,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/农牧影视.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "气球",
@@ -839,7 +839,7 @@
         "dataKey": "8888888888888888",
         "dataIv": "8888888888888888"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "大众",
@@ -854,7 +854,7 @@
         "deviceId": "",
         "version": "119"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "小城",
@@ -865,7 +865,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://v.cute6.cn/api.php/v1.vod",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "玲珑",
@@ -880,7 +880,7 @@
         "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
         "version": "201"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "淘剧",
@@ -894,7 +894,7 @@
         "分类url": "http://www.taoju.tv/list/{cateId}.html",
         "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "金牌影视",
@@ -902,7 +902,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "夕云",
@@ -914,7 +914,7 @@
         "分类": "电影$20#电视剧$39#动漫$46#综艺$47",
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "秀儿影院",
@@ -933,7 +933,7 @@
         "分类url": "https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
         "分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "剧圈圈",
@@ -947,7 +947,7 @@
         "分类url": "https://www.jqqzx.me/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "骚火电影",
@@ -970,7 +970,7 @@
         "播放数组": "<li&&/li>",
         "倒序": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "旺旺影视",
@@ -984,7 +984,7 @@
         "分类url": "https://nmystv.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{cayePg}/year/{year}.html",
         "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "农民影视",
@@ -1003,7 +1003,7 @@
         "分类url": "https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html",
         "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "巨人影视",
@@ -1017,7 +1017,7 @@
         "分类url": "https://www.jlsjzhyxh.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
         "分类": "短剧$30#电视剧$2#电影$1#动漫$4#综艺$3#伦理$36"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "name": "哔嘀影视",
@@ -1036,7 +1036,7 @@
       "type": 3,
       "api": "csp_Symx",
       "ext": "https://film.symx.club",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "零度影视",
@@ -1045,7 +1045,7 @@
       "api": "csp_Lingdu",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "name": "厂长影视",
@@ -1063,7 +1063,7 @@
       "name": "饺子影视",
       "type": 3,
       "api": "csp_Jiaozi",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "云播影视",
@@ -1071,7 +1071,7 @@
       "type": 3,
       "api": "csp_Tvyb",
       "ext": "http://www.viptv05.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "明星影视",
@@ -1079,7 +1079,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/明星影视.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "nongmin影视",
@@ -1087,7 +1087,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "金牌影院",
@@ -1108,7 +1108,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/3Q.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "555｜影视",
@@ -1119,7 +1119,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/xbpq_555App.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "永乐影视",
@@ -1127,7 +1127,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/YLYS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "麦田影视",
@@ -1135,7 +1135,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/麦田影视.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "韩剧看看",
@@ -1143,7 +1143,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/韩剧看看.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "星空影视",
@@ -1151,7 +1151,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/星空影视.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "巴蜀影视",
@@ -1159,7 +1159,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/巴蜀影视.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "猎手影视",
@@ -1171,7 +1171,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "360资源",
@@ -1211,7 +1211,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "量子资源",
@@ -1247,7 +1247,7 @@
         "日韩综艺",
         "欧美综艺"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "非凡资源",
@@ -1283,7 +1283,7 @@
         "日韩综艺",
         "欧美综艺"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
@@ -1310,7 +1310,7 @@
       "name": "暴风影视",
       "playUrl": "json:http://121.40.174.45:299/sf/2Kshouquan/cache/IP_manager/API.php?url=",
       "type": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/json",
@@ -1385,7 +1385,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "type": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/json",
@@ -1487,7 +1487,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "type": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "4Kvm影视",
@@ -1498,7 +1498,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/4kvm.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "大师兄",
@@ -1510,7 +1510,7 @@
         "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "移动云盘",
@@ -1537,7 +1537,7 @@
         "分类url": "http://www.jibai5.com/vodtype/{cateId}-{catePg}.html",
         "分类": "沙雕动漫$22"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "沙雕",
@@ -1556,7 +1556,7 @@
         "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
         "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "方舟",
@@ -1573,7 +1573,7 @@
         "version": "",
         "ua": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "哆啦新番社",
@@ -1584,7 +1584,7 @@
         "type": "list"
       },
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/DLXFS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "漫国",
@@ -1597,7 +1597,7 @@
         "listKey": "aassddwwxxllsx1x",
         "parsesKey": "aassddwwxxllsx1x"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "元咲",
@@ -1614,7 +1614,7 @@
         "version": "",
         "ua": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "番薯",
@@ -1631,7 +1631,7 @@
         "version": "",
         "ua": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "2k动漫",
@@ -1643,7 +1643,7 @@
         "key": "ygcnbcobcegtgigg",
         "iv": "4058263969143708"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "曼波动漫",
@@ -1658,7 +1658,7 @@
         "deviceId": "",
         "version": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "文才影视",
@@ -1672,14 +1672,14 @@
       "ext": {
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "美剧侠",
       "name": "美剧侠APP",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/美剧侠.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "好莱坞",
@@ -1691,7 +1691,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "八戒影视",
@@ -1703,7 +1703,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "独播库",
@@ -1715,7 +1715,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "kaiduan",
@@ -1727,7 +1727,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "HIFI",
@@ -1739,7 +1739,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "毒蛇",
@@ -1751,7 +1751,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "麻雀视频",
@@ -1763,7 +1763,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "剧永久",
@@ -1775,7 +1775,7 @@
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
         "apisignkey": "lvdoutv-1.0.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "界影视",
@@ -1786,7 +1786,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "yiyingshi",
@@ -1797,7 +1797,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "kkys",
@@ -1809,7 +1809,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "森林动漫",
@@ -1817,7 +1817,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/FeiApp.py",
       "ext": "https://ysa.yy-fun.cc/feiapp",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "4KYS",
@@ -1829,7 +1829,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "py_4KAV",
@@ -1839,7 +1839,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "xdmys",
@@ -1851,7 +1851,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "嘶哩嘶哩",
@@ -1863,7 +1863,7 @@
         "key": "ygcnbcznazmyrbdn",
         "iv": "6571230062143708"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "月亮影视",
@@ -1875,7 +1875,7 @@
         "key": "ygcnbcgeomivjoyn",
         "iv": "8628532671143708"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "即看影视",
@@ -1887,7 +1887,7 @@
         "key": "ygcnbckhcuvygdyb",
         "iv": "4023892775143708"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "剧海影视",
@@ -1895,7 +1895,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/AppMov.py",
       "ext": "http://pqysdq.gxttkeji.cn:2026",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "追新影视大全",
@@ -1903,7 +1903,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/AppMov.py",
       "ext": "http://zxys.gaozhoukj.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "热播影视大全",
@@ -1911,7 +1911,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/RJAPP.py",
       "ext": " http://v.rbotv.cn ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "皮皮",
@@ -1919,7 +1919,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/Applzxw.py",
       "ext": "http://38.55.237.41:8762",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "问鼎",
@@ -1932,7 +1932,7 @@
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
         "apisignkey": "lvdoutv-1.0.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "古魔",
@@ -1945,7 +1945,7 @@
         "key": "1234567887654321",
         "sort": "123456789321654"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "TVB云播",
@@ -1954,7 +1954,7 @@
       "changeable": 0,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/Appfox.py",
       "ext": "http://app.hktvyb.cc",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "未来影视",
@@ -1963,7 +1963,7 @@
       "changeable": 0,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/Appfox.py",
       "ext": "http://kumiao.yzbao.com.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "米兔影视",
@@ -1975,7 +1975,7 @@
         "host": "http://115.190.136.55:1689",
         "cms": "http://d.tv.tkbot.fun/api.php/appfox/vod?ac=videolist"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "老丫",
@@ -1989,7 +1989,7 @@
       "ext": {
         "host": "https://cms99api.ystva.com"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "聚搜2",
@@ -1997,7 +1997,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/AppToV5.py",
       "ext": "http://118.89.203.120:8365/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "新韩剧网",
@@ -2009,7 +2009,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {},
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "短剧网",
@@ -2022,7 +2022,7 @@
         "分类url": "https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html",
         "分类": "女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "茄子短剧",
@@ -2035,7 +2035,7 @@
         "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
         "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "花生短剧",
@@ -2053,7 +2053,7 @@
         "分类url": "https://www.zgeooo.com/hssansw/5---{cateId}-----{catePg}---{year}.html",
         "分类": "全部$0#恋爱$女频恋爱#反转$反转爽#脑洞$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#现代$现代都市"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "全能短剧",
@@ -2132,7 +2132,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/星阁短剧.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "星星短剧",
@@ -2143,7 +2143,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "星阁短剧",
@@ -2154,7 +2154,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "软软短剧",
@@ -2166,7 +2166,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "xtqdj",
@@ -2177,7 +2177,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/甜圈短剧.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "红果短剧",
@@ -2188,7 +2188,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/短剧粉红果.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "围观短剧",
@@ -2199,7 +2199,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/围观短剧.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "海马短剧",
@@ -2207,7 +2207,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/js/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/河马短剧.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "河马短剧",
@@ -2219,7 +2219,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "甜圈短剧",
@@ -2230,7 +2230,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "锦鲤短剧1",
@@ -2242,7 +2242,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "锦鲤短剧2",
@@ -2253,7 +2253,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "name": "锦鲤短剧3",
@@ -2287,7 +2287,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "剧王短剧",
@@ -2298,7 +2298,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "西饭短剧",
@@ -2309,7 +2309,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/稀饭短剧.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/py/七猫短剧.py",
@@ -2319,7 +2319,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "西饭",
@@ -2367,7 +2367,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/热播短剧.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "微云影视",
@@ -2378,7 +2378,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/微云短剧.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "bilibilimd",
@@ -2388,7 +2388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -2406,7 +2406,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "哔哩哔哩听书",
@@ -2424,7 +2424,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "哔哩哔哩相声",
@@ -2442,7 +2442,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "哔哩哔哩小品",
@@ -2460,7 +2460,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -2478,7 +2478,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "啊哈DJ",
@@ -2536,7 +2536,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "面包影视",
@@ -2544,49 +2544,49 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/MBYS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "爱看机器人",
       "name": "爱看影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/爱看机器人.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "山有木兮",
       "name": "山木影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/山有木兮.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "月光影视",
       "name": "月光影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/月光影视.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "厂长APP",
       "name": "厂长影音",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/厂长.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "星辰影院",
       "name": "星辰影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/星辰影院.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "耐看",
       "name": "耐看影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/耐看.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "人人PHP",
@@ -2594,14 +2594,14 @@
       "type": 4,
       "api": "http://jiduo666.dpdns.org/rrsp.php",
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "cat_永乐视频",
       "name": "cat_永乐视频",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/cat_永乐视频.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "腾讯弹幕",
@@ -2609,7 +2609,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/js/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/TXDM.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "优酷弹幕",
@@ -2617,7 +2617,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/js/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/YKDM.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "芒果弹幕",
@@ -2625,7 +2625,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/js/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/MGDM.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "爱奇艺弹幕",
@@ -2633,7 +2633,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/js/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lizaifu2026/df/3309fd26321d59f5440f97bef763a7881ac90c00/lib/AQYDM.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     },
     {
       "key": "push_agent",
@@ -2643,7 +2643,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/lizf.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/lizf.jar"
     }
   ],
   "parses": [
