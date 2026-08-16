@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
   "lives": [
@@ -21,7 +21,7 @@
       "changeable": 0,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "config",
@@ -29,7 +29,7 @@
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "zhizhen1",
@@ -40,7 +40,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "eyJzaXRlIjoiaHR0cHM6Ly93d3cueG4tLTZrcnozMGQuZGU1Lm5ldCIsInNlY3JldCI6IlpoaVpoZW5AMjAyNl8hIyJ9",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Netfixtv",
@@ -52,7 +52,7 @@
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjguY2xpY2siLAogICAgImh0dHBzOi8vcGFuLm1paGRyLnRvcCIsCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjEudG9wIiwKICAgICJodHRwczovL3d3dy5taWhkci50b3AiLAogICAgImh0dHBzOi8vd3d3Lm1pcWsuY2MiCiAgXSwKICAidXJsX2tleSI6ICJOZXRmaXh0diIsCiAgInRva2VuIjogIiIsCiAgInVjQ29va2llIjogIiIsCiAgInF1YXJrQ29va2llIjogIiIKfQ==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Netfixtv2",
@@ -64,7 +64,7 @@
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cuMnhpYW9wYW4udG9wIiwKICAgICJodHRwOi8vd3d3LndleHdwLmNjIiwKICAgICJodHRwczovL3d3dy4yeGlhb3Bhbi5vbmUiLAogICAgImh0dHBzOi8vd3d3LndleHdwLmNjIgogIF0sCiAgInVybF9rZXkiOiAiVUMiLAogICJ0b2tlbiI6ICIiLAogICJ1Y0Nvb2tpZSI6ICIiLAogICJxdWFya0Nvb2tpZSI6ICIiCn0=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Wogg",
@@ -76,7 +76,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Duopan",
@@ -88,7 +88,7 @@
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cDovL3R2cGFucGFuLnNpdGUiLAogICAgImh0dHA6Ly9mZWltby5mdW4iLAogICAgImh0dHA6Ly94aWFvY2dlZ2Uuc2hvcCIsCiAgICAiaHR0cHM6Ly93d3cubW1wYW5wYW4uc2l0ZSIsCiAgICAiaHR0cDovL3d3dy54aWFvY2dlZ2Uuc2hvcCIKICBdLAogICJ1cmxfa2V5IjogIkR1b3BhbjQiCn0=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "天天",
@@ -99,7 +99,7 @@
       "api": "csp_AppRJ",
       "timeout": 12,
       "ext": "http://v.rbotv.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "YunZhenXiang",
@@ -113,7 +113,7 @@
         "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "AiKan_Spider",
@@ -124,7 +124,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://43.248.117.123:4680",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "HkybSpider",
@@ -135,7 +135,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Wwys",
@@ -145,7 +145,7 @@
       "quickSearch": 1,
       "timeout": 12,
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "Osstexll",
@@ -156,7 +156,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Gz360",
@@ -166,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_Gz360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "bubu_spider",
@@ -184,11 +184,11 @@
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "半日99",
-      "name": "☀️半日|┃热门动漫",
+      "name": "☀️半日┃热门影视",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -200,24 +200,14 @@
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_PianKu8",
       "name": "🍬山楂┃热门4K",
       "type": 3,
       "api": "csp_PianKu8",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
-    },
-    {
-      "key": "爱营",
-      "name": "💥爱影┃热门4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "枫叶影视",
@@ -228,7 +218,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.vip1949.com/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "双星99",
@@ -245,7 +235,7 @@
         "buildNumber": "2003",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "ciyuancheng",
@@ -256,7 +246,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMUtaUVIxVEJTUFJZMUhIOEU4V04xWThaSyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3MDM0NDMwLCJuYmYiOjE3ODY0Mjk2MzAsImlhdCI6MTc4NjQyOTYzMH0.epvHnPb8cO-yFfGvA1BnyGzYMDDJrB2YOvbnB9Efb4c\"}",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "稀饭动漫[APP]",
@@ -267,7 +257,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tangsan.fun/config.php?source=xifan",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_duanju",
@@ -276,7 +266,7 @@
       "timeout": 12,
       "genre": "shortdrama",
       "api": "csp_HeMa",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_QM",
@@ -287,7 +277,7 @@
       "genre": "shortdrama",
       "api": "csp_DuanJuAiQiMiao",
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_XY",
@@ -298,7 +288,7 @@
       "genre": "shortdrama",
       "api": "csp_AppXY",
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "88看球",
@@ -315,7 +305,7 @@
       "timeout": 12,
       "order_num": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "瓜子",
@@ -332,7 +322,7 @@
       "timeout": 12,
       "order_num": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Bili",
@@ -350,7 +340,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Czsapp",
@@ -358,7 +348,7 @@
       "type": 3,
       "api": "csp_Czsapp",
       "ext": "https://www.4kcz.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "剧圈99",
@@ -374,7 +364,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "苹果",
@@ -396,7 +386,7 @@
         "version": "1.0.0.3",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "橘汁",
@@ -418,7 +408,7 @@
         "version": "3.0.2.3",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "荐片",
@@ -434,7 +424,7 @@
         "ratio": 1.333
       },
       "ext": "https://api.ztcgi.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_Jpys",
@@ -445,7 +435,7 @@
       "quickSearch": 0,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "csp_MiSou",
@@ -455,7 +445,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_MiSou",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "六月有声",
@@ -470,7 +460,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "酷酷",
@@ -485,7 +475,7 @@
         "type": "oval",
         "ratio": 1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "Live",
@@ -498,7 +488,7 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "TangDou_Spider",
@@ -509,7 +499,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "Aid",
@@ -522,7 +512,7 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "push_agent",
@@ -534,7 +524,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/xiaomi.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     }
   ],
   "parses": [
