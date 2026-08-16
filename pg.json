@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar",
   "sites": [
     {
       "key": "Nostr",
@@ -7,7 +7,7 @@
       "type": 3,
       "api": "csp_Nostr",
       "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "豆瓣",
@@ -18,7 +18,7 @@
       "changeable": 1,
       "indexs": 1,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$./lib/douban.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "TGDouban",
@@ -41,7 +41,7 @@
         "type": "rect",
         "ratio": 0.7
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "网盘配置",
@@ -55,14 +55,14 @@
         "type": "rect",
         "ratio": 1.5
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Local",
       "name": "本地",
       "type": 3,
       "api": "csp_Local",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "FirstAid",
@@ -76,7 +76,7 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "bili",
@@ -92,7 +92,7 @@
         "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
         "cookie": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "TGYunPanLocal",
@@ -114,7 +114,7 @@
         "type": "rect",
         "ratio": 1.77
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "TGYunPan",
@@ -136,7 +136,7 @@
         "type": "rect",
         "ratio": 1.77
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Guanying",
@@ -148,7 +148,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://www.xn--74qz10cqsltibh40akss.com/$$$proxy$$$1$$$./lib/guanying.txt$$$GUANYING",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "FourKZN",
@@ -160,7 +160,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://4kzn.com/$$$noproxy$$$1$$$./lib/4kzn.txt$$$4KZN",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "FourKFox",
@@ -172,7 +172,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$http://4kfox.com/$$$noproxy$$$1$$$./lib/4kfox.txt$$$4KFOX",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "FourKFM",
@@ -184,7 +184,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "校长影视",
@@ -196,7 +196,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Wogg",
@@ -208,7 +208,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "yydsys",
@@ -220,7 +220,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Mogg",
@@ -232,7 +232,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$http://123.666291.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "至臻|网盘",
@@ -244,7 +244,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Hmxz",
@@ -260,7 +260,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Leijing",
@@ -276,7 +276,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "LIBVIO",
@@ -288,7 +288,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$http://www.libvio.mov/$$$noproxy$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Guazi",
@@ -300,7 +300,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Moli",
@@ -312,7 +312,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "ddys",
@@ -324,7 +324,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "美剧迷",
@@ -336,7 +336,7 @@
       "filterable": 1,
       "timeout": 120,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "WebDAV",
@@ -349,7 +349,7 @@
       "timeout": 60,
       "playerType": 2,
       "ext": "https://www.252035.xyz/p/lib/webdav.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "AList",
@@ -362,7 +362,7 @@
       "timeout": 60,
       "playerType": 2,
       "ext": "https://www.252035.xyz/p/lib/alistjar.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "PushShare",
@@ -379,7 +379,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "AlistShare",
@@ -396,7 +396,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "AliShare",
@@ -413,7 +413,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "AliShareEBook",
@@ -430,7 +430,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "QuarkShare",
@@ -447,7 +447,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "123Share",
@@ -464,7 +464,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "189Share",
@@ -481,7 +481,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "ThunderShare",
@@ -498,7 +498,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "UCShare",
@@ -515,7 +515,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "115Share",
@@ -532,7 +532,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "PikPakShare",
@@ -549,7 +549,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "SambaShare",
@@ -562,7 +562,7 @@
       "filterable": 0,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$./lib/sambashare.txt",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Hdhive",
@@ -574,7 +574,7 @@
       "filterable": 1,
       "timeout": 120,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://hdhive.com$$$noproxy$$$1$$$./lib/hdhive.txt",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "TianYiSou",
@@ -586,7 +586,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$null$$$proxy",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "YunPan",
@@ -595,7 +595,7 @@
       "api": "csp_YunPan",
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$null$$$proxy$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "YingSo",
@@ -604,7 +604,7 @@
       "api": "csp_YingSo",
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "混合盘",
@@ -617,7 +617,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "88Pan",
@@ -630,7 +630,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "PanSearch",
@@ -642,7 +642,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$null$$$proxy",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "盘友圈",
@@ -651,7 +651,7 @@
       "api": "csp_Panyq",
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$site$$$proxy",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "易搜",
@@ -664,7 +664,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "秒搜",
@@ -677,7 +677,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Funletu",
@@ -693,7 +693,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "QuarkPanso",
@@ -709,7 +709,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Panta",
@@ -725,7 +725,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "DaPanSo",
@@ -737,7 +737,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "PikaSo",
@@ -753,7 +753,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Qianfan",
@@ -765,7 +765,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "YunSo",
@@ -781,7 +781,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "YunPanOne",
@@ -793,7 +793,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$null$$$proxy$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "新6V",
@@ -804,7 +804,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "索尼资源",
@@ -848,7 +848,7 @@
       ],
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "UP云搜",
@@ -861,7 +861,7 @@
         "type": "list",
         "ratio": 1.1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "BLSGod",
@@ -870,7 +870,7 @@
       "api": "csp_BLSGod",
       "changeable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "SeedHub",
@@ -879,7 +879,7 @@
       "api": "csp_SeedHub",
       "changeable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "ikun",
@@ -890,7 +890,7 @@
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "暴風",
@@ -900,7 +900,7 @@
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "索尼",
@@ -910,7 +910,7 @@
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "量子",
@@ -921,7 +921,7 @@
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "非凡",
@@ -963,7 +963,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "異界",
@@ -972,7 +972,7 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "drpy_js_Alist",
@@ -983,7 +983,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://www.252035.xyz/p/js/alist.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "酷狗",
@@ -992,7 +992,7 @@
       "api": "csp_Kugou",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "Yinyuetai",
@@ -1001,7 +1001,7 @@
       "api": "csp_Yinyuetai",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "push_agent",
@@ -1011,7 +1011,7 @@
       "changeable": 0,
       "timeout": 30,
       "ext": "https://www.252035.xyz/p/lib/tokenm.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "應用商店",
@@ -1021,7 +1021,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://fm.t4tv.hz.cz/json/market.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     },
     {
       "key": "直播转点播",
@@ -1030,7 +1030,7 @@
       "searchable": 0,
       "api": "https://www.252035.xyz/p/lib/live2vod.js",
       "ext": "https://www.252035.xyz/p/lib/feimaolive.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/pg.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/pg.jar"
     }
   ],
   "lives": [
