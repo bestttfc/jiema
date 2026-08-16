@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar",
   "wallpaper": "",
   "logo": "",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -10,7 +10,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "配置中心",
@@ -24,14 +24,14 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "本地",
       "name": "本地 ｜ 视频",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "预告",
@@ -39,7 +39,7 @@
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "热播影视",
@@ -52,7 +52,17 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
+    },
+    {
+      "key": "一起影视",
+      "name": "一起｜秒播",
+      "type": 3,
+      "api": "csp_AppYQK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "枫叶影视",
@@ -60,27 +70,18 @@
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
-      "key": "半日99",
-      "name": "半日 ｜秒播",
+      "key": "山楂影视",
+      "name": "山楂 ｜影视（ok壳子用）",
       "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName": "3.5.8",
-        "name": "半日闲",
-        "package": "com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/xiaosa.jar",
+      "api": "csp_PianKu8"
     },
     {
       "key": "怀桑",
-      "name": "怀桑 ｜秒播",
+      "name": "怀桑｜秒播",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -92,7 +93,23 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
+    },
+    {
+      "key": "爱影",
+      "name": "爱影 ｜秒播",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/q26.txt",
+        "dataKey": "0UKM8jkasM8tdzgW",
+        "dataIv": "0UKM8jkasM8tdzgW",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "云朵影视",
@@ -109,7 +126,7 @@
         "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
         "ver": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "三秋影视",
@@ -126,7 +143,35 @@
         "sk": "SK-thanks",
         "ver": "6"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
+    },
+    {
+      "key": "不戳",
+      "name": "不戳 ｜秒播",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcmszbc.zbc4k.app",
+        "dataKey": "pYrEkiWRYhBLTUTC",
+        "dataIv": "pYrEkiWRYhBLTUTC"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
+    },
+    {
+      "key": "魔方",
+      "name": "魔方 ｜秒播",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://www.douy32mf.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "茶杯狐[影]",
@@ -136,7 +181,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "共青春",
@@ -146,7 +191,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "牛牛js",
@@ -156,14 +201,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
-    },
-    {
-      "key": "山楂影视",
-      "name": "山楂 ｜影视（ok壳子用）",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/xiaosa.jar",
-      "api": "csp_PianKu8"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "马猴影视",
@@ -173,7 +211,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "可可影视",
@@ -183,7 +221,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "电影人生js",
@@ -193,7 +231,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "新瓜子影视",
@@ -203,7 +241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "4k",
@@ -219,7 +257,7 @@
         "dataIv": "FTgP4Gq8zPiqbt7M",
         "api": 2
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "88影视_js",
@@ -229,7 +267,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "豌豆",
@@ -239,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "猪猪影院_js",
@@ -249,7 +287,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "开心影院_js",
@@ -259,7 +297,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "小鸭子看看_js",
@@ -269,7 +307,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "BT",
@@ -279,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "金桔_js",
@@ -289,7 +327,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "4K影视",
@@ -300,7 +338,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "mafa",
@@ -310,7 +348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "七猫",
@@ -320,7 +358,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "柯南影视",
@@ -331,7 +369,128 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
+    },
+    {
+      "name": "①线｜秒播",
+      "key": "AppV7Fz",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "②线｜秒播",
+      "key": "AppV7Xy",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xy"
+    },
+    {
+      "name": "③线｜秒播",
+      "key": "AppV7Zjdr",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Zjdr"
+    },
+    {
+      "name": "④线｜秒播",
+      "key": "AppV7Xyz",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xyz"
+    },
+    {
+      "name": "⑤线｜秒播",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "name": "⑥线｜秒播",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Mtq"
+    },
+    {
+      "name": "⑦线｜秒播",
+      "key": "AppV7Llq",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Llq"
+    },
+    {
+      "name": "⑧线｜秒播",
+      "key": "AppV7Xsz",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xsz"
+    },
+    {
+      "name": "⑨线｜秒播",
+      "key": "AppV7Xhr",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xhr"
+    },
+    {
+      "name": "师兄｜秒播",
+      "key": "AppV7Dsx",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Dsx"
+    },
+    {
+      "name": "特狗｜秒播",
+      "key": "AppV6Tg",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV6Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV6Tg"
     },
     {
       "key": "大众影视",
@@ -342,114 +501,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
-    },
-    {
-      "key": "4K影院",
-      "name": "光影｜秒播",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/XM.png",
-      "api": "csp_AppGet",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-    },
-    {
-      "key": "CupFox",
-      "name": "茶杯｜4K",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "api": "csp_CupFox",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "PianKu8",
-      "name": "片库┆4K",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "api": "csp_PianKu8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://qkys.qukanwh.com"
-    },
-    {
-      "key": "BuBu",
-      "name": "布布┆4K",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "api": "csp_BuBu",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "景仪",
-      "name": "景仪┆4K",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "api": "csp_App88",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "AScEBDU8ZGTviWgGR4VE0GGkVwxm9FRojDfGdLd7Uq6yQW7ma68i5+t2StAnXVayevGqI3Kb0rJi2eqa1R3PW9cxHiFDbXAhtGajyY69GUpDZQ615h6l9jBlh/RMkOo3RfAvtXJdZasUTDhxflfJPCn0T5P68L/XHUV9ylgYmABoOSghqLVoMUNWDS5E2PAMVkm39vpIJOyKNEIhVd3EQmPxDSjSoDE56akhNdBPWsT+tZVbLO8rEccdRYGvxYsXmVjhxaXhmzQEoEme5LF/0+x+M2A880NZ5akhrKIl5ZjfREZCgQ6FClx7+L8f8fb2VNiLtFu5538MrSRozjub6WRKe1m5OOdgdOTsAXJXw5QG5IQ/Y/i9VBZTZUjqP+0TpP4h92QjLynjJAFzwSr3bAOOIvEJW2LsK+hocK72wpyVG93vl42XQpU5s95dAVJOOOnbawZUsOq8a0ctuSsSdWQ="
-    },
-    {
-      "key": "枫眠",
-      "name": "枫眠┆4K",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AcfD7zVpQ/BXUN8kr7QyOuy8EGynlmV43purvZ/Q6vh0G+/zxmYTnl1TVxs16PqtZNzVbGTHZCi39PA5ajhXxhTarRfFdlQ5D2hJnU6hdqXgWkaERmRX+jTzArHWSZuTHH52mvPd4s2puv4cJlgE8Amm+Vu7oXDj7LwAWAgPp6O2kJQGDdUCLyK7VXTBJJMPQQ=="
-    },
-    {
-      "key": "悯善",
-      "name": "悯善┆4K",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "api": "csp_App88",
-      "ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
-    },
-    {
-      "key": "长泽",
-      "name": "长泽┆4K",
-      "type": 3,
-      "api": "csp_App88",
-      "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
-    },
-    {
-      "key": "清沅",
-      "name": "清沅┆4K",
-      "api": "csp_AppNox",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "type": 3,
-      "ext": "ASjKEhQKe/DZHt0fbLID47aB3aYcWUG5aIPwrmTCgGinaSykux5CZpbz57zl1moRZGFkoEXqk7decpKNU6W/p/6OTfj3JWvZtr89yPZSxNyjJm1Il5upXQT68sXR/0WG392H71MN7Q8NC8xkSOuwAq7EfX2cuHMsiqFeCCugzAiINUiEqvboCFdXiI97C6kqqqiaQIS9d+R1r7krr5vQXWtky7XJNsiK5ACjppyTh68cbONYIcgLp5Kg5woh/wj9xmNT6mFGqF2D3j2RUaLoWYf+K1+ltBiuzZ7THWKwrnpBBig8XUAG3lXNXiFhPILyYWfr+1j/UoInhNITzJJ+SSRc88KmOk5kpch+idGzVMzHIq/bLpRRxE0iV8Qdtc2atKF9QUqPXJLrwv21Dl+nxgPEGOZ+71L+gABeQdvXO7xvyzUnd+rOidPJr1mBsfu9ySbcqHkhL5EIEQpGHwRhG/yN3Y5xj0BU+SdSxnDo+CwMC+g+WCts34c2u8h2tz7G5vuTw8QvDF23kF/BZeD2QaoCBAd3SDG9ObAichfuO1nDa938+Ul+iekNOEPtPFr6k5o+px/JJkE7MKYhekE/2JfmIkbkBHdnewJYckdM37/9EKsnAozbDyFKhfKR06Es52KtuAhGyh1B8uyfsj33qFpreAqGam8kjEHdYA0i832o0BtTU2gS3mf3NoijVH/XNmlJRuNXo9yYxdjuip4Eq4iqIgajM16MGAIJ0rumYhxJ5uJUFDlf55b9iS+DvJ8wotnBvfdINpAaeXPPlVc/1JDp1rIOw0qg2XIRAafLL7kzXnW8djs2dPSQU1+j9LIrfQ6u3k4lqUs9gRMW1JhwC/4iqimnwg0KsVValaplt+fxFHhwCCkS45uLf8BaY+UZtp5ZDffbi3Q0EDAK8F210Bzd5l8W8MokURUSj374Z7y2hAROBAAgZ8qWRrFOmBC+I+LUCm7sV4h7Mwdpe8sDAtxBhxOpBAYyV8eACQsDbnQsBvizlafy16ptRrArViG0uB1VSPqvi8gqcFD1zMl+uRo="
-    },
-    {
-      "key": "zhiqiu",
-      "name": "听风┆知秋",
-      "type": 3,
-      "api": "csp_zhiqiu",
-      "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/zhiqiu.php",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
-    },
-    {
-      "key": "Kan360",
-      "name": "三六┆影视",
-      "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/jars/fish08022249.jar",
-      "api": "csp_Kan360",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": {
-        "filter": "https://open.wya6.com/d/down/2026/json/360.json",
-        "fishjx": [
-          "https://jx.xmflv.com/?url="
-        ]
-      }
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "荐片_js",
@@ -459,7 +511,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "看剧影视",
@@ -467,7 +519,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/AppToV5.py",
       "ext": "http://43.248.117.123:4680",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "iQiYi影视",
@@ -477,14 +529,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "独播影视",
       "name": "独播库｜影视",
       "type": 3,
       "api": "csp_Duboku",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "映画",
@@ -498,7 +550,7 @@
         "dataKey": "bM7iC9eA3oZ1nB7z",
         "dataIv": "bM7iC9eA3oZ1nB7z"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "文才",
@@ -511,7 +563,7 @@
       "ext": {
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "农民影视",
@@ -519,7 +571,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "金牌",
@@ -536,14 +588,14 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "荐片",
       "name": "荐片｜磁力",
       "api": "csp_JianPian",
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "麻雀",
@@ -553,7 +605,7 @@
       "searchable": 1,
       "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
       "ext": "http://118.89.203.120:8365/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "农民",
@@ -575,7 +627,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "name": "夏天｜秒播",
@@ -597,7 +649,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "柠檬",
@@ -614,14 +666,14 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/py/ppx.py",
       "ext": "http://43.248.117.123:468",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "三秋影视",
       "name": "三秋｜APP",
       "type": 3,
       "api": "csp_App3Q",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "韩圈",
@@ -629,7 +681,7 @@
       "type": 3,
       "api": "csp_Hxq",
       "ext": "http://www.小不点.com/api/2026/fishhxq.php",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "bubutv",
@@ -639,7 +691,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "先生┃晓飒",
@@ -647,7 +699,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/js/先生.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "裤佬独家免扫4K",
@@ -677,7 +729,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "橘汁",
@@ -698,7 +750,7 @@
         "version": "3.0.2.1",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "华谊",
@@ -719,7 +771,7 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "苹果",
@@ -740,7 +792,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "薯条",
@@ -761,7 +813,7 @@
         "version": "5.0.0.1",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "久久",
@@ -772,7 +824,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://99cms.jj99.icu:8199/api.php/app/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "闪影",
@@ -783,7 +835,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "飞飞",
@@ -794,7 +846,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "19005",
@@ -804,7 +856,7 @@
       "searchable": 1,
       "filterable": 1,
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "金牌",
@@ -821,7 +873,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "老鹰",
@@ -836,7 +888,7 @@
         "dataIv": "zxPtEUDGVllIUhDB",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "蓝鹰",
@@ -852,7 +904,7 @@
         "init": "initV120",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "猎豹",
@@ -866,7 +918,7 @@
         "dataKey": "#getapp@TMD@2025",
         "dataIv": "#getapp@TMD@2025"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "王子",
@@ -880,7 +932,7 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "秒看",
@@ -895,7 +947,7 @@
         "dataIv": "c60d88b2eep53za8",
         "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "茉莉",
@@ -909,7 +961,7 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "灵虎",
@@ -923,7 +975,7 @@
         "dataKey": "#getapp@TMD@2025",
         "dataIv": "#getapp@TMD@2025"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩视频",
@@ -941,14 +993,14 @@
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "三六零",
       "name": "三六零｜视频",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "玩偶",
@@ -967,7 +1019,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "快映",
@@ -984,7 +1036,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "木偶",
@@ -1004,7 +1056,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "蜡笔",
@@ -1025,7 +1077,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "至臻",
@@ -1044,7 +1096,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "多多",
@@ -1063,7 +1115,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "欧哥",
@@ -1083,7 +1135,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "二小",
@@ -1104,7 +1156,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "虎斑",
@@ -1121,7 +1173,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "短木",
@@ -1138,7 +1190,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "夸父",
@@ -1159,7 +1211,7 @@
         "cookie": "bbs_sid=p5mugcm9r147o1d3qpi0su1ucm; bbs_token=gDMAOehNUQetTJv9Lnet0J_2FGJmgdvnx90iTZqzU_2FnO0_3D"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "123",
@@ -1180,7 +1232,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "指南",
@@ -1191,7 +1243,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "人人",
@@ -1202,7 +1254,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "即刻",
@@ -1216,7 +1268,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "双星",
@@ -1230,7 +1282,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "笒鬼短剧",
@@ -1242,7 +1294,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "好看短剧",
@@ -1254,7 +1306,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "星芽短剧",
@@ -1266,7 +1318,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "果果短剧",
@@ -1279,7 +1331,7 @@
         "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
         "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "厂长影视",
@@ -1290,7 +1342,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cz01.vip",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "金牌影视",
@@ -1298,7 +1350,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "修罗影视",
@@ -1306,14 +1358,14 @@
       "api": "csp_Xlys",
       "type": 3,
       "ext": "https://www.xlysw.ggff.net",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "云播影视",
       "name": "云播｜影视",
       "type": 3,
       "api": "csp_Tvyb",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "骚火影视",
@@ -1321,7 +1373,7 @@
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "农民影视",
@@ -1329,7 +1381,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "爱看机器人",
@@ -1339,7 +1391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "小镇影视",
@@ -1347,7 +1399,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/XZYS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "面包影视",
@@ -1355,7 +1407,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/MBYS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "永乐影视",
@@ -1363,7 +1415,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/YLYS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "剧圈影视",
@@ -1371,7 +1423,7 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/JQYS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "1905",
@@ -1381,7 +1433,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哆啦新番社",
@@ -1392,7 +1444,7 @@
         "type": "list"
       },
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/DLXFS.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "Anime1",
@@ -1400,7 +1452,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/Anime1.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "漫国动漫",
@@ -1414,7 +1466,7 @@
         "listKey": "aassddwwxxllsx1x",
         "parsesKey": "aassddwwxxllsx1x"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "方舟动漫",
@@ -1427,7 +1479,7 @@
         "dataKey": "e72cdfd629e8895d",
         "dataIv": "e72cdfd629e8895d"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "曼波动漫",
@@ -1440,7 +1492,7 @@
         "dataKey": "66dc309cbeeca454",
         "dataIv": "66dc309cbeeca454"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "咕咕动漫",
@@ -1453,7 +1505,7 @@
         "dataKey": "nKfZ8KX6JTNWRzTD",
         "dataIv": "nKfZ8KX6JTNWRzTD"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "巴士动漫",
@@ -1461,7 +1513,7 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/BSDM.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "路漫漫",
@@ -1469,7 +1521,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/LMM.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "去看吧",
@@ -1477,14 +1529,14 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/QKB.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "荐片",
       "name": "荐片｜磁力",
       "api": "csp_JianPian",
       "type": 3,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "七味",
@@ -1495,7 +1547,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.qwshow.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com,https://www.qnnull.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "New6v",
@@ -1506,7 +1558,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "美剧迷",
@@ -1516,7 +1568,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "迅雷吧",
@@ -1527,7 +1579,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xunlei8.me",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "电影港",
@@ -1538,7 +1590,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/DYG.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "阿里云盘",
@@ -1552,7 +1604,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "夸克网盘",
@@ -1566,7 +1618,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "UC网盘",
@@ -1580,7 +1632,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "百度网盘",
@@ -1594,7 +1646,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "盘搜",
@@ -1605,7 +1657,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "古哥",
@@ -1616,7 +1668,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "兄弟",
@@ -1627,7 +1679,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "百酷",
@@ -1638,7 +1690,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "米搜",
@@ -1649,7 +1701,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "鬼鬼",
@@ -1660,7 +1712,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "混合",
@@ -1671,7 +1723,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "天翼",
@@ -1682,7 +1734,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "趣盘",
@@ -1693,7 +1745,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "88看球",
@@ -1704,7 +1756,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "球通体育",
@@ -1714,7 +1766,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "瓜子体育",
@@ -1724,7 +1776,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "咖啡体育",
@@ -1734,7 +1786,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "919体育",
@@ -1744,7 +1796,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "呦呦DJ",
@@ -1754,7 +1806,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "轮回DJ",
@@ -1764,7 +1816,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "蜻蜓FM",
@@ -1774,7 +1826,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "世界听书",
@@ -1784,7 +1836,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "戏曲多多",
@@ -1794,28 +1846,28 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "爱听音乐",
       "name": "爱听｜音乐",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/爱听音乐.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "网络直播",
       "name": "网络｜直播",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/WLZB.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩直播",
       "name": "哔哩｜直播",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/BLZB.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩合集",
@@ -1834,7 +1886,7 @@
         "json": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/lib/BLHJ.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩哔哩演唱会",
@@ -1852,7 +1904,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩哔哩听书",
@@ -1870,7 +1922,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩哔哩相声",
@@ -1888,7 +1940,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩哔哩小品",
@@ -1906,7 +1958,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -1924,7 +1976,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "少儿教育",
@@ -1942,7 +1994,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "小学课堂",
@@ -1960,7 +2012,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "初中课堂",
@@ -1978,7 +2030,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "高中课堂",
@@ -1996,7 +2048,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "急救教学",
@@ -2011,7 +2063,7 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "养生堂",
@@ -2025,7 +2077,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
       "key": "push_agent",
@@ -2035,7 +2087,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/llllo_api.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     }
   ],
   "lives": [
