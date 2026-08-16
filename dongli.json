@@ -2,7 +2,7 @@
   "logo": "./assets/logo2025121201.png",
   "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用！",
   "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar",
   "sites": [
     {
       "key": "Douban",
@@ -11,7 +11,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "配置",
@@ -25,7 +25,7 @@
         "ratio": 1.433
       },
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/configcenter.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "金牌影视",
@@ -35,7 +35,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "山楂影视",
@@ -46,7 +46,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "瓜子影视",
@@ -57,7 +57,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "jianpian",
@@ -67,7 +67,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/jianpian.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "Xb6v",
@@ -76,7 +76,7 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "热播影视",
@@ -91,7 +91,7 @@
           "http://v.rbotv.cn"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "wogg",
@@ -112,7 +112,7 @@
           "https://wogg.xxooo.cf/"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "木偶",
@@ -131,7 +131,7 @@
           "https://www.muou.asia"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "蜡笔",
@@ -154,7 +154,7 @@
           "http://xiaocgege.shop"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "至臻",
@@ -175,7 +175,7 @@
           "https://www.zhizhenpan.fun"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "多多",
@@ -193,7 +193,7 @@
           "https://tv.214521.xyz"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "欧哥",
@@ -213,7 +213,7 @@
           "https://woog.装歌.de5.net"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "二小",
@@ -233,7 +233,7 @@
           "https://www.2xiaopan.top"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "虎斑",
@@ -249,7 +249,7 @@
           "http://38.76.197.172:16969"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "老张",
@@ -266,7 +266,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "小飒",
@@ -282,7 +282,7 @@
           "http://xsayang.fun:12512"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "Libvio",
@@ -293,7 +293,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "https://www.libvio.io",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "KuaKeS",
@@ -304,7 +304,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {},
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "人人",
@@ -315,7 +315,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "FourKZn",
@@ -325,7 +325,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "Huya",
@@ -341,7 +341,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "Douyu",
@@ -357,7 +357,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "KuaiShou",
@@ -371,7 +371,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "BiliLive",
@@ -387,21 +387,21 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "哔哩直播py",
       "name": "🌇｜哔哩｜直播",
       "type": 3,
       "api": "https://chigua.eu.org/py/哔哩直播.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "网络直播",
       "name": "🌇｜网络｜直播",
       "type": 3,
       "api": "https://chigua.eu.org/py/网络直播.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "腾腾视频",
@@ -409,7 +409,7 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "酷酷视频",
@@ -417,7 +417,7 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "果果视频",
@@ -425,7 +425,7 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/MGSP.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "奇奇视频",
@@ -433,14 +433,14 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "360影视",
       "name": "🎇｜六零｜影视",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "火狐",
@@ -454,7 +454,7 @@
         "dataKey": "huohushipingetap",
         "dataIv": "huohushipingetap"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "王子",
@@ -468,7 +468,7 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "天堂",
@@ -505,7 +505,7 @@
         "短剧",
         "动画片"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "360资源",
@@ -545,7 +545,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "非凡",
@@ -585,7 +585,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "量子",
@@ -630,7 +630,7 @@
         "网球",
         "斯诺克"
       ],
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "juheduanju",
@@ -639,7 +639,7 @@
       "api": "csp_JuheShortDrama",
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "HeMa",
@@ -649,7 +649,7 @@
       "searchable": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "七星短剧",
@@ -660,7 +660,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "星芽短剧",
@@ -672,7 +672,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "genre": "shortdrama",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "xiqu",
@@ -680,7 +680,7 @@
       "type": 3,
       "api": "csp_Xiqu",
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "CNTV",
@@ -692,7 +692,7 @@
         "ratio": 1.433
       },
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "蜻蜓FM",
@@ -700,14 +700,14 @@
       "type": 3,
       "api": "csp_QingTing",
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "爱听音乐py",
       "name": "♦｜爱听｜音乐",
       "type": 3,
       "api": "https://chigua.eu.org/py/爱听音乐.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "tingchina",
@@ -716,7 +716,7 @@
       "api": "csp_TingChina",
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "bilibili",
@@ -733,7 +733,7 @@
         "json": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/bilibili.json",
         "cookie": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "哔哩哔哩演唱会",
@@ -751,7 +751,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "哔哩哔哩听书",
@@ -769,7 +769,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "哔哩哔哩相声",
@@ -787,7 +787,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "哔哩哔哩小品",
@@ -805,7 +805,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -823,7 +823,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "少儿教育",
@@ -841,7 +841,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "小学课堂",
@@ -859,7 +859,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "初中课堂",
@@ -877,7 +877,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "高中课堂",
@@ -895,7 +895,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "哔哩影视",
@@ -914,7 +914,7 @@
         "json": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/blys.json",
         "cookie": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "Jzb",
@@ -930,7 +930,7 @@
       "ext": {
         "sites": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "88看球",
@@ -943,7 +943,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "瓜子体育",
@@ -953,7 +953,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
@@ -999,7 +999,7 @@
         "dataKey": "e72cdfd629e8895d",
         "dataIv": "e72cdfd629e8895d"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "曼波动漫",
@@ -1012,7 +1012,7 @@
         "dataKey": "66dc309cbeeca454",
         "dataIv": "66dc309cbeeca454"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "咕咕动漫",
@@ -1025,7 +1025,7 @@
         "dataKey": "nKfZ8KX6JTNWRzTD",
         "dataIv": "nKfZ8KX6JTNWRzTD"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "DmBus",
@@ -1035,7 +1035,7 @@
       "searchable": 1,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "push_agent",
@@ -1046,7 +1046,7 @@
       "searchable": 0,
       "changeable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "急救教学",
@@ -1061,7 +1061,7 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "本地文件",
@@ -1070,7 +1070,7 @@
       "searchable": 0,
       "changeable": 0,
       "api": "csp_Local",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "WebDAV",
@@ -1081,7 +1081,7 @@
       "filterable": 1,
       "changeable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "Samba",
@@ -1092,7 +1092,7 @@
       "filterable": 1,
       "changeable": 0,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "localdb",
@@ -1104,7 +1104,7 @@
       "changeable": 0,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "song_1a48b",
@@ -1116,7 +1116,7 @@
       "changeable": 0,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "networkdb",
@@ -1128,7 +1128,7 @@
       "changeable": 0,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "myuc",
@@ -1145,7 +1145,7 @@
       },
       "timeout": 30,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/myuc.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "myquark",
@@ -1162,7 +1162,7 @@
       },
       "timeout": 30,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/myquark.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "mybaidu",
@@ -1179,7 +1179,7 @@
       },
       "timeout": 30,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/mybaidu.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "myxunlei",
@@ -1196,7 +1196,7 @@
       },
       "timeout": 30,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/myxunlei.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "myali",
@@ -1213,7 +1213,7 @@
       },
       "timeout": 30,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/myali.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "mytianyi",
@@ -1229,7 +1229,7 @@
         "type": "list"
       },
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "商店",
@@ -1243,7 +1243,7 @@
         "ratio": 1.1
       },
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/config/market.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSouQuark",
@@ -1259,7 +1259,7 @@
           "夸克"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSouUc",
@@ -1275,7 +1275,7 @@
           "UC"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSouXunlei",
@@ -1291,7 +1291,7 @@
           "迅雷"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSouAli",
@@ -1307,7 +1307,7 @@
           "阿里"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSouBaidu",
@@ -1323,7 +1323,7 @@
           "百度"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSou123",
@@ -1339,7 +1339,7 @@
           "123盘"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSou189",
@@ -1355,7 +1355,7 @@
           "天翼"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSou139",
@@ -1371,7 +1371,7 @@
           "移动"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     },
     {
       "key": "PanSouMagnet",
@@ -1387,7 +1387,7 @@
           "磁力"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ttfc8/jiemi/main/dongli.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/dongli.jar"
     }
   ],
   "lives": [
