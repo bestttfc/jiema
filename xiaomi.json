@@ -32,17 +32,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
-      "key": "zhizhen1",
-      "name": "🚀臻彩┃高峰不卡*网盘4K",
-      "type": 3,
-      "api": "csp_ZhiZhen",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "eyJzaXRlIjoiaHR0cHM6Ly93d3cueG4tLTZrcnozMGQuZGU1Lm5ldCIsInNlY3JldCI6IlpoaVpoZW5AMjAyNl8hIyJ9",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
       "key": "csp_Netfixtv",
       "name": "🚀臻臻┃高峰不卡*网盘4K",
       "type": 3,
@@ -138,6 +127,21 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
+      "key": "爱影视",
+      "name": "🚀爱影┃高清影视",
+      "type": 3,
+      "api": "csp_WhaleApp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "proxy": "https://www.tangsan.fun/jingyu.php",
+        "site": "aiyingshi",
+        "pic": "http://222.211.75.252:23433"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
       "key": "csp_Wwys",
       "name": "🌾农民┃高清影视",
       "type": 3,
@@ -172,7 +176,7 @@
       "key": "bubu_spider",
       "name": "🌺大鹅┃高清影视",
       "type": 3,
-      "api": "csp_DuoDuo",
+      "api": "csp_YunDuo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -183,6 +187,23 @@
         "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "yunduo",
+      "name": "🌺云朵┃高清影视",
+      "type": 3,
+      "api": "csp_YunDuo",
+      "ext": {
+        "host": "https://y23xxa23duo12.xyz",
+        "web_sign": "yda81x6d9ad3c4s",
+        "x_client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "need_login": true,
+        "account_url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/zhanghao.json",
+        "dev": "com.web.player.6c3b998c",
+        "id": "WF-9e14d752872961ca1f5f125a6607c2712535b8d8b5c1294423c2da8436a41000",
+        "sk": "WEB-df5526941b0e3165d0a8485119ca3628b45f2b4a5c4b888bf01645a7060e1638"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
@@ -245,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMUtaUVIxVEJTUFJZMUhIOEU4V04xWThaSyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3MDM0NDMwLCJuYmYiOjE3ODY0Mjk2MzAsImlhdCI6MTc4NjQyOTYzMH0.epvHnPb8cO-yFfGvA1BnyGzYMDDJrB2YOvbnB9Efb4c\"}",
+      "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMU0wOVlTOURRMlpGN1I5SERYRFg4RloySyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3NjQ1NDcxLCJuYmYiOjE3ODcwNDA2NzEsImlhdCI6MTc4NzA0MDY3MX0.OLhIujYjpo6H2RNhjCQ7jln9SxHzYshnDSA4HmwffDM\"}",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
@@ -513,6 +534,22 @@
         "ratio": 3.8
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "弹幕",
+      "name": "弹幕(测试)",
+      "type": 3,
+      "jar": "https://img.bj0yx.com/5556404903854080;md5;c1fd2e2b4af4d5112a691e583bfb5208",
+      "api": "csp_SecureDanmu",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "https://danmu.0000996.xyz/87654321|公益源",
+          "https://dm.wodenas.xin/xiatianembydmkk|公益源1",
+          "https://uzdm.616222.xyz|uz公益源"
+        ],
+        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
+      }
     },
     {
       "key": "push_agent",
