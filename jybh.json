@@ -77,22 +77,32 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
-      "key": "极影",
+      "key": "新腾极4k",
       "name": "❤主04┃3840",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极影.js",
+      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://8.148.229.212:802/4k踏天s2/lib/4k踏天TX.js"
     },
     {
-      "key": "csp_PianKu8",
+      "key": "爱影视",
       "name": "❤主05┃3840",
       "type": 3,
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
-      "api": "csp_PianKu8"
+      "api": "csp_WhaleApp",
+      "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "proxy": "https://www.tangsan.fun/jingyu.php",
+        "site": "aiyingshi",
+        "pic": "http://222.211.75.252:23433"
+      }
     },
     {
       "key": "枫叶影视",
@@ -148,12 +158,15 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
-      "key": "新首发",
+      "key": "极影",
       "name": "❤主09┃3840",
       "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极影.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
       "key": "瓜子影视",
@@ -276,6 +289,14 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
+      "key": "新首发",
+      "name": "🌀主11｜1920",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+    },
+    {
       "key": "电影港",
       "name": "🧲磁力01",
       "type": 3,
@@ -307,136 +328,42 @@
   ],
   "parses": [
     {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "机缘宝盒",
-      "type": 1,
-      "url": "http://61.184.23.217:6163/api/index?parsesId=4&appid=10002&videoUrl="
-    },
-    {
-      "name": "机",
-      "type": 1,
-      "url": "http://103.236.55.163:6565/api/index?parsesId=4&appid=10000&videoUrl="
-    },
-    {
-      "name": "缘",
-      "type": 1,
-      "url": "http://125.208.22.184:6019/api/index?parsesId=550266&appid=10000&videoUrl="
-    },
-    {
-      "name": "宝",
-      "type": 1,
-      "url": "http://114.66.29.121:91//api/index?parsesId=23&appid=10006&videoUrl="
-    },
-    {
-      "name": "盒",
-      "type": 1,
-      "url": "http://zz2.mftv.top/api/index?parsesId=3&appid=10006&videoUrl=",
-      "ext": {
-        "header": {
-          "Accept": "*/*",
-          "Origin": "https://jx.xmflv.com"
-        }
-      }
-    },
-    {
-      "name": "宝盒解析",
-      "type": 1,
-      "url": "https://jiexi.jdyx.pro/api/?key=c87681c93d5e430cacd351f00e831aa5&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
       "name": "测试解析",
       "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=voxjx&url="
+      "url": "http://101.201.171.207:8686/api/?key=tlQQtzS18h1fcEEFSo&url="
     },
     {
-      "name": "手动解析①",
+      "name": "云解",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "http://101.201.171.207:8686/api/?key=tlQQtzS18h1fcEEFSo&url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
         }
       }
     },
     {
-      "name": "手动解析②",
+      "name": "测试",
       "type": 0,
-      "url": "https://jx.nnxv.cn/tv.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "手动解析③",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "手动解析④",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "手动解析⑤",
-      "type": 0,
-      "url": "https://okjx.cc/?url=",
+      "url": "http://101.201.171.207:8686/api/?key=tlQQtzS18h1fcEEFSo&url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
     }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
   ],
   "doh": [
     {
