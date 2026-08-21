@@ -42,6 +42,16 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
     },
     {
+      "key": "汽水音乐",
+      "name": "汽水｜音乐",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/main/py/汽水音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/llllo_api.jar"
+    },
+    {
       "key": "热播影视",
       "name": "热播｜APP",
       "type": 3,
