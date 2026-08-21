@@ -513,7 +513,9 @@
       "api": "csp_WoNiu",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://max.moyu666666.top/woniu_invite.php",
+      "ext": {
+        "site": "https://wn4k.com/"
+      },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
     },
     {
