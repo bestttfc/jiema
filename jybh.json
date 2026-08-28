@@ -37,11 +37,14 @@
       "ext": ""
     },
     {
-      "key": "csp_PianKu8",
+      "key": "4K影视",
       "name": "❤主02┃3840",
       "type": 3,
+      "api": "csp_AppGet",
       "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
-      "api": "csp_PianKu8"
+      "quickSearch": 1,
+      "timeout": 12,
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
       "key": "橘汁",
@@ -108,37 +111,29 @@
       "ext": "https://www.vip1949.com/"
     },
     {
-      "key": "yunduo",
+      "key": "枫眠",
       "name": "❤主07┃3840",
       "type": 3,
-      "api": "https://www.lnjubao.cn/minio-jbpt/upload/20260828/22c3cface9574d1ff81334e9b33e6d17.js",
-      "ext": {
-        "host": "https://duoduotv.top",
-        "pkg": "com.sunshine.tv",
-        "sk": "SK-thanks",
-        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-        "ver": "7",
-        "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "api": "csp_AppGet",
+      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
     },
     {
-      "key": "bubu_spider",
+      "key": "半日99",
       "name": "❤主08┃3840",
       "type": 3,
-      "api": "csp_DuoDuo",
-      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_App99",
+      "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
       "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-        "aid": "com.web.player",
-        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-        "sign": "ddtvf65f3a83d6d9ad6f"
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       }
     },
     {
@@ -180,19 +175,20 @@
       "ext": ""
     },
     {
-      "key": "半日99",
+      "key": "bubu_spider",
       "name": "❤主13┃3840",
       "type": 3,
-      "api": "csp_App99",
-      "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
+      "api": "csp_DuoDuo",
+      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName": "3.5.8",
-        "name": "半日闲",
-        "package": "com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+        "host": "https://323433ssdfd.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+        "aid": "com.web.player",
+        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "sign": "ddtvf65f3a83d6d9ad6f"
       }
     },
     {
@@ -216,14 +212,21 @@
       "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
     },
     {
-      "key": "枫眠",
+      "key": "yunduo",
       "name": "❤主16┃3840",
       "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
+      "api": "https://www.lnjubao.cn/minio-jbpt/upload/20260828/22c3cface9574d1ff81334e9b33e6d17.js",
+      "ext": {
+        "host": "https://duoduotv.top",
+        "pkg": "com.sunshine.tv",
+        "sk": "SK-thanks",
+        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
+        "ver": "7",
+        "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
       "key": "YunZhenXiang",
@@ -294,7 +297,7 @@
     },
     {
       "key": "火影视",
-      "name": "🌀主09｜1920",
+      "name": "🌀主08｜1920",
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
@@ -303,7 +306,7 @@
     },
     {
       "key": "华谊",
-      "name": "🌀主10｜1920",
+      "name": "🌀主09｜1920",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -324,7 +327,7 @@
     },
     {
       "key": "薯条",
-      "name": "❤主18┃3840",
+      "name": "🌀主10｜1920",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
