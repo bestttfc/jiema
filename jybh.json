@@ -367,6 +367,16 @@
       "api": "csp_HeMa"
     },
     {
+      "key": "hongguo",
+      "name": "红果短剧PY",
+      "type": 7,
+      "api": "py",
+      "py": "https://raw.giteeusercontent.com/li-shengkai/ys/raw/master/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%F0%9F%8D%80TG_fixed.py",
+      "searchable": 1,
+      "filterable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+    },
+    {
       "key": "夸快夸快",
       "name": "💿盘01┃3840",
       "type": 3,
