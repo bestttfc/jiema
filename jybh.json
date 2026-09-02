@@ -37,22 +37,14 @@
       "ext": ""
     },
     {
-      "key": "布布",
+      "key": "4K影视",
       "name": "❤主02┃3840",
       "type": 3,
-      "api": "csp_YunDuo",
-      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/09021058.png;md5;c86f7dceed9cf4edc5d14189bd2ef123",
-      "searchable": 1,
+      "api": "csp_AppGet",
+      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-        "aid": "com.web.player",
-        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-        "sign": "ddtvf65f3a83d6d9ad6f"
-      }
+      "timeout": 12,
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
       "key": "橘汁",
@@ -165,7 +157,7 @@
       "name": "❤主11┃3840",
       "type": 3,
       "api": "csp_Yidong4K",
-      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/09021058.png;md5;c86f7dceed9cf4edc5d14189bd2ef123",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -235,16 +227,6 @@
         "deviceModel": "V2309A"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "4K影视",
-      "name": "❤主17┃3840",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
-      "quickSearch": 1,
-      "timeout": 12,
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
       "key": "YunZhenXiang",
