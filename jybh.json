@@ -26,8 +26,24 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
-      "key": "咕噜咕噜4K_修复版_可搜索_带直播",
+      "key": "蔬菜",
       "name": "❤主01┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
+    },
+    {
+      "key": "干饭",
+      "name": "❤主02┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "https://www.douy32mf.top|1234567887654321"
+    },
+    {
+      "key": "咕噜咕噜4K_修复版_可搜索_带直播",
+      "name": "❤主03┃3840",
       "type": 3,
       "api": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/lib/咕噜咕噜4K_修复版_可搜索_带直播.py",
       "searchable": 1,
@@ -37,64 +53,14 @@
     },
     {
       "key": "Yidong4K",
-      "name": "❤主02┃3840",
+      "name": "❤主04┃3840",
       "type": 3,
       "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/custom.jar",
       "api": "csp_Yidong4K"
     },
     {
-      "key": "yunduo",
-      "name": "❤主03┃3840",
-      "type": 3,
-      "api": "https://www.lnjubao.cn/minio-jbpt/upload/20260828/22c3cface9574d1ff81334e9b33e6d17.js",
-      "ext": {
-        "host": "https://duoduotv.top",
-        "pkg": "com.sunshine.tv",
-        "sk": "SK-thanks",
-        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-        "ver": "7",
-        "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "bubu_spider",
-      "name": "❤主04┃3840",
-      "type": 3,
-      "api": "csp_DuoDuo",
-      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-        "aid": "com.web.player",
-        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-        "sign": "ddtvf65f3a83d6d9ad6f"
-      }
-    },
-    {
-      "key": "剧圈99",
-      "name": "❤主05┃3840",
-      "type": 3,
-      "api": "csp_App99",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
-      "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
       "key": "枫叶影视",
-      "name": "❤主06┃3840",
+      "name": "❤主05┃3840",
       "type": 3,
       "api": "csp_FengYe",
       "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
@@ -105,7 +71,7 @@
     },
     {
       "key": "移动",
-      "name": "❤主07┃3840",
+      "name": "❤主06┃3840",
       "type": 3,
       "api": "csp_Yidong4K",
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
@@ -116,7 +82,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "❤主08┃3840",
+      "name": "❤主07┃3840",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "changeable": 1,
@@ -152,11 +118,12 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
-      "key": "个影",
+      "key": "潮流",
       "name": "🌀主04｜1920",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/lib/gy.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "api": "csp_AppRJ",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "http://v.rbotv.cn"
     },
     {
       "key": "大师兄",
@@ -176,33 +143,8 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
-      "key": "KUlao永乐JS",
-      "name": "🌀主07｜1920",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "热播影视",
-      "name": "🌀主08｜1920",
-      "type": 3,
-      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/lib/yy92.jar",
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
       "key": "火影视",
-      "name": "🌀主09｜1920",
+      "name": "🌀主07｜1920",
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
@@ -211,7 +153,7 @@
     },
     {
       "key": "华谊",
-      "name": "🌀主10｜1920",
+      "name": "🌀主08｜1920",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -232,7 +174,7 @@
     },
     {
       "key": "薯条",
-      "name": "🌀主11｜1920",
+      "name": "🌀主09｜1920",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -263,13 +205,14 @@
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XYQHiker/电影港.json"
     },
     {
-      "key": "csp_duanju",
+      "key": "聚合短剧",
       "name": "🔥精选短剧",
       "type": 3,
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
-      "timeout": 12,
-      "genre": "shortdrama",
-      "api": "csp_HeMa"
+      "api": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/lib/聚合短剧.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
       "key": "夸快夸快",
