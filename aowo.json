@@ -512,17 +512,6 @@
       "changeable": 1
     },
     {
-      "name": "⭐荐片┃快速",
-      "key": "JPian",
-      "type": 3,
-      "api": "csp_JPianAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "JPian",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
-    },
-    {
       "name": "⭐热播┃快速",
       "key": "Rbys",
       "type": 3,
@@ -542,6 +531,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "Dubk",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
+    },
+    {
+      "name": "⭐荐片┃快速",
+      "key": "JPian",
+      "type": 3,
+      "api": "csp_JPianAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "JPian",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
