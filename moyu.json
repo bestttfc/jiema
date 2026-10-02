@@ -702,20 +702,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
     },
     {
-      "key": "Time1080",
-      "name": "⏳┆时光┆4K",
-      "type": 3,
-      "api": "csp_Time1080",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://v.time1080.xyz"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
-    },
-    {
       "key": "WoNiu",
       "name": "🐌┆蜗牛┆4K",
       "type": 3,
