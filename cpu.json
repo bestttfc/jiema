@@ -19,7 +19,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🌐配置中心｜9.17版",
+      "name": "🌐配置中心｜10.03版｜先扫网盘才可看自扫站源",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -119,31 +119,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
-      "key": "布布",
-      "name": "♨️布布｜4K线路",
-      "type": 3,
-      "api": "csp_YunDuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-        "aid": "com.web.player",
-        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-        "sign": "ddtvf65f3a83d6d9ad6f"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "多多",
-      "name": "♨️多多｜4K线路",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
       "key": "剧圈",
       "name": "♨️剧圈｜4K线路",
       "type": 3,
@@ -156,22 +131,6 @@
         "package": "com.qingtangxiaozhuan.xyz",
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "半日99",
-      "name": "♨️半日｜4K线路",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName": "3.5.8",
-        "name": "半日闲",
-        "package": "com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
@@ -191,8 +150,80 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
+      "key": "咕噜",
+      "name": "♨️咕噜｜4K线路",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "🌀瓜子｜3K线路",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
+      "key": "妙看",
+      "name": "🌀妙看｜1920",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
+      "key": "个影",
+      "name": "🌀个影｜1920",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/gy.js",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
+      "key": "布布",
+      "name": "🌀布布｜1920",
+      "type": 3,
+      "api": "csp_YunDuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://323433ssdfd.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+        "aid": "com.web.player",
+        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "sign": "ddtvf65f3a83d6d9ad6f"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
+      "key": "多多",
+      "name": "🌀多多｜1920",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
+      "key": "半日99",
+      "name": "🌀半日｜1920",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
       "key": "蓝鹰",
-      "name": "♨️蓝鹰｜4K线路",
+      "name": "🌀蓝鹰｜1920",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -208,7 +239,7 @@
     },
     {
       "key": "蓝鸟",
-      "name": "♨️蓝鸟｜4K线路",
+      "name": "🌀蓝鸟｜1920",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -220,35 +251,6 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "瓜子影视",
-      "name": "🌀瓜子｜3K线路",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "爱看剧",
-      "name": "🌀看剧｜1920",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
-      "ext": "http://43.248.117.123:4680",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "妙看",
-      "name": "🌀妙看｜1920",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "个影",
-      "name": "🌀个影｜1920",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/gy.js",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
@@ -317,6 +319,14 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
+      "key": "金牌影视",
+      "name": "🌀金牌｜1920",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
       "key": "热播影视",
       "name": "🌀热播｜1920",
       "type": 3,
@@ -327,6 +337,13 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
+    },
+    {
+      "key": "韩圈",
+      "name": "🌀韩圈｜1920",
+      "type": 3,
+      "api": "csp_Hxq",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
@@ -490,24 +507,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
-      "key": "蜡笔",
-      "name": "🌐蜡笔｜4K自扫",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://tvpanpan.site",
-          "http://feimo.fun",
-          "https://www.mmpanpan.site"
-        ]
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
       "key": "闪电",
       "name": "🌐闪电｜4K自扫",
       "type": 3,
@@ -519,25 +518,6 @@
       "ext": {
         "site": [
           "http://shandian.blog"
-        ]
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "至臻",
-      "name": "🌐至臻｜4K自扫",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://sp.zzzy.shop",
-          "https://www.zhizhen8.click",
-          "https://www.zhizhen1.top",
-          "https://www.mihdr.top"
         ]
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
@@ -572,27 +552,25 @@
       "ext": {
         "site": [
           "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
           "https://woog.430520.xyz"
         ]
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
-      "key": "二小",
-      "name": "🌐二小｜4K自扫",
+      "key": "花卷",
+      "name": "🌐花卷｜4K自扫",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_PanWebShareHJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
         "site": [
-          "http://www.wexwp.cc",
-          "https://www.2xiaopan.one",
-          "https://www.wexwp.cc"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
@@ -659,44 +637,17 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
-      "key": "夸父",
-      "name": "🌐夸父｜4K自扫",
+      "key": "卡卡",
+      "name": "🌐卡卡｜4K自扫",
       "type": 3,
-      "api": "csp_PanWebShareKF",
+      "api": "csp_KKPan",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "style": {
-        "type": "list",
-        "ratio": 1.433
+        "type": "list"
       },
-      "ext": {
-        "site": [
-          "https://www.kfzy.net"
-        ],
-        "cookie": "bbs_sid=qovfaruectri75sqq38blhqt7o; bbs_token=Bvf498_2FJNbnAe_2Fse39EweDe_2BlQnFYo4s_2FpFtyHueqcGKOssB"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "123",
-      "name": "🌐123｜4K自扫",
-      "type": 3,
-      "api": "csp_PanWebShare123",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "https://123panfx.com",
-          "https://pan1.me"
-        ]
-      },
+      "timeout": 60,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
@@ -1244,11 +1195,11 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
-      "key": "聚合",
-      "name": "🔍聚合｜搜索",
+      "key": "觅盘",
+      "name": "🔍觅盘｜搜索",
       "type": 3,
       "hide": 1,
-      "api": "csp_JuheSo",
+      "api": "csp_MiPan",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1264,20 +1215,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
-    },
-    {
-      "key": "米搜",
-      "name": "🔍米搜｜搜索",
-      "type": 3,
-      "hide": 1,
-      "api": "csp_MiSou",
-      "ext": {
-        "site": [
-          "http://gesoso.fun",
-          "http://www.misoso.shop"
-        ]
-      },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/cpu.jar"
     },
     {
