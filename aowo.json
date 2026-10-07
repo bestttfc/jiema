@@ -34,7 +34,7 @@
       "api": "csp_HgdhAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "genre": "shortdrama",
       "ext": "Hgdh",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
@@ -245,17 +245,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️闪电┃4K",
-      "key": "yxWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "yxWobg",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
-    },
-    {
       "name": "☁️多多┃4K",
       "key": "ddWobg",
       "type": 3,
@@ -296,7 +285,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "Gying",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
@@ -356,8 +344,8 @@
       "key": "DMfans",
       "type": 3,
       "api": "csp_DMfansAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
@@ -431,7 +419,7 @@
       "api": "csp_HgggAmns",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "genre": "shortdrama",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
@@ -440,8 +428,8 @@
       "key": "HHkk",
       "type": 3,
       "api": "csp_HHkkAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "genre": "shortdrama",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
@@ -542,16 +530,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "JPian",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
-    },
-    {
-      "name": "⭐伊外┃快速",
-      "key": "YIys",
-      "type": 3,
-      "api": "csp_YIysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
