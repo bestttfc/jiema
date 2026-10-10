@@ -9,13 +9,17 @@
       "key": "豆瓣",
       "name": "豆瓣 • 首页",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_DoubanAmns",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/aw.png",
+      "indexs": 1,
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": "Douban"
     },
     {
       "key": "配置中心",
-      "name": "配置 • 中心",
+      "name": "⚙配置┃中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -23,19 +27,20 @@
       "indexs": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.618
+        "ratio": 1.597
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
-      "key": "咕噜",
       "name": "❤主01┃3840",
+      "key": "AppV7Mtq",
       "type": 3,
-      "api": "csp_Gulu",
+      "api": "csp_AppV7Amns",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/aw.png",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "changeable": 1,
+      "ext": "AppV7Mtq"
     },
     {
       "key": "蔬菜",
@@ -46,72 +51,18 @@
       "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
     },
     {
-      "key": "橘汁",
       "name": "❤主03┃3840",
+      "key": "Woshinidie",
       "type": 3,
-      "api": "csp_AppDrama",
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "api": "csp_Woshinidie",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.mxj.wylcjbxyx",
-        "host": "",
-        "site": "https://mpimg.cn/down.php/bf812c70719c05887d36f183fb2e7e2a.txt",
-        "version": "3.0.2.4",
-        "decrypt": "1"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "魔方",
-      "name": "❤主04┃3840",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://www.douy32mf.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "茉莉",
-      "name": "❤主05┃3840",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/lib/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "剧圈99",
-      "name": "❤主06┃3840",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "changeable": 1
     },
     {
       "key": "移动",
-      "name": "❤主07┃3840",
+      "name": "❤主04┃3840",
       "type": 3,
       "api": "csp_Yidong4K",
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
@@ -121,64 +72,57 @@
       "timeout": 60
     },
     {
-      "key": "瓜子影视",
-      "name": "❤主08┃3840",
+      "key": "Guazi",
+      "name": "❤主05┃3840",
       "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "py_影探4K",
-      "name": "❤主09┃3840",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/08b1f63e45e22cdbb2661ebd51fc2775.py",
+      "api": "csp_GuaziAmns",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/aw.png",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "changeable": 1,
+      "ext": "Guazi"
     },
     {
-      "key": "热播影视",
       "name": "🌀主01┃1920",
+      "key": "AppV7Xhr",
       "type": 3,
-      "api": "csp_AppRJ",
+      "api": "csp_AppV7Amns",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/aw.png",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "changeable": 1,
+      "ext": "AppV7Xhr"
     },
     {
-      "key": "枫叶影视",
       "name": "🌀主02┃1920",
+      "key": "AppV7Xyz",
       "type": 3,
-      "api": "csp_FengYe",
-      "ext": "https://www.vip1949.com/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "api": "csp_AppV7Amns",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xyz"
     },
     {
-      "key": "金牌影视",
       "name": "🌀主03┃1920",
+      "key": "AppV7Xnm",
       "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "api": "csp_AppV7Amns",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xnm"
     },
     {
-      "key": "py_文才",
+      "key": "柠檬",
       "name": "🌀主04┃1920",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/lib/文才影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "key": "电影港",
@@ -203,79 +147,44 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     },
     {
-      "key": "木偶",
+      "key": "P123",
       "name": "💿盘01┃3840",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/js.jpg",
+      "playerType": 2,
+      "api": "csp_Mogg",
       "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
-        ]
-      },
-      "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+        "site": "http://123.666291.xyz/"
+      }
     },
     {
-      "key": "多多",
+      "key": "网盘虎斑",
       "name": "💿盘02┃3840",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/js.jpg",
+      "playerType": 2,
+      "api": "csp_Mogg",
       "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      },
-      "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+        "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+        "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+        "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+        "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+        "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+        "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
+        "site": "http://38.76.197.172:16969/"
+      }
     },
     {
-      "key": "虎斑",
+      "key": "傻样",
       "name": "💿盘03┃3840",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/js.jpg",
+      "playerType": 2,
+      "api": "csp_Mogg",
       "ext": {
-        "site": [
-          "http://xhban.xyz",
-          "http://38.76.197.172:16969"
-        ]
-      },
-      "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "快映",
-      "name": "💿盘04┃3840",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://xsayang.fun",
-          "http://38.76.197.172:12521"
-        ]
-      },
-      "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
+        "site": "http://38.76.197.172:12521/"
+      }
     },
     {
       "key": "聚合短剧",
@@ -285,13 +194,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
-    },
-    {
-      "key": "韩圈",
-      "name": "韩剧",
-      "type": 3,
-      "api": "csp_Hxq",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/jybh.jar"
     }
   ],
