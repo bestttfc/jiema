@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣 • 首页",
+      "name": "最近两天将更新新版本 关注机缘宝盒微信公众号 第一时间获取",
       "type": 3,
       "api": "csp_DoubanAmns",
       "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/aw.png",
