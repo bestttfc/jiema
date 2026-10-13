@@ -116,6 +116,17 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
     },
     {
+      "key": "QingYing",
+      "name": "🌙┆清影┆4K",
+      "type": 3,
+      "api": "csp_QingYing",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Ae4Ffk2jC6Sj0Lkg7sEC9r9k7IvT5Za46LxzNKyjLoBd9zXm9TSIgvcTWwV58ulpdTEjm8n17LRnaodWqRBwSXo=",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
+    },
+    {
       "key": "bl",
       "name": "🤪┆摆烂┆4K",
       "type": 3,
