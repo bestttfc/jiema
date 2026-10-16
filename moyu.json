@@ -127,8 +127,19 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
     },
     {
+      "key": "xiaozuo",
+      "name": "🍃┆等风┆4K",
+      "type": 3,
+      "api": "csp_DengFeng",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o//eKOpDWbngYFUGIJGTa56hr3Hk0=",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
+    },
+    {
       "key": "bandeng",
-      "name": "🤤┆板凳┆4K",
+      "name": "🌾┆板凳┆4K",
       "type": 3,
       "api": "csp_BanDeng",
       "searchable": 1,
@@ -295,17 +306,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
     },
     {
-      "key": "茶寮",
-      "name": "🍵┆茶寮┆APP",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "AbT1mRO9mdV/fKxQSIp2Z0VDEqtFYo24Gg6BFT05FFPMoQC7rwZK2J4Ib2y+3MPCAKAYagodZdIJ7J7lxhTnINQS1SS+MgfVttlMlNoJWzdkYbhjK9vfVH1A6DXtvayirg==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
-    },
-    {
       "key": "竹隐",
       "name": "🎋┆竹隐┆APP",
       "type": 3,
@@ -336,39 +336,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AYVQFckfgSMV740pmmoXzEeC6ljk5SNI/vhWnsIgCUWttSOCyil7DK8MLbeYpwWSgUvM0jcGIDuwi43iiO0FSFX1ofrxXH3IU944OtJbNlpMo9hvLoJTJ2RQVjWu3HU58w==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
-    },
-    {
-      "key": "松庭",
-      "name": "🌲┆松庭┆APP",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "AayZIHLytFqRQBn83cNEbPJG65XS7J95quL4n1pk3EbLbTKw4Mwp0EOi/s2lublGyePTrgU1en7nRytHPRQBxPWxtS5eqNQC3HUojpI56OacrwaltYCx354WpnriT625xA==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
-    },
-    {
-      "key": "纸鸢",
-      "name": "🪁┆纸鸢┆APP",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "Af1RcEZ9vfQpZ5Ib5RWesjmyo2oaK9tP/4YYaPatEOn5T8+ue0nhZc2CbgOPi64vzvV7qLn5w47/MlcswCIdm7D0ye2x1TJuqbkTT0pvHvfwMtHcr/PkQ9l3cetXU2TU2g==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
-    },
-    {
-      "key": "墨砚",
-      "name": "🖋️┆墨砚┆APP",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "AXBOapYonY2jiqXCu6S1ZcErGInklM7Lw7KRmM5SJ8g1ek0+BclBD74mE/Zku+mOKfgHWgWsxcPebrt0JiFv0Ps6tDbvx5t80MHLszRh0FUp",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
     },
     {
