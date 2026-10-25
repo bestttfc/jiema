@@ -351,14 +351,13 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "🐱冬瓜┃动漫",
-      "key": "DMxigua",
+      "name": "🐱嗷嗚┃动漫",
+      "key": "DMcyc",
       "type": 3,
-      "api": "csp_DMxiguaAmns",
+      "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "DMxigua",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
@@ -379,6 +378,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
+    },
+    {
+      "name": "🐱冬瓜┃动漫",
+      "key": "DMxigua",
+      "type": 3,
+      "api": "csp_DMxiguaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "DMxigua",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
