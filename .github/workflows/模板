@@ -12,17 +12,17 @@ jobs:
     #按需修改全局变量，只需在此修改
     env:
      #原始源网址http://itv666.cc/aowu/config.webp  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
-      URL: "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"
+      URL: "https://github.com/ssm123-coder/a.git"
       #URL: "https://raw.githubusercontent.com/ttfc8/jiemi/main/mw.json"
       
      
       #个人仓库 本地JAR地址  代理/用户名/仓库名/输出文件名  PROXY/GIT_USER/GIT_CK/输出文件名/JAR_FILE
       PROXY: "https://gh-proxy.org/https://raw.githubusercontent.com"
-      GIT_USER: "ttfc8"
-      GIT_CK: "jiemi"
+      GIT_USER: "bestttfc"
+      GIT_CK: "jiema"
       #输出文件名，按需修改
-      JAR_FILE:  "dongli.jar"
-      JSON_FILE: "dongli.json"
+      JAR_FILE:  "macha.jar"
+      JSON_FILE: "macha.json"
       #解密后原文存放临时文件中，不保存，如需测试保存情况，提前以前代码 name: 4. 强行提交最新的 cpu.json 和 cpu.jar 到仓库，按需修改输出文件名
       CONFIG_FILE: "tmp_config.json"
     # 固定基础域名，针对  ./a.jar文件  本地化包赋 下载路径 供后续下载
