@@ -12,7 +12,7 @@ jobs:
     #按需修改全局变量，只需在此修改
     env:
      #原始源网址http://itv666.cc/aowu/config.webp  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
-      URL: "https://github.com/ssm123-coder/a.git"
+      URL: "https://raw.githubusercontent.com/ssm123-coder/a/main/a"
       #URL: "https://raw.githubusercontent.com/ttfc8/jiemi/main/mw.json"
       
      
