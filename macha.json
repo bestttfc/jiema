@@ -609,6 +609,13 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "Acfun_py",
+      "name": "Acfunᵖʸ｜动漫",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/Acfun.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "yingzhikong_py",
       "name": "樱之空ᵖʸ｜动漫",
       "type": 3,
@@ -709,6 +716,18 @@
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
       "ext": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/qtfm.js"
+    },
+    {
+      "key": "tangdou_py",
+      "name": "糖豆ᵖʸ｜舞蹈",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/tangdou.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "88kq_js",
