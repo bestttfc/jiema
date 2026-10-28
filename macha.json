@@ -94,7 +94,7 @@
     },
     {
       "key": "cai_cms",
-      "name": "开心果ᶜᵐˢ｜影视",
+      "name": "开心果ᶜᵐˢ｜视频",
       "type": 4,
       "playerType": 2,
       "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php",
@@ -280,7 +280,7 @@
     },
     {
       "key": "埋堆堆",
-      "name": "埋堆堆ᶜˢᵖ｜影视",
+      "name": "埋堆堆ᶜˢᵖ｜视频",
       "type": 3,
       "api": "csp_MddNl",
       "searchable": 1,
@@ -362,6 +362,13 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "kanke_py",
+      "name": "看客ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/kanke.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "bilibili_py",
       "name": "哔哩ᵖʸ｜视频",
       "type": 3,
@@ -387,13 +394,6 @@
       "name": "下饭ᵖʸ｜蓝光",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/juxiafan.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
-      "key": "kanke_py",
-      "name": "看客ᵖʸ｜蓝光",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/kanke.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -916,43 +916,19 @@
   ],
   "lives": [
     {
-      "name": "星耀源",
-      "url": "http://lzzlj.xyys.site/simple-play1.php?mode=play1;id=b654513ab752f7a72e6445fcb756a74f;token=s95yF93zdQagdsZXDU4Fghj7vPQPj1VC",
+      "name": "LTV",
+      "url": "http://38.75.136.137:88/api/tvlist.php",
+      "playerType": 3,
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "CCSH",
+      "name": "1976",
+      "url": "https://gh-proxy.org/github.com/zheng197600/tvbox/raw/main/tv/电视直播.txt",
       "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"
-    },
-    {
-      "name": "晨雨源",
-      "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/cluntop/tvbox/main/lib/iptv.m3u"
-    },
-    {
-      "name": "苏旭源",
-      "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20
-    },
-    {
-      "name": "魏祥昆",
-      "type": 0,
-      "url": "https://gitee.com/szwxk/watch-television/raw/master/wxk.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "Easy源",
-      "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
-      "timeout": 10,
-      "changeable": 1,
-      "playerType": 2
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "恒轩源",
@@ -960,20 +936,6 @@
       "url": "https://gitee.com/t-v/tt/raw/t/t/k.png",
       "timeout": 10,
       "logo": "https://tb.zbds.top/logo/{name}.png"
-    },
-    {
-      "name": "JackTV{翻}",
-      "type": 0,
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-      }
-    },
-    {
-      "name": "台湾TV{翻}",
-      "type": 0,
-      "ua": "okhttp/5.3.2",
-      "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
     }
   ],
   "parses": [
