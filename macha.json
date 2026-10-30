@@ -486,28 +486,28 @@
     },
     {
       "key": "wllive_py",
-      "name": "网络ᵖʸ｜直播",
+      "name": "网络ᵖʸ｜Live",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/wllive.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "bililive_py",
-      "name": "哔哩ᵖʸ｜直播",
+      "name": "哔哩ᵖʸ｜Live",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/bililive.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "dylive_py",
-      "name": "抖音ᵖʸ｜直播",
+      "name": "抖音ᵖʸ｜Live",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/dylive.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "kglive",
-      "name": "酷狗ᶜᵐˢ｜直播",
+      "name": "酷狗ᶜᵐˢ｜Live",
       "type": 4,
       "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
       "searchable": 1,
@@ -975,6 +975,52 @@
       "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
     },
     {
+      "name": "4K解析",
+      "type": 1,
+      "url": "http://43.139.94.96:8866/api/?key=7e67ab331ee255664f2989ca2171c2dd&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "1080解析1",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "1080解析2",
+      "type": 1,
+      "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "2160解析",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "批零",
       "type": 1,
       "url": "http://101.201.171.207:9898/home/api?type=ys&uid=89089&key=afgkpqwAKLMPQSTU17&url="
@@ -986,7 +1032,7 @@
     },
     {
       "name": "嫖二",
-      "type": 1,
+      "type": 0,
       "url": "http://zxy-th1.jsszks.dpdns.org:8090/?url="
     }
   ],
