@@ -916,7 +916,7 @@
   ],
   "lives": [
     {
-      "name": "LTV",
+      "name": "国内源专属",
       "url": "http://38.75.136.137:88/api/tvlist.php",
       "playerType": 3,
       "type": 0,
@@ -924,8 +924,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "个人",
-      "url": "https://gh-proxy.org/github.com/ssm123-coder/a/raw/main/zb",
+      "name": "港澳台授权",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/a/raw/main/zb",
       "playerType": 3,
       "type": 0,
       "ua": "okhttp/3.15",
@@ -933,21 +933,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "1976",
-      "url": "https://gh-proxy.org/github.com/zheng197600/tvbox/raw/main/tv/电视直播.txt",
-      "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "恒轩源",
+      "name": "恒轩源备用",
       "type": 0,
       "url": "https://gitee.com/t-v/tt/raw/t/t/k.png",
       "timeout": 10,
       "logo": "https://tb.zbds.top/logo/{name}.png"
     },
     {
-      "name": "备用源",
+      "name": "国内源备用",
       "type": 0,
       "playerType": 2,
       "url": "http://193.123.86.190:14888/TV/iptv.php",
@@ -961,14 +954,14 @@
       "url": "https://niubi.69mini.com/api/?key=0a93b8f6303b79f7be0465c30d305c44&url="
     },
     {
-      "name": "小白",
-      "type": 1,
-      "url": "http://xiaobaibai.feng1210.top/api.php?key=spjk666&url="
-    },
-    {
       "name": "污鸭",
       "type": 1,
       "url": "http://jiexi.fc8001.top/QdmDeQSTpxSyDwgn.php?url="
+    },
+    {
+      "name": "小白",
+      "type": 1,
+      "url": "http://xiaobaibai.feng1210.top/api.php?key=spjk666&url="
     },
     {
       "name": "凯胜",
@@ -989,52 +982,6 @@
       "name": "千一",
       "type": 1,
       "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
-    },
-    {
-      "name": "4K解析",
-      "type": 1,
-      "url": "http://43.139.94.96:8866/api/?key=7e67ab331ee255664f2989ca2171c2dd&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "巧计",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "1080解析2",
-      "type": 1,
-      "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "2160解析",
-      "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     },
     {
       "name": "批零",
