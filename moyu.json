@@ -806,9 +806,8 @@
       "genre": "shortdrama",
       "filterable": 1,
       "ext": {
-        "host": "https://short.fishcloud.top",
-        "quality": "1080p",
-        "danmu": false
+        "host": "https://honhon.wya6.com",
+        "quality": "1080p"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/moyu.jar"
     },
