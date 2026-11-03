@@ -68,6 +68,37 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
+      "key": "GUOI·短剧",
+      "name": "🍒果果┃弹幕短剧",
+      "type": 3,
+      "api": "csp_HongGuo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "lang": "ds",
+      "genre": "短剧",
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "咖啡·短剧",
+      "name": "☕️咖啡┃弹幕短剧",
+      "type": 3,
+      "api": "csp_KaFeiDJ",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "lang": "ds",
+      "genre": "短剧",
+      "ext": {
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
       "key": "AppV7_Fz",
       "name": "🐷小猪┃秒播4K",
       "type": 3,
@@ -304,21 +335,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
-      "key": "FengYe",
-      "name": "🍁枫叶┃1080P",
-      "type": 3,
-      "api": "csp_FengYe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "https://www.vip1949.com/",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
       "key": "xifan",
       "name": "🥣稀饭┃动漫",
       "type": 3,
@@ -353,22 +369,6 @@
       "ext": {
         "username": "nimasile",
         "password": "xiaomi888",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "红果·短剧",
-      "name": "🍒红果┃短剧",
-      "type": 3,
-      "api": "csp_HongGuo",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "lang": "ds",
-      "genre": "短剧",
-      "ext": {
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
