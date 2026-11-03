@@ -1,0 +1,283 @@
+{
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar",
+  "wallpaper": "http://fmys.top/img.php",
+  "logo": "https://pic.nximg.cn/file/20250530/35182407_094206711109_2.jpg",
+  "notice": "⚠️瘦瘦马TV端专享,支持正版,人人有责⚠️",
+  "sites": [
+    {
+      "key": "kanglong_cms",
+      "name": "亢龙ᶜᵐˢ｜影视",
+      "type": 1,
+      "api": "http://110.42.66.100:12678/api.php",
+      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "yingtan_cms",
+      "name": "星影ᶜᵐˢ｜影视",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "ytcc_js",
+      "name": "影探ᶜᵃᵗ｜影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/ytcc.js",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "yingtan_py",
+      "name": "影探ᵖʸ｜影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/yingtan.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "baipiao_js",
+      "name": "白鸭ᶜᵃᵗ｜影视",
+      "playerType": "2",
+      "type": 3,
+      "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/baipiao.js"
+    },
+    {
+      "key": "cai_cms",
+      "name": "开心果ᶜᵐˢ｜影视",
+      "type": 4,
+      "playerType": 2,
+      "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "gulu_py",
+      "name": "咕噜ᵖʸ｜影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/gulu.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "hetun_py",
+      "name": "河豚ᵖʸ｜影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/hetun.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "woou_wp",
+      "name": "玩偶ʷᵖ｜免扫",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Wogg",
+      "ext": {
+        "dutoken": "https://gitee.com/t-v/tt/raw/t/t/bd.js",
+        "cookie": "https://fastlink.cokey.xyz/f/QrAmFo/污鸭坐飞鸡.txt",
+        "uccookie": "https://gitee.com/t-v/tt/raw/t/t/uc.js",
+        "site": "https://wogg.xxooo.cf/"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "muou_wp",
+      "name": "木偶ʷᵖ｜免扫",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "dutoken": "https://gitee.com/t-v/tt/raw/t/t/bd.js",
+        "cookie": "https://fastlink.cokey.xyz/f/QrAmFo/污鸭坐飞鸡.txt",
+        "uccookie": "https://gitee.com/t-v/tt/raw/t/t/uc.js",
+        "site": "http://123.666291.xyz/"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "duoduo_wp",
+      "name": "多多ʷᵖ｜免扫",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "dutoken": "https://gitee.com/t-v/tt/raw/t/t/bd.js",
+        "cookie": "https://fastlink.cokey.xyz/f/QrAmFo/污鸭坐飞鸡.txt",
+        "uccookie": "https://gitee.com/t-v/tt/raw/t/t/uc.js",
+        "site": "https://tv.yydsys.top/"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "ouge_wp",
+      "name": "讴歌ʷᵖ｜免扫",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "dutoken": "https://gitee.com/t-v/tt/raw/t/t/bd.js",
+        "cookie": "https://fastlink.cokey.xyz/f/QrAmFo/污鸭坐飞鸡.txt",
+        "uccookie": "https://gitee.com/t-v/tt/raw/t/t/uc.js",
+        "site": "https://woog.nxog.eu.org/"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "huban_wp",
+      "name": "虎斑ʷᵖ｜免扫",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "dutoken": "https://gitee.com/t-v/tt/raw/t/t/bd.js",
+        "cookie": "https://fastlink.cokey.xyz/f/QrAmFo/污鸭坐飞鸡.txt",
+        "uccookie": "https://gitee.com/t-v/tt/raw/t/t/uc.js",
+        "site": "http://38.76.197.172:16969/"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "kuaiying_wp",
+      "name": "快映ʷᵖ｜免扫",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "ext": {
+        "dutoken": "https://gitee.com/t-v/tt/raw/t/t/bd.js",
+        "cookie": "https://fastlink.cokey.xyz/f/QrAmFo/污鸭坐飞鸡.txt",
+        "uccookie": "https://gitee.com/t-v/tt/raw/t/t/uc.js",
+        "site": "http://38.76.197.172:12521/"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "yd_jar",
+      "name": "移动ᶜˢᵖ｜免扫",
+      "type": 3,
+      "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/yd.jar",
+      "api": "csp_YiDong",
+      "timeout": 60
+    },
+    {
+      "key": "kanke_py",
+      "name": "看客ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/kanke.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "bilibili_py",
+      "name": "哔哩ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/bilibili.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "hanju_py",
+      "name": "韩圈ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/hanju.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "xpg_py",
+      "name": "苹果ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/xpg.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "jizhi_py",
+      "name": "橘汁ᶜᵃᵗ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/juzi.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "juxiafan_py",
+      "name": "下饭ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/juxiafan.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "guazi_py",
+      "name": "瓜子ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/guazi.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    }
+  ],
+  "lives": [
+    {
+      "name": "国内源专属",
+      "url": "http://38.75.136.137:88/api/tvlist.php",
+      "playerType": 3,
+      "type": 0
+    },
+    {
+      "name": "港澳台授权",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/zb",
+      "playerType": 3,
+      "type": 0,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "恒轩源备用",
+      "type": 0,
+      "url": "https://gitee.com/t-v/tt/raw/t/t/k.png",
+      "timeout": 10
+    },
+    {
+      "name": "国内源备用",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+  ],
+  "parses": [
+    {
+      "name": "夏",
+      "type": 1,
+      "url": "https://183933.xyz/xiaye.php?url="
+    },
+    {
+      "name": "鸭",
+      "type": 1,
+      "url": "https://niubi.69mini.com/api/?key=a4614b0adbcde48c8677cd2458670426&url="
+    },
+    {
+      "name": "凯",
+      "type": 1,
+      "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
+    },
+    {
+      "name": "牛",
+      "type": 1,
+      "url": "https://nm.4688888.xyz/niuma.php?key=dfl&url="
+    },
+    {
+      "name": "千",
+      "type": 1,
+      "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
+    },
+    {
+      "name": "蓝",
+      "type": 0,
+      "url": "http://zxy-th1.jsszks.dpdns.org:8090/?url="
+    },
+    {
+      "name": "腾",
+      "type": 0,
+      "url": "http://zq0143yimmi.xian.zxtongshuo.cn/qq.php?url="
+    }
+  ]
+}
