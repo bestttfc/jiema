@@ -16,15 +16,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "baipiao_js",
-      "name": "白鸭ᶜᵃᵗ｜影视",
-      "playerType": "2",
-      "type": 3,
-      "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
-      "ext": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/baipiao.js"
-    },
-    {
       "key": "sx4k_cms",
       "name": "星影ᶜᵐˢ｜影视",
       "type": 4,
@@ -53,8 +44,24 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "hetun_py",
+      "name": "河豚ᵖʸ｜影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/hetun.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "baipiao_js",
+      "name": "白鸭ᶜᵃᵗ｜解析",
+      "playerType": "2",
+      "type": 3,
+      "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
+      "ext": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/baipiao.js"
+    },
+    {
       "key": "txsp_js",
-      "name": "腾讯ᶜᵃᵗ｜视频",
+      "name": "腾讯ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
@@ -62,7 +69,7 @@
     },
     {
       "key": "mgsp_js",
-      "name": "芒果ᶜᵃᵗ｜视频",
+      "name": "芒果ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
@@ -70,7 +77,7 @@
     },
     {
       "key": "bilisp_js",
-      "name": "哔哩ᶜᵃᵗ｜视频",
+      "name": "哔哩ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
@@ -78,7 +85,7 @@
     },
     {
       "key": "yksp_js",
-      "name": "优酷ᶜᵃᵗ｜视频",
+      "name": "优酷ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
@@ -86,7 +93,7 @@
     },
     {
       "key": "aqysp_js",
-      "name": "爱奇艺ᶜᵃᵗ｜视频",
+      "name": "爱奇艺ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/fmjs.zip",
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/drpy2.min.js",
@@ -94,7 +101,7 @@
     },
     {
       "key": "cai_cms",
-      "name": "开心果ᶜᵐˢ｜视频",
+      "name": "开心果ᶜᵐˢ｜解析",
       "type": 4,
       "playerType": 2,
       "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php",
@@ -272,7 +279,7 @@
     },
     {
       "key": "YiDong",
-      "name": "移动ᶜˢᵖ｜视频",
+      "name": "移动ᶜˢᵖ｜免扫",
       "type": 3,
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/jar/yd.jar",
       "api": "csp_YiDong",
@@ -280,7 +287,7 @@
     },
     {
       "key": "埋堆堆",
-      "name": "埋堆堆ᶜˢᵖ｜视频",
+      "name": "埋堆堆ᶜˢᵖ｜免扫",
       "type": 3,
       "api": "csp_MddNl",
       "searchable": 1,
@@ -376,50 +383,43 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "symx_py",
-      "name": "木兮ᵖʸ｜蓝光",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/symx.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
       "key": "bubu_py",
-      "name": "布布ᵖʸ｜蓝光",
+      "name": "布布ᵖʸ｜视频",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/bubu.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "juxiafan_py",
-      "name": "下饭ᵖʸ｜蓝光",
+      "name": "下饭ᵖʸ｜视频",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/juxiafan.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "guazi_py",
-      "name": "瓜子ᵖʸ｜蓝光",
+      "name": "瓜子ᵖʸ｜视频",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/guazi.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "huashu_py",
-      "name": "华数ᵖʸ｜蓝光",
+      "name": "华数ᵖʸ｜视频",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/huashu.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "hanju_py",
-      "name": "韩圈ᵖʸ｜蓝光",
+      "name": "韩圈ᵖʸ｜视频",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/hanju.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "Mdd",
-      "name": "埋堆堆ᶜˢᵖ｜影视",
+      "name": "埋堆堆ᶜˢᵖ｜视频",
       "type": 3,
       "api": "csp_Mdd",
       "searchable": 1,
@@ -429,7 +429,7 @@
     },
     {
       "key": "Xigua",
-      "name": "西瓜ᶜˢᵖ｜蓝光",
+      "name": "西瓜ᶜˢᵖ｜视频",
       "type": 3,
       "api": "csp_Xigua",
       "searchable": 1,
@@ -439,7 +439,7 @@
     },
     {
       "key": "金牌影视",
-      "name": "金牌ᶜˢᵖ｜蓝光",
+      "name": "金牌ᶜˢᵖ｜视频",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
@@ -919,25 +919,20 @@
       "name": "国内源专属",
       "url": "http://38.75.136.137:88/api/tvlist.php",
       "playerType": 3,
-      "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "type": 0
     },
     {
       "name": "港澳台授权",
       "url": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/zb",
       "playerType": 3,
       "type": 0,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "ua": "okhttp/3.15"
     },
     {
       "name": "恒轩源备用",
       "type": 0,
       "url": "https://gitee.com/t-v/tt/raw/t/t/k.png",
-      "timeout": 10,
-      "logo": "https://tb.zbds.top/logo/{name}.png"
+      "timeout": 10
     },
     {
       "name": "国内源备用",
@@ -949,54 +944,39 @@
   ],
   "parses": [
     {
-      "name": "白鸭",
+      "name": "夏",
       "type": 1,
-      "url": "https://niubi.69mini.com/api/?key=0a93b8f6303b79f7be0465c30d305c44&url="
+      "url": "https://183933.xyz/xiaye.php?url="
     },
     {
-      "name": "污鸭",
+      "name": "鸭",
       "type": 1,
-      "url": "http://jiexi.fc8001.top/QdmDeQSTpxSyDwgn.php?url="
+      "url": "https://niubi.69mini.com/api/?key=a4614b0adbcde48c8677cd2458670426&url="
     },
     {
-      "name": "小白",
-      "type": 1,
-      "url": "http://xiaobaibai.feng1210.top/api.php?key=spjk666&url="
-    },
-    {
-      "name": "凯胜",
+      "name": "凯",
       "type": 1,
       "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
     },
     {
-      "name": "大头",
-      "type": 1,
-      "url": "https://aaa.69mini.com/api/index?parsesId=11&appid=76960&videoUrl="
-    },
-    {
-      "name": "牛马",
+      "name": "牛",
       "type": 1,
       "url": "https://nm.4688888.xyz/niuma.php?key=dfl&url="
     },
     {
-      "name": "千一",
+      "name": "千",
       "type": 1,
       "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
     },
     {
-      "name": "批零",
-      "type": 1,
-      "url": "http://101.201.171.207:9898/home/api?type=ys&uid=89089&key=afgkpqwAKLMPQSTU17&url="
-    },
-    {
-      "name": "嫖一",
-      "type": 1,
-      "url": "http://114.66.51.153:2006/api/?key=9df31116c47da6a984097931955ad8d2&url="
-    },
-    {
-      "name": "嫖二",
+      "name": "蓝",
       "type": 0,
       "url": "http://zxy-th1.jsszks.dpdns.org:8090/?url="
+    },
+    {
+      "name": "腾",
+      "type": 0,
+      "url": "http://zq0143yimmi.xian.zxtongshuo.cn/qq.php?url="
     }
   ],
   "flags": [
