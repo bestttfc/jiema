@@ -393,10 +393,10 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "🐱青云┃动漫",
-      "key": "DMqingk",
+      "name": "🐱快快┃动漫",
+      "key": "DMlmm",
       "type": 3,
-      "api": "csp_DMqingkAmns",
+      "api": "csp_DMlmmAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -410,7 +410,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "DMxigua",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
