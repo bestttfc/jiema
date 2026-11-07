@@ -30,10 +30,13 @@
     },
     {
       "key": "config",
-      "name": "🔧网盘┃设置",
+      "name": "🔧网盘┃授权扫码",
       "type": 3,
-      "api": "csp_Config",
+      "api": "csp_PanConfig",
       "searchable": 0,
+      "ext": {
+        "danmu": true
+      },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
@@ -85,7 +88,7 @@
     },
     {
       "key": "咖啡·短剧",
-      "name": "☕️咖啡┃弹幕短剧",
+      "name": "☕️咖啡┃秒播短剧",
       "type": 3,
       "api": "csp_KaFeiDJ",
       "searchable": 1,
@@ -124,11 +127,11 @@
       "key": "AppV7_Dsx",
       "name": "📦师兄┃秒播",
       "type": 3,
-      "api": "csp_AppV7",
+      "api": "csp_DaShiXiong",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "AppV7Dsx",
+      "ext": "",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
@@ -315,6 +318,19 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
+      "key": "华数",
+      "name": "🍒咖啡┃老剧",
+      "type": 3,
+      "api": "csp_JingCai",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
       "key": "YunDuo",
       "name": "🦢大鹅┃1080P",
       "type": 3,
@@ -386,6 +402,26 @@
       "genre": "shortdrama",
       "ext": {
         "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "直播",
+      "name": "📺电视┃直播",
+      "type": 3,
+      "api": "csp_MiGu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 12,
+      "changeable": 0,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "ext": {
         "danmu_api": "https://dm.211.li/nonay"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
