@@ -135,7 +135,18 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦①线┃秒播",
+      "name": "📦师兄┃APP",
+      "key": "AppV7Dsx",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Dsx",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
+    },
+    {
+      "name": "📦浮舟┃APP",
       "key": "AppV7Fz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -146,7 +157,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦②线┃秒播",
+      "name": "📦星野┃APP",
       "key": "AppV7Xy",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -157,7 +168,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦③线┃秒播",
+      "name": "📦织锦┃APP",
       "key": "AppV7Zjdr",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -168,7 +179,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦④线┃秒播",
+      "name": "📦玄珠┃APP",
       "key": "AppV7Xyz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -179,7 +190,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦⑤线┃秒播",
+      "name": "📦衔梦┃APP",
       "key": "AppV7Xnm",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -190,7 +201,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦⑥线┃秒播",
+      "name": "📦鸣泉┃APP",
       "key": "AppV7Mtq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -201,7 +212,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦⑦线┃秒播",
+      "name": "📦琳琅┃APP",
       "key": "AppV7Llq",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -212,7 +223,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦⑧线┃秒播",
+      "name": "📦衔石┃APP",
       "key": "AppV7Xsz",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -223,7 +234,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "📦⑨线┃秒播",
+      "name": "📦星海┃APP",
       "key": "AppV7Xhr",
       "type": 3,
       "api": "csp_AppV7Amns",
@@ -231,17 +242,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xhr",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
-    },
-    {
-      "name": "📦师兄┃秒播",
-      "key": "AppV7Dsx",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Dsx",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
