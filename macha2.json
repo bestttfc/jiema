@@ -213,6 +213,28 @@
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/guazi.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "体育聚合",
+      "name": "聚合ᶜᵃᵗ｜球赛",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/体育聚合.js",
+      "style": {
+        "type": "rect"
+      },
+      "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
+    },
+    {
+      "key": "蜘蛛体育",
+      "name": "蜘蛛ᶜᵃᵗ｜球赛",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/js/蜘蛛体育.js",
+      "style": {
+        "type": "rect"
+      },
+      "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha2.jar"
     }
   ],
   "lives": [
