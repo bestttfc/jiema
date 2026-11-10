@@ -535,13 +535,14 @@
     },
     {
       "name": "⭐橘汁┃快速",
-      "key": "Woshinidie",
+      "key": "Juzhi",
       "type": 3,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png;md5;528450abfa7bbee80d68034ae045a1f6",
-      "api": "csp_Woshinidie",
+      "api": "csp_JuzhiAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "Juzhi",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
       "name": "⭐热播┃快速",
