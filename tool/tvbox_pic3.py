@@ -251,14 +251,28 @@ def _download_via_curl_cffi(url: str) -> bytes:
 
 def _download_via_remote(url: str) -> bytes:
     """
-    回退层 2：远程解密服务。
+    回退层 2：远程解密服务（适配 159.75.152.41:88）。
     - 未配置 TVBOX_REMOTE_FALLBACK_URL 时跳过。
     - 远程服务返回内容如果仍是挑战页或空内容，视为失败。
     """
     if not REMOTE_FALLBACK_URL:
         raise RuntimeError("未配置 TVBOX_REMOTE_FALLBACK_URL，跳过该回退层")
 
-    resp = requests.post(REMOTE_FALLBACK_URL, data={"url": url}, timeout=120)
+    # 根据抓包结果，补充必要的请求头（Referer 和 UA）
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Referer": "http://159.75.152.41:88/",
+    }
+    
+    # 根据抓包结果，使用 GET 请求，参数名为 ou
+    resp = requests.get(
+        REMOTE_FALLBACK_URL, 
+        params={"ou": url}, 
+        headers=headers, 
+        timeout=120
+    )
+    
     resp.raise_for_status()
     if _is_challenge(resp.content):
         raise RuntimeError("远程服务返回的仍是挑战页")
