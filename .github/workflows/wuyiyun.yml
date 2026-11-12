@@ -26,9 +26,9 @@ jobs:
       #解密后原文存放临时文件中，不保存，如需测试保存情况，提前以前代码 name: 4. 强行提交最新的 cpu.json 和 cpu.jar 到仓库，按需修改输出文件名
       CONFIG_FILE: "tmp_config.json"
     # 固定基础域名，针对  ./a.jar文件  本地化包赋 下载路径 供后续下载
-      BASE_DOMAIN: "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/"
+      BASE_DOMAIN: "https://yc.wya6.cn/"
     #固定基础域名，针对./a.js ./a.json 
-      BASE_URL: "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/"
+      BASE_URL: "https://yc.wya6.cn/"
 
 
     steps:
@@ -54,7 +54,7 @@ jobs:
           #python tvbox.py "$URL" "$CONFIG_FILE" dec        
           #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/rrzt/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
           #按需修改需解网址
-          python tvbox_pic.py "$URL" "$CONFIG_FILE"
+          python tvbox_pic2.py "$URL" "$CONFIG_FILE"
     
     - name: 1.1.1 执行原有的解密脚本，
       run: |
