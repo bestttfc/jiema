@@ -1,7 +1,8 @@
-name: 测试解密全图片 生成新Jar配置 修改
+name: 测试 解密全图片 生成新Jar配置 修改
 
 on:
   schedule:
+    - cron: '0 */6 * * *'   
     - cron: '0 0 * * *' # 每天早上 8:00 自动运行
   workflow_dispatch:     # 支持手动点击按钮运行
 
@@ -44,17 +45,26 @@ jobs:
         pwd
         python -m pip install --upgrade pip
         #pip install requests
-        pip install requests demjson3 pycryptodome
+        pip install requests demjson3 pycryptodome curl_cffi
  
     - name: 1. 执行全景的解密脚本，，
       continue-on-error: true
+      env:
+        TVBOX_FALLBACK: "1"
+        # 需要远程兜底时再取消注释：
+        TVBOX_REMOTE_FALLBACK_URL_1: "http://www.y456y.com/helper/api.php"
+        TVBOX_REMOTE_FALLBACK_URL_2: "http://159.75.152.41:88/api.php"
+        
       run: |
          cd tool/
          #python decrypt_cpu.py
           #python tvbox.py "$URL" "$CONFIG_FILE" dec        
           #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/rrzt/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
+          echo "TVBOX_FALLBACK=[${TVBOX_FALLBACK}]"
+          echo "TVBOX_REMOTE_FALLBACK_URL_1=[${TVBOX_REMOTE_FALLBACK_URL_1}]"
+          echo "TVBOX_REMOTE_FALLBACK_URL_2=[${TVBOX_REMOTE_FALLBACK_URL_2}]"  
           #按需修改需解网址
-          python tvbox_pic2.py "$URL" "$CONFIG_FILE"
+          python tvbox_pic3.py "$URL" "$CONFIG_FILE"
     
     - name: 1.1.1 执行原有的解密脚本，
       continue-on-error: true
