@@ -12,7 +12,7 @@ jobs:
     #按需修改全局变量，只需在此修改
     env:
      #原始源网址http://itv666.cc/aowu/config.webp  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
-      URL: "https://9877.kstore.space/one.json"
+      URL: "https://9877.kstore.space/sun.json"
       #URL: "https://raw.githubusercontent.com/bestttfc/jiema/main/mw.json"
       
      
