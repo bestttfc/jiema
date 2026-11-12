@@ -1,4 +1,4 @@
-name: 测试 解密全图片 生成新Jar配置 修改
+name: 无意云解密全图片 生成新Jar配置 修改
 
 on:
   schedule:
@@ -52,8 +52,8 @@ jobs:
       env:
         TVBOX_FALLBACK: "1"
         # 需要远程兜底时再取消注释：
-        TVBOX_REMOTE_FALLBACK_URL_1: "http://www.y456y.com/helper/api.php"
-        TVBOX_REMOTE_FALLBACK_URL_2: "http://159.75.152.41:88/api.php"
+        TVBOX_REMOTE_FALLBACK_URL_1: "http://159.75.152.41:88/api.php"
+        TVBOX_REMOTE_FALLBACK_URL_2: "http://www.y456y.com/helper/api.php"
         
       run: |
          cd tool/
