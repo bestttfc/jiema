@@ -154,6 +154,39 @@ def download_url(url: str) -> bytes:
                 if xrw:
                     headers["X-Requested-With"] = xrw
                 resp = requests.get(url, headers=headers, timeout=30)
+
+                # ===== 新增：非 200 状态码诊断打印 =====
+                if resp.status_code != 200:
+                    print(f"  🔍 [诊断] UA={ua} 尝试{attempt + 1}: "
+                          f"状态码={resp.status_code} {resp.reason} | "
+                          f"Content-Type={resp.headers.get('Content-Type', '-')} | "
+                          f"Content-Length={resp.headers.get('Content-Length', '-')} | "
+                          f"响应体长度={len(resp.content)}")
+                    # 每个 UA 的第一次尝试打印完整诊断，避免日志重复过多
+                    if attempt == 0:
+                        print(f"  🔍 [诊断] 请求 URL: {url}")
+                        print(f"  🔍 [诊断] 最终 URL: {resp.url}")
+                        if resp.history:
+                            print(f"  🔍 [诊断] 重定向历史: {[h.url for h in resp.history]}")
+                        print(f"  🔍 [诊断] 请求头: {dict(resp.request.headers)}")
+                        print(f"  🔍 [诊断] 响应头: {dict(resp.headers)}")
+                        try:
+                            body_text = resp.text
+                            snippet = body_text[:500].replace("\r", "\\r").replace("\n", "\\n")
+                            print(f"  🔍 [诊断] 响应体前500字符: {snippet}")
+                            stripped = body_text.lstrip()
+                            if not stripped:
+                                print(f"  🔍 [诊断] 响应体类型: 空")
+                            elif stripped.startswith("<"):
+                                print(f"  🔍 [诊断] 响应体类型: HTML")
+                            elif stripped.startswith("{") or stripped.startswith("["):
+                                print(f"  🔍 [诊断] 响应体类型: JSON")
+                            else:
+                                print(f"  🔍 [诊断] 响应体类型: 未知/其他")
+                        except Exception as diag_err:
+                            print(f"  🔍 [诊断] 响应体解码失败: {diag_err}")
+                # ===== 诊断打印结束 =====
+
                 resp.raise_for_status()
                 print(f"  ✓ 下载成功 (UA={ua}, XRW={xrw or '-'})")
                 return resp.content
