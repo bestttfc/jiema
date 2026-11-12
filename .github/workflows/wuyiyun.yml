@@ -45,12 +45,17 @@ jobs:
         pwd
         python -m pip install --upgrade pip
         #pip install requests
-        pip install requests demjson3 pycryptodome
+        pip install requests demjson3 pycryptodome curl_cffi
  
     - name: 1. 执行全景的解密脚本，，
       continue-on-error: true
+      env:
+        TVBOX_FALLBACK: "1"
+        # 需要远程兜底时再取消注释：
+        # TVBOX_REMOTE_FALLBACK_URL: "https://123.xyz/jiemi/jiemi.php"      
       run: |
          cd tool/
+         echo "TVBOX_FALLBACK=[${TVBOX_FALLBACK}]"
          #python decrypt_cpu.py
           #python tvbox.py "$URL" "$CONFIG_FILE" dec        
           #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/rrzt/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
