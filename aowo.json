@@ -28,6 +28,26 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
+      "name": "⚙️配置┃中心",
+      "key": "MyConfig",
+      "type": 3,
+      "api": "csp_AAConfigAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
+    },
+    {
+      "name": "📁资源┃中心",
+      "key": "MyAll",
+      "type": 3,
+      "api": "csp_MyAllAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
+    },
+    {
       "name": "🔥短剧┃推荐",
       "key": "Hgdh",
       "type": 3,
@@ -61,27 +81,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "⚙️配置┃中心",
-      "key": "MyConfig",
-      "type": 3,
-      "api": "csp_AAConfigAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
-    },
-    {
-      "name": "📁资源┃中心",
-      "key": "MyAll",
-      "type": 3,
-      "api": "csp_MyAllAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
-    },
-    {
-      "name": "💥玩偶┃4K",
+      "name": "🌟玩偶┃4K",
       "key": "woWogg",
       "type": 3,
       "api": "csp_WoggAmns",
@@ -92,7 +92,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "💥木偶┃4K",
+      "name": "🌟木偶┃4K",
       "key": "moWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -255,7 +255,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️花卷┃4K",
+      "name": "💎花卷┃4K",
       "key": "PanHj",
       "type": 3,
       "api": "csp_PanHjAmns",
@@ -266,7 +266,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️多多┃4K",
+      "name": "💎多多┃4K",
       "key": "ddWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -277,7 +277,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️虎斑┃4K",
+      "name": "💎虎斑┃4K",
       "key": "hbWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -288,7 +288,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️蜡笔┃4K",
+      "name": "💎蜡笔┃4K",
       "key": "lbWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -299,7 +299,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️闪电┃4K",
+      "name": "💎️闪电┃4K",
       "key": "sdWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -310,7 +310,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️Sed┃4K",
+      "name": "💎Sed┃4K",
       "key": "SeedHub",
       "type": 3,
       "api": "csp_SeedHubAmns",
@@ -321,7 +321,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️观影┃4K",
+      "name": "💎观影┃4K",
       "key": "Gying",
       "type": 3,
       "api": "csp_GyingAmns",
@@ -331,7 +331,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️七味┃4K",
+      "name": "💎七味┃4K",
       "key": "Qiwei",
       "type": 3,
       "api": "csp_QiweiAmns",
@@ -342,7 +342,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️原盘┃4K",
+      "name": "💎原盘┃4K",
       "key": "Zhinan",
       "type": 3,
       "api": "csp_ZhinanAmns",
@@ -353,7 +353,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️逸动┃4K",
+      "name": "💎逸动┃4K",
       "key": "SheQuyd",
       "type": 3,
       "api": "csp_SheQuydAmns",
@@ -363,7 +363,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️123┃4K",
+      "name": "💎123┃4K",
       "key": "SheQu123",
       "type": 3,
       "api": "csp_SheQu123Amns",
@@ -373,7 +373,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "☁️蜗牛┃4K",
+      "name": "💎蜗牛┃4K",
       "key": "SheQuwon",
       "type": 3,
       "api": "csp_SheQuwonAmns",
@@ -544,7 +544,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "⭐橘汁┃快速",
+      "name": "🔆橘汁┃快速",
       "key": "Juzhi",
       "type": 3,
       "api": "csp_JuzhiAmns",
@@ -555,7 +555,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "⭐热播┃快速",
+      "name": "🔆热播┃快速",
       "key": "Rbys",
       "type": 3,
       "api": "csp_RbysAmns",
@@ -566,7 +566,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "⭐杜北┃秒播",
+      "name": "🔆杜北┃秒播",
       "key": "Dubk",
       "type": 3,
       "api": "csp_DubkAmns",
@@ -577,7 +577,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "⭐荐片┃快速",
+      "name": "🔆荐片┃快速",
       "key": "JPian",
       "type": 3,
       "api": "csp_JPianAmns",
@@ -588,7 +588,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "⭐爱看┃采集",
+      "name": "🔆爱看┃采集",
       "key": "AiBot",
       "type": 3,
       "api": "csp_AiBotAmns",
@@ -865,6 +865,16 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
+      "name": "🎸橙子┃音乐",
+      "key": "Czyy",
+      "type": 3,
+      "api": "csp_CzyyAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
+    },
+    {
       "name": "🎸酷狗┃音乐",
       "key": "KuGou",
       "type": 3,
@@ -898,10 +908,20 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
     },
     {
-      "name": "🔍fish┃盘搜",
+      "name": "🔍飞鱼┃盘搜",
       "key": "PSfish",
       "type": 3,
       "api": "csp_PSfishAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/aowo.jar"
+    },
+    {
+      "name": "🔍觅寻┃盘搜",
+      "key": "PSdju",
+      "type": 3,
+      "api": "csp_PSdjuAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
