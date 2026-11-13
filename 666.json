@@ -1,6 +1,6 @@
 {
   "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar",
-  "wallpaper": "./img/18.jpg",
+  "wallpaper": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/img/18.jpg",
   "logo": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/img/19.gif",
   "warningText": "资源来自网络，无任何盈利纯学习技术！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
@@ -1157,7 +1157,7 @@
       "name": "🪆养生｜知识学堂",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://movie.66608880.xyz/ext/9.json",
+      "ext": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/ext/9.json",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1703,7 +1703,7 @@
       "name": "剧圈 • 影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://movie.66608880.xyz/XYQHiker/剧圈影视.json",
+      "ext": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/XYQHiker/剧圈影视.json",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
@@ -1758,7 +1758,7 @@
       "name": "路漫漫 • 动漫",
       "type": 3,
       "api": "https://movie.66608880.xyz/js/drpy2.min.js",
-      "ext": "https://movie.66608880.xyz/js/路漫漫.js",
+      "ext": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/js/路漫漫.js",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
@@ -1766,7 +1766,7 @@
       "name": "去看吧 • 动漫",
       "type": 3,
       "api": "https://movie.66608880.xyz/js/drpy2.min.js",
-      "ext": "https://movie.66608880.xyz/js/去看吧.js",
+      "ext": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/js/去看吧.js",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
@@ -1816,7 +1816,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://movie.66608880.xyz/XYQHiker/电影港.json",
+      "ext": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/XYQHiker/电影港.json",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
@@ -2413,7 +2413,7 @@
     {
       "name": "📺简单TV(EXO)",
       "type": 0,
-      "url": "./live/12.txt",
+      "url": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/live/12.txt",
       "timeout": 10,
       "playerType": 2,
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,http://epg.51zmt.top:8000/e.xml,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz",
@@ -2423,12 +2423,12 @@
     {
       "name": "央视TV直播",
       "type": 1,
-      "url": "./live/15.txt"
+      "url": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/live/15.txt"
     },
     {
       "name": "咪咕TV直播",
       "type": 1,
-      "url": "./live/16.txt"
+      "url": "http://movie.66608880.xyz/tvbox/pkg/%E4%B8%89%E5%90%88%E4%B8%80%E5%AE%8C%E7%BE%8E%E7%89%88/live/16.txt"
     },
     {
       "name": "☁️风云直播☁️",
@@ -2452,40 +2452,9 @@
     {
       "name": "综合直播",
       "type": 0,
+      "playerType": 2,
       "url": "http://193.123.86.190:14888/TV/iptv.php",
-      "playerType": 2,
       "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-    {
-      "name": "范明明Live",
-      "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "B站直播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "ZBDS",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.txt",
-      "playerType": 2,
-      "timeout": 10
     },
     {
       "name": "📺简单TV(EXO)2",
@@ -2503,6 +2472,13 @@
       "url": "http://www.52top.com.cn:678/downloads/migu.txt"
     },
     {
+      "name": "看球",
+      "type": 0,
+      "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "timeout": 10
+    },
+    {
       "name": "smt直播",
       "type": 0,
       "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
@@ -2513,6 +2489,13 @@
       "name": "电视Live",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "范明明Live",
+      "type": 0,
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "playerType": 2,
       "timeout": 10
     },
@@ -2540,6 +2523,30 @@
       "timeout": 10,
       "changeable": 1,
       "playerType": 2
+    },
+    {
+      "name": "虎牙一起看2",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "斗鱼一起看2",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "B站直播2",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
     },
     {
       "name": "YY轮播2",
