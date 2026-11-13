@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar",
   "logo": "http://php.540734621.xyz/logo/logo.php",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -19,7 +19,7 @@
           "tmdb": "https://yc.wya6.cn/zhwj/json/tmdb.json"
         }
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "YGP",
@@ -29,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Guazi",
@@ -37,14 +37,14 @@
       "type": 3,
       "api": "csp_Guazi",
       "searchable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiConfig",
       "name": "设置┃中心",
       "type": 3,
       "api": "csp_WuyiConfig",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Local",
@@ -58,7 +58,7 @@
         "type": "list"
       },
       "ext": "https://yc.wya6.cn/zhwj/json/share.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "ALLLive",
@@ -66,7 +66,7 @@
       "type": 3,
       "api": "csp_ALLLive",
       "searchable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "txsp",
@@ -77,7 +77,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yc.wya6.cn/zhwj/js/腾讯视频.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "mgsp",
@@ -88,7 +88,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yc.wya6.cn/zhwj/js/芒果视频.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "wybl",
@@ -99,7 +99,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yc.wya6.cn/zhwj/js/哔哩视频.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "aqy",
@@ -110,7 +110,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yc.wya6.cn/zhwj/js/爱奇艺.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "yksp",
@@ -121,7 +121,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yc.wya6.cn/zhwj/js/优酷视频.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiPs",
@@ -130,7 +130,7 @@
       "api": "csp_WuyiPs",
       "searchable": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Wogg",
@@ -150,7 +150,7 @@
         ],
         "filter": "https:/yc.wya6.cn/zhwj/json/wogg.json"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiMuou",
@@ -165,7 +165,7 @@
           "https://666.666291.xyz"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Libvio",
@@ -182,7 +182,7 @@
           "https://libviogroup.github.io"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "KZN",
@@ -191,7 +191,7 @@
       "api": "csp_KZN",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "SeedHub",
@@ -207,7 +207,7 @@
           "http://104.243.25.80"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "PanWebShare123",
@@ -229,7 +229,7 @@
         ],
         "cookie": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "PanWebShareGuangYa",
@@ -250,7 +250,7 @@
         ],
         "cookie": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Yidong4K",
@@ -261,7 +261,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WoNiu",
@@ -270,8 +270,8 @@
       "api": "csp_WoNiu",
       "searchable": 1,
       "changeable": 1,
-      "ext": "AafjJiCAVYChjVWosLrXJvNdVCpfr0RYEgvlPT37uNtQZ/eHi7eSVoHndr9gPBM8feAry0M9JUwXdYWn42rK3y0=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "ext": "AQTsMs5XDhSX6A6MyWGNkoo+yeY+eqNMsPLAaM4ugDkNYblK9KU6lCb3Y4VMuNTToUd+m+LM1jd0ZJejdfncAH0=",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Qiwei",
@@ -291,7 +291,7 @@
           "https://www.qncool.com"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "gying",
@@ -314,7 +314,7 @@
           "https://www.黑客帝国.com"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiDuoduo",
@@ -329,7 +329,7 @@
           "https://tv.214521.xyz"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "PanWebShareHJ",
@@ -347,7 +347,7 @@
       },
       "changeable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiHuban",
@@ -361,7 +361,7 @@
           "http://38.76.197.172:16969"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiShayang",
@@ -375,7 +375,7 @@
           "http://38.76.197.172:12521"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiBaling",
@@ -394,7 +394,7 @@
       },
       "changeable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "ShuangXing",
@@ -408,7 +408,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "DianYingYunJi",
@@ -417,7 +417,7 @@
       "api": "csp_DianYingYunJi",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiShandian",
@@ -434,7 +434,7 @@
       },
       "changeable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiLabi",
@@ -450,7 +450,7 @@
           "http://www.tvpanpan.site"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "BanYunDao",
@@ -461,7 +461,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "KZN_Xiaochou",
@@ -477,7 +477,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "HDmoli",
@@ -494,7 +494,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "AiPan",
@@ -505,7 +505,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Jike",
@@ -519,7 +519,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "KKPan",
@@ -533,7 +533,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "MiPan",
@@ -544,7 +544,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "KuLe",
@@ -555,7 +555,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Baiku",
@@ -566,7 +566,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "QuPanSo",
@@ -577,7 +577,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "yt4K",
@@ -587,7 +587,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://yc.wya6.cn/zhwj/py/yt4K.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "橘汁4K",
@@ -597,7 +597,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://yc.wya6.cn/zhwj/py/橘汁4K.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "云播4K",
@@ -607,7 +607,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://yc.wya6.cn/zhwj/py/云播4K.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "懂片帝",
@@ -617,7 +617,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://yc.wya6.cn/zhwj/py/懂片帝.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "小苹果",
@@ -627,7 +627,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://yc.wya6.cn/zhwj/py/小苹果.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "追剧达人",
@@ -637,7 +637,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://yc.wya6.cn/zhwj/py/追剧达人.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "珊瑚影视",
@@ -647,7 +647,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://yc.wya6.cn/zhwj/py/珊瑚影视.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Yimi",
@@ -658,7 +658,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "AppV7_Fz",
@@ -669,7 +669,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AppV7Fz",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "AppV7_Zjdr",
@@ -680,7 +680,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "mtq",
@@ -693,7 +693,7 @@
       "ext": {
         "hide_unplayable": false
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "mino",
@@ -707,7 +707,7 @@
         "rotate_device": 1,
         "auto_fallback": 1
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "symx",
@@ -721,7 +721,7 @@
         "site": "https://film.symx.club",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "JuXiaFan",
@@ -735,7 +735,7 @@
         "site": "http://jumianfei.com",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "KanJuMe",
@@ -748,7 +748,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "dyx",
@@ -758,7 +758,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "dsxys",
@@ -769,7 +769,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AppV7Dsx",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "JpysWorld",
@@ -783,7 +783,7 @@
         "site": "https://yvyeigh.com",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "枫叶",
@@ -797,7 +797,7 @@
         "site": "https://www.vip1949.com/",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "99",
@@ -814,7 +814,7 @@
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "99",
@@ -832,7 +832,7 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "bubu_spider",
@@ -851,7 +851,7 @@
         "sign": "ddtvf65f3a83d6d9ad6f",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "bl",
@@ -862,7 +862,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARW5G3dI8+kRGFZVm99CEj84aiRfEmSa9cOJahkOKr5toa7UllLsul7GG6JHFdjCL8V0srL8TxNP6atl9QwOXSQ=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "煮雪",
@@ -873,7 +873,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AeyF6h1jWTy6Iy/PvUv8E7B6l+KzTbCPTwfZpY7AtuVuYzLCB/rKRKlSLGjn4UJB3JRMEc4MsnxGIqnJiTpkt9QoH9zDPgsPls/gTSp15S2MeBz8SpPsDGo1GSErFgVPvA==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "棠梨",
@@ -884,7 +884,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AWmcr6wsp6vkrEcvz5fTQ8FpaWYTkp3akQvpcvTZ1Q4mJaUWWcBPClwLifL8+ERHV9QY5WtbY3yaAesbAe6HuT1qR9awWi8BfTBwB3s+BakCusqj7XFy/IMr5y4r9iaBxA==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "KaiFan",
@@ -895,7 +895,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARCXWQnm/4d9BXUiBpZmwYBAWMs7QVDWUpw+tyHAksqHwyN4VpxCSvErNm4qPilH8w84St5AAb/UOY6nSJdcumM=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "XieHui",
@@ -906,7 +906,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "Aagp5vEEkIdsE5m+2TI5Opkxg2Bgaf89VCcgHZEBsDgASpLc6UqNxkxHVr8cRG5kgkjOOLZDg6r0lekIT25lyvM=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "FaDai",
@@ -917,7 +917,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AadX3+EDvamMI/Z0Mag7mXtgFn2Ba3Cj3yiT79a6zGH0QG5M0j5FGoBpkWEmZ0O05quFjeHez/tign05yQ2IKVU=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "HuangYou",
@@ -928,7 +928,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AaSkQve1vyzODRUFwj5lTSaOb2+l/QaKJI+yI8p5/N6B5rRSfzSu6md80doriHUBzDtNqbPf24R6UNPIfDMNsps=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "SuiYuan",
@@ -939,7 +939,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AQJDaogpQ3/V0Gw1rE5ScHdgfRVo5LfpNTwddmR4YQDjBaYZUJdyP21f37VXfHL1AZQNfSgEiBsj/ie7lY8dFoA=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "TangPing",
@@ -950,7 +950,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AUwh/Xaav1Yo9jyUjrIBE7qY4qb8NznqCoBt7647cPu9y30KUOV+6gIzrt8hir/x2kRpacsB66ED8Il+pBBioF8=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "LaiChuang",
@@ -961,7 +961,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AaaZI/310cogEYQOfq+T3WNirJIDrtYEyGWKtRSD94yWqRwa/vSzNg2j1fyDAzO1g7L1HdMtFGRJgOyaXzEjVSw=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "bandeng",
@@ -972,7 +972,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "Aagnpb0A1PP6gBjPT1d4Tp8P0iHA573fLs1VqZultnsX/2G+jFWtuvzvE9PQxHVw3zjpUyeJRRAA8a04WnvQzGE=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "mandian",
@@ -983,7 +983,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ATQJYgqCiy1clkWvDaLibiPmhaNbQ39dFbviUk1ScMD9Ci1UyxYgenSED9PtzpzpSN9HwZcEzy4Vi0+e0E5bBik=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "ZhiWo",
@@ -994,7 +994,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AZIgGRd4DRH07q+c105GwpodVBn3JbaOfzrUHB5eyN8qtJ4dPx83sKCwGruBH+a6j7bGXdN2ZeqCj9ScG0glZKE=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "xiaozuo",
@@ -1005,7 +1005,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AQBD2j+ymsB1kUQwTxBAEf97tnCBn4v4PtBAP+PfFHCLKy8XM2MtkWyfPNR+IA50Jo130jfGpBj3QbGzBzKoT18=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "KanJu",
@@ -1020,7 +1020,7 @@
         "site": "https://kanju.ai",
         "playname": "ly"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "凝光",
@@ -1031,7 +1031,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "ATC84bPmmDSK9+RmHLxDlum0+KAJ1EoLKTF9NR3qs1YmZil/kexOmZ7Q+6q9GzFI9BVb5M26SOk9mX6Kpm216ZCm5HUZZpTBVnXcj9YXxADAIha8KoofUaOZVKHuF+RGnQ==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "素笺",
@@ -1042,7 +1042,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AUjYKcxum0m54p2KpNasmm6PCYYn8OaVE20Xa8gVcjHZ/eXKaosPwTG7sI9GkmX7W4VuLqHC39O2LClbdETluQ+8+g00IQu56Hlbi+lYuoIQfbEEjQbuoR4ZgBlP84b8Qg==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "长泽",
@@ -1050,7 +1050,7 @@
       "type": 3,
       "api": "csp_App88",
       "ext": "ATNzA1zM+otwNyj39kYIffOCJbCw38NbsoeKzYpOueFt/yLqcHkFl0VT+8RwQq88jlZTkh8gwZ9vd1Mhwem+fI/UzjCwJRKBlXd4ugJPRZmR",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "云岫",
@@ -1061,7 +1061,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "Ab5Snb4PdTnfjPrR5jQui7/J5W6GoWsyqSfwZhpz/phm3FkV9R2MhA+npcLVnAV/SQPOfyv9qeWroIZwnOvsj1WeIEtoRH3GcE72JQ6bAbpID6KKrB70n+I5t2iItsakKg==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "zhiqiu",
@@ -1070,7 +1070,7 @@
       "api": "csp_zhiqiu",
       "searchable": 1,
       "ext": "AZLDs33jhfQG7tlZdeEKhHe43zfsqbg9YvKCRMTNOKvCqX4zylLTQsZAEMPK6yFS2uh5VzFtb1deDOV1rd3tWFw=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "WuyiHxq",
@@ -1079,7 +1079,7 @@
       "api": "csp_WuyiHxq",
       "searchable": 1,
       "ext": "ATHw/zKYduUd5/+B7ipw/pBzCTW6HTlsJqihFdGSNj9e5qLe+gt1vsRRjKJWKSITItpAMjvTaRsqKyRCcADxvSU=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Rebo",
@@ -1094,7 +1094,7 @@
         "site": "http://v.rbotv.cn",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "竹隐",
@@ -1105,7 +1105,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AU7ZPnpRcrPpN6ZsP+Z3eqO5F+pKZGQXdyEsQfl0q9V1N5QOyLeqh7lKVP1PzKL4xUclT6e3zyutK/WSM2UYvvu/pjS88rihWIrRC5exiSRZOKxIR2MkI0D3HU11+WvXbQ==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "香篆",
@@ -1116,7 +1116,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AcMfWOvqRMo98OeAxVF4vBfc4U9JEZj4xUZ4uyoH4QEgj+LDMrZQQqgt4V3ZLnA0TtBvz7fin3Fldk7sRIbC0RKASP8DobAdC/a/mV2Cy49LAWnm+hTylPrQIoR7Q57cjg==",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "兰芷",
@@ -1124,7 +1124,7 @@
       "type": 3,
       "api": "csp_AppUn",
       "ext": "AUU6doauHIxEWJ87xt57iC1fHB2/PhPchOiLvyjbgveyeQPFm5gJDA9NmgN+FuQNGwTCegjvgFpWnT0C/Ma9NQ82GPzcn30x7ezYw70uOkc+",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "疏影",
@@ -1132,7 +1132,7 @@
       "type": 3,
       "api": "csp_AppUn",
       "ext": "AVjAulVwtSNxvkPYCsJv1zsUp1QZqwNdlHEZcbwNaxx3Z12oeTq8PDnJoWemaZbtzv5/G/Yeg6W8m+tV8B1KN8qXnYRV9n03LNRdveOoTld/",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "枕霜",
@@ -1140,7 +1140,7 @@
       "type": 3,
       "api": "csp_AppUn",
       "ext": "Aa0o1VKUCY4VLe5Ie6LrUg8Nozm+mj+Ezxeem66efzlVe3OC9gDfaqCfDUGfBTrRrcN0T7vedb9Y2QljxoTv4IwwflG5f14tMdjEGSjI5gAI",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "观澜",
@@ -1148,7 +1148,7 @@
       "type": 3,
       "api": "csp_AppUn",
       "ext": "AdkjyqIkadfvIh+R1lwRcy9u9WItprK+U3huzwW26VyZL40/gdeaJq5Jf/OUELkW3ps8yjFKsYqtviUvvD7cp6JN1qtB0KXEreo3l020HMaA",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "孟葭",
@@ -1156,7 +1156,7 @@
       "type": 3,
       "api": "csp_AppUn",
       "ext": "Aeg2SEGWnuuqmlagnBjgwSlMtnjuB0enC79a2DfY6RvdlmupogZSYlUjtmUwiyT+jCCBOvxe3GtdetC6bpEKPQXbNC7uS/qON+XTkAzDi9vc",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "南枝",
@@ -1164,7 +1164,7 @@
       "type": 3,
       "api": "csp_AppUn",
       "ext": "AXOal+NmYx/DHNsCWW3PLi7ibLWe+msRSpOOo9CCl0k0MagxKpCGv/IY57p3y4uWIJNt+OQBp2MQ1nApzgGvIi44F6sWNu6h0BPiKsyeY0HJ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "沐辞",
@@ -1172,7 +1172,7 @@
       "type": 3,
       "api": "csp_AppUn",
       "ext": "AVhXHdqL2jpWqey2uswWoEkxsGvmnmOW9zc+2PUlwlkmPF/v+myTqO6dkcAwe79zW67ZKHzPmkgpjMzywLYq1+xgZj7p5iYozsQd8oxJWxaZ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "lyys",
@@ -1187,7 +1187,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Wwys",
@@ -1198,7 +1198,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "CZ",
@@ -1221,7 +1221,7 @@
           "https://czzy.top"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "wencai",
@@ -1230,7 +1230,7 @@
       "api": "csp_WenCai",
       "searchable": 1,
       "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "TvDy",
@@ -1239,7 +1239,7 @@
       "api": "csp_TvDy",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "SaoHuo",
@@ -1250,7 +1250,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://shdy5.us",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Duboku",
@@ -1260,7 +1260,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "HonHon",
@@ -1276,7 +1276,7 @@
         "quality": "1080p",
         "danmu": false
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "hgdj",
@@ -1291,7 +1291,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "DJHub",
@@ -1303,7 +1303,7 @@
       "genre": "shortdrama",
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "打盹",
@@ -1314,7 +1314,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "Afwfa27nW+ypswOhWK00aaRwVABz32ip15bHvvwYG7dItu3cyRld67mXFQBhWSE+lljdKpf8SsCj87oX8HtVQwQ=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "XingHui",
@@ -1326,7 +1326,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": "AciRuKeEOF1zugG1xCV97oioac/jQr0bu9tdSCKDkiriz/961SHCcWXBQN+ut8bDBKm4bgdxHkkA53Hz3IlEOPU=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "FanShu",
@@ -1337,7 +1337,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "ATRKbRVZ+0iAF3VtiEl2yaQpfr/La/gfF7APq1gyc0MmfzYKC1Q8+9v8Z2qs8ajptpHfq2v9it704BXeP7Ridw4=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "XgAnime",
@@ -1347,7 +1347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Manbo",
@@ -1358,7 +1358,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Gugu",
@@ -1369,7 +1369,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0=",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "ciyuancheng",
@@ -1385,7 +1385,7 @@
         "password": "xiaomi888",
         "danmu": true
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "xifan",
@@ -1399,7 +1399,7 @@
         "email": "",
         "password": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "共和",
@@ -1409,7 +1409,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Dora",
@@ -1419,7 +1419,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Dmbus",
@@ -1429,7 +1429,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Jianpian",
@@ -1438,7 +1438,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Xb6v",
@@ -1447,7 +1447,7 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "JSo",
@@ -1460,7 +1460,7 @@
           "https://j-so.com"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Tiu6",
@@ -1474,7 +1474,7 @@
           "https://www.tiu6.cn"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "kgyy",
@@ -1482,7 +1482,7 @@
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "kwyy",
@@ -1490,7 +1490,7 @@
       "type": 3,
       "api": "csp_Kuwo",
       "searchable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Buguyy",
@@ -1500,7 +1500,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "ChuXin",
@@ -1510,7 +1510,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "aiting",
@@ -1520,7 +1520,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Music24bit",
@@ -1538,7 +1538,7 @@
           "薛之谦"
         ]
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "yyDJ",
@@ -1551,7 +1551,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "lhDJ",
@@ -1564,7 +1564,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "qtFM",
@@ -1577,7 +1577,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "xqdd",
@@ -1590,7 +1590,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "TangDou_Spider",
@@ -1601,7 +1601,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "bili",
@@ -1613,7 +1613,7 @@
       "ext": {
         "cookie": ""
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "BiliHeji",
@@ -1630,7 +1630,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "name": "哔哩┃歌曲",
@@ -1647,7 +1647,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "tq",
@@ -1661,7 +1661,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "TuXiaoBei",
@@ -1671,7 +1671,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "BeiLeHu",
@@ -1681,7 +1681,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "少儿教育",
@@ -1698,7 +1698,7 @@
       "ext": {
         "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "xxkt",
@@ -1715,7 +1715,7 @@
       "ext": {
         "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "czkt",
@@ -1732,7 +1732,7 @@
       "ext": {
         "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "gzjy",
@@ -1749,7 +1749,7 @@
       "ext": {
         "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Kanqiu",
@@ -1763,7 +1763,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Sir88",
@@ -1776,7 +1776,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "QiutongTY",
@@ -1786,7 +1786,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "GuaziTY",
@@ -1796,7 +1796,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "919TY",
@@ -1806,7 +1806,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "kfty",
@@ -1819,7 +1819,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "TingBook",
@@ -1832,7 +1832,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "TingBookJinXia",
@@ -1846,7 +1846,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "TingYou",
@@ -1858,7 +1858,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "bkts",
@@ -1871,7 +1871,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Wuyidrive",
@@ -1882,7 +1882,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://yc.wya6.cn/zhwj/json/drive.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "Wallpaper",
@@ -1897,7 +1897,7 @@
         "type": "rect",
         "ratio": 0.56
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "P74",
@@ -1913,7 +1913,7 @@
         "type": "rect",
         "ratio": 0.56
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "MeiRenTu",
@@ -1928,7 +1928,7 @@
         "type": "rect",
         "ratio": 0.56
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "jjjx",
@@ -1943,7 +1943,7 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "yst",
@@ -1957,7 +1957,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
       "key": "push_agent",
@@ -1968,7 +1968,7 @@
       "changeable": 0,
       "indexs": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/rrzt/jiemi/main/wuyiyun.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     }
   ],
   "lives": [
