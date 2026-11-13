@@ -18,8 +18,8 @@ jobs:
      
       #个人仓库 本地JAR地址  代理/用户名/仓库名/输出文件名  PROXY/GIT_USER/GIT_CK/输出文件名/JAR_FILE
       PROXY: "https://gh-proxy.org/https://raw.githubusercontent.com"
-      GIT_USER: "rrzt"
-      GIT_CK: "jiemi"
+      GIT_USER: "bestttfc"
+      GIT_CK: "jiema"
       #输出文件名，按需修改
       JAR_FILE:  "wuyiyun.jar"
       JSON_FILE: "wuyiyun.json"
