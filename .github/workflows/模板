@@ -1,4 +1,4 @@
-name: 模板 解密全图片 生成新Jar配置 修改
+name: macha2解密全图片 生成新Jar配置 修改（批量cpu.json、  cpu.jar，逐条 “修改” ）
 
 on:
   schedule:
@@ -12,23 +12,23 @@ jobs:
     #按需修改全局变量，只需在此修改
     env:
      #原始源网址http://itv666.cc/aowu/config.webp  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
-      URL: "https://yc.wya6.cn/wykj.php"
-      #URL: "https://raw.githubusercontent.com/rrzt/jiemi/main/mw.json"
+      URL: "https://gh-proxy.org/https://github.com/ssm123-coder/a/blob/main/b"
+      #URL: "https://raw.githubusercontent.com/ttfc8/jiemi/main/mw.json"
       
      
       #个人仓库 本地JAR地址  代理/用户名/仓库名/输出文件名  PROXY/GIT_USER/GIT_CK/输出文件名/JAR_FILE
       PROXY: "https://gh-proxy.org/https://raw.githubusercontent.com"
-      GIT_USER: "rrzt"
-      GIT_CK: "jiemi"
+      GIT_USER: "bestttfc"
+      GIT_CK: "jiema"
       #输出文件名，按需修改
-      JAR_FILE:  "wuyiyun.jar"
-      JSON_FILE: "wuyiyun.json"
+      JAR_FILE:  "macha2.jar"
+      JSON_FILE: "macha2.json"
       #解密后原文存放临时文件中，不保存，如需测试保存情况，提前以前代码 name: 4. 强行提交最新的 cpu.json 和 cpu.jar 到仓库，按需修改输出文件名
       CONFIG_FILE: "tmp_config.json"
     # 固定基础域名，针对  ./a.jar文件  本地化包赋 下载路径 供后续下载
-      BASE_DOMAIN: "https://yc.wya6.cn/"
+      BASE_DOMAIN: "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/"
     #固定基础域名，针对./a.js ./a.json 
-      BASE_URL: "https://yc.wya6.cn/"
+      BASE_URL: "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/"
 
 
     steps:
@@ -54,16 +54,12 @@ jobs:
         # 需要远程兜底时再取消注释：
         TVBOX_REMOTE_FALLBACK_URL_1: "http://159.75.152.41:88/api.php"
         TVBOX_REMOTE_FALLBACK_URL_2: "http://www.y456y.com/helper/api.php"
-        
       run: |
          cd tool/
-         #python decrypt_cpu.py
-          #python tvbox.py "$URL" "$CONFIG_FILE" dec        
-          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/rrzt/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
           echo "TVBOX_FALLBACK=[${TVBOX_FALLBACK}]"
           echo "TVBOX_REMOTE_FALLBACK_URL_1=[${TVBOX_REMOTE_FALLBACK_URL_1}]"
-          echo "TVBOX_REMOTE_FALLBACK_URL_2=[${TVBOX_REMOTE_FALLBACK_URL_2}]"  
-          #按需修改需解网址
+          echo "TVBOX_REMOTE_FALLBACK_URL_2=[${TVBOX_REMOTE_FALLBACK_URL_2}]"            
+         #按需修改需解网址
           python tvbox_pic3.py "$URL" "$CONFIG_FILE"
     
     - name: 1.1.1 执行原有的解密脚本，
@@ -72,7 +68,7 @@ jobs:
          cd tool/
          #python decrypt_cpu.py
           #python tvbox.py "$URL" "$CONFIG_FILE" dec        
-          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/rrzt/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
+          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/ttfc8/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
           #按需修改需解网址
           if [ ! -f "$CONFIG_FILE" ] || ! grep -q -E "spider|sites" "$CONFIG_FILE"; then
           python tvbox.py "$URL" "$CONFIG_FILE" dec
