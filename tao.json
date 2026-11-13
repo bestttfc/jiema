@@ -1,0 +1,953 @@
+{
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar",
+  "logo": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/icon.gif",
+  "icon": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/icon.gif",
+  "sites": [
+    {
+      "key": "配置中心",
+      "name": "Kishûtô｜☛配置中心☚",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "oval"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "豆瓣",
+      "name": "豆瓣｜片单",
+      "type": 3,
+      "api": "csp_Douban",
+      "indexs": 1,
+      "searchable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "Kishuto",
+      "name": "◎Kishuto 聚合〖Py〗",
+      "type": 3,
+      "api": "https://gitee.com/tao060702/tvbox/raw/master/tv/20261111.231907/Kishuto.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "xifan",
+      "name": "◎稀饭聚合〖Py〗",
+      "type": 3,
+      "api": "https://gitee.com/tao060702/tvbox/raw/master/tv/20261111.231907/xifan.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "山楂4K",
+      "name": "◎山楂〖4K解析站〗",
+      "type": 3,
+      "api": "csp_AppSHANZ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "河豚4K",
+      "name": "◎河豚〖4K解析站〗",
+      "type": 3,
+      "api": "csp_AppHT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "影探4K",
+      "name": "◎影探4K〖4K解析站〗",
+      "type": 3,
+      "api": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/py/yingtan4k.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "稀饭动漫",
+      "name": "☃稀饭动漫〖日漫〗",
+      "type": 3,
+      "api": "csp_AnimeXifan",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "玩偶",
+      "name": "❶玩偶〖网盘〗",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "木偶",
+      "name": "❷木偶〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://www.muoua.top",
+          "https://666.666291.xyz",
+          "https://123.666291.xyz",
+          "https://333.333291.xyz"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "快映",
+      "name": "❸快映〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "闪电",
+      "name": "❹闪电〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://shandian.blog"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "蜡笔",
+      "name": "❺蜡笔〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.fmcf.fun",
+          "https://www.mmpanpan.site",
+          "http://tvpanpan.site",
+          "http://www.tvpanpan.site"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "多多",
+      "name": "❻多多〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "八零",
+      "name": "❼八零〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "虎斑",
+      "name": "❽虎斑〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "花卷",
+      "name": "❾花卷〖网盘〗",
+      "type": 3,
+      "api": "csp_PanWebShareHJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "种子",
+      "name": "❿种子〖网盘〗",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": {
+        "site": [
+          "https://sidhub.cc",
+          "https://seeduck.cc",
+          "https://hubdog.cc",
+          "http://104.243.25.80"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "搬运",
+      "name": "⓫搬运〖网盘〗",
+      "type": 3,
+      "api": "csp_BanYunDao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "指南",
+      "name": "⓬指南〖网盘〗",
+      "type": 3,
+      "api": "csp_4KZhinan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://4kzn.cc"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "小丑",
+      "name": "⓭小丑〖网盘〗",
+      "type": 3,
+      "api": "csp_4KZhinan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://4kxc.com"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "茉莉",
+      "name": "⓮茉莉〖网盘〗",
+      "type": 3,
+      "api": "csp_HDmoli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.hdmoli.com",
+          "https://www.hdmoli.pro"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "爱盼",
+      "name": "⓯爱盼〖网盘〗",
+      "type": 3,
+      "api": "csp_AiPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "移动",
+      "name": "⓰移动〖网盘〗",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "即刻",
+      "name": "⓱即刻〖网盘〗",
+      "type": 3,
+      "api": "csp_Jike",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "双星",
+      "name": "⓲双星〖网盘〗",
+      "type": 3,
+      "api": "csp_ShuangXing",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "卡卡",
+      "name": "⓳卡卡〖网盘〗",
+      "type": 3,
+      "api": "csp_KKPan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    },
+    {
+      "key": "热播影视",
+      "name": "①热播〖APP〗",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "米诺",
+      "name": "②米诺〖APP〗",
+      "type": 3,
+      "api": "csp_AppMN",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "下饭",
+      "name": "③下饭〖APP〗",
+      "type": 3,
+      "api": "csp_JuXiaFan",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "快映fox",
+      "name": "④快映〖APP〗",
+      "type": 3,
+      "api": "csp_AppFox",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.pjb777.top/ky4kbgq7b273.json",
+      "timeout": 60
+    },
+    {
+      "key": "一起影视",
+      "name": "⑤一起〖APP〗",
+      "type": 3,
+      "api": "csp_AppYQK",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "咕噜",
+      "name": "⑥咕噜〖APP〗",
+      "type": 3,
+      "api": "csp_Gulu",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "布布",
+      "name": "⑦布布〖APP〗",
+      "type": 3,
+      "api": "csp_YunDuo",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://323433ssdfd.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+        "aid": "com.web.player",
+        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "sign": "ddtvf65f3a83d6d9ad6f"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "马猴影视",
+      "name": "⑧马猴〖APP〗",
+      "type": 3,
+      "api": "csp_App3Q",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "host": "https://skykb.com",
+        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.damahou.tv",
+        "sk": "SK-woniu-thanks",
+        "ver": "1"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "韩圈",
+      "name": "⑨韩圈〖APP〗",
+      "type": 3,
+      "api": "csp_Hxq",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "剧圈99",
+      "name": "⑩剧圈〖APP〗",
+      "type": 3,
+      "api": "csp_App99",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "半日99",
+      "name": "⑪半日〖APP〗",
+      "type": 3,
+      "api": "csp_App99",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "天堂",
+      "name": "⑫天堂〖APP〗",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "橘汁",
+      "name": "⑬橘汁〖APP〗",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.asjdhjhd.mgd.p3",
+        "host": "",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
+        "version": "3.0.7.0",
+        "decrypt": "1"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "华谊",
+      "name": "⑭华谊〖APP〗",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "V04XQZNYRWN6T0JODZFIAG5CTZB3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.sncgtzxyx",
+        "host": "",
+        "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727",
+        "version": "6.0.0.1",
+        "decrypt": "0"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "苹果",
+      "name": "⑮苹果〖APP〗",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "蓝鹰",
+      "name": "⑯蓝鹰〖APP〗",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "url": "http://103.217.190.91:5566",
+        "dataKey": "hagYExMdMkeWfemK",
+        "dataIv": "hagYExMdMkeWfemK",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "蓝鸟",
+      "name": "⑰蓝鸟〖APP〗",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+        "dataKey": "oW5UxZ5kWVr1DI69",
+        "dataIv": "oW5UxZ5kWVr1DI69",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "王子",
+      "name": "⑱王子〖APP〗",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "茉莉Get",
+      "name": "⑲茉莉〖APP〗",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/app.jar;md5;df1f28b6486fd15b6cc2488ca65160ab",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      },
+      "timeout": 60
+    },
+    {
+      "name": "▷嗷呜一线〖嗷呜〗",
+      "key": "AppV7Fz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "▷嗷呜二线〖嗷呜〗",
+      "key": "AppV7Xy",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xy"
+    },
+    {
+      "name": "▷嗷呜三线〖嗷呜〗",
+      "key": "AppV7Zjdr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Zjdr"
+    },
+    {
+      "name": "▷嗷呜四线〖嗷呜〗",
+      "key": "AppV7Xyz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xyz"
+    },
+    {
+      "name": "▷嗷呜五线〖嗷呜〗",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "name": "▷嗷呜六线〖嗷呜〗",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Mtq"
+    },
+    {
+      "name": "▷嗷呜七线〖嗷呜〗",
+      "key": "AppV7Llq",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Llq"
+    },
+    {
+      "name": "▷嗷呜八线〖嗷呜〗",
+      "key": "AppV7Xsz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xsz"
+    },
+    {
+      "name": "▷嗷呜九线〖嗷呜〗",
+      "key": "AppV7Xhr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xhr"
+    },
+    {
+      "name": "▷嗷呜十线〖嗷呜〗",
+      "key": "AppV7Dsx",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/tao060702/tvbox-Kishuto/raw/master/jar/lib3.jar;md5;6870d54372a2b98ee6f327bae3541dbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Dsx"
+    },
+    {
+      "key": "觅盘",
+      "name": "❁觅盘〖盘搜〗",
+      "type": 3,
+      "api": "csp_MiPan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/tao.jar"
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
+  ],
+  "lives": [
+    {
+      "name": "☁️风云直播☁️",
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "header": {
+        "User-Agent": "okhttp/5.1.0"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "name": "农民",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "火山",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "饭团点击",
+      "hosts": [
+        "dadagui",
+        "freeok",
+        "dadagui"
+      ],
+      "script": [
+        "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
+      ]
+    },
+    {
+      "name": "毛驴点击",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
+      ]
+    }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ]
+}
