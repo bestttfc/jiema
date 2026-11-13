@@ -72,7 +72,7 @@
     },
     {
       "key": "咖啡·短剧",
-      "name": "☕️果果┃秒播短剧",
+      "name": "☕️果果┃短剧",
       "type": 3,
       "api": "csp_KaFeiDJ",
       "searchable": 1,
@@ -81,222 +81,6 @@
       "lang": "ds",
       "genre": "短剧",
       "ext": {
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "AppV7_Fz",
-      "name": "🐷小猪┃秒播4K",
-      "type": 3,
-      "api": "csp_AppV7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AppV7Fz",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "AppV7_Zjdr",
-      "name": "📺追剧┃秒播",
-      "type": 3,
-      "api": "csp_AppV7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AppV7Zjdr",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "AppV7_Dsx",
-      "name": "📦师兄┃秒播",
-      "type": 3,
-      "api": "csp_DaShiXiong",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "mtq",
-      "name": "🍊蒙太奇┃秒播4K",
-      "type": 3,
-      "api": "csp_Mtq",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "hide_unplayable": false
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "mino",
-      "name": "📱MiNO┃秒播4K",
-      "type": 3,
-      "api": "csp_MiNO",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "rotate_device": 1,
-        "auto_fallback": 1
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "JuXiaFan",
-      "name": "🍚下饭┃1080P",
-      "type": 3,
-      "api": "csp_JuXiaFan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "http://jumianfei.com",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "tvb_yunbo",
-      "name": "🌐云播┃1080P",
-      "type": 3,
-      "api": "csp_HiApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "api_base": "http://app.tuxianimg.com/api/vod/",
-        "aes_key": "MickwrKuMickwrKu",
-        "aes_iv": "MickwrKuMickwrKu",
-        "platform": "android",
-        "referer": "http://app.tuxianimg.com/",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "AppRJ",
-      "name": "⚡秒播┃1080P",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "timeout": 12,
-      "ext": {
-        "site": "http://v.rbotv.cn",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "symx",
-      "name": "🌿木兮┃1080P",
-      "type": 3,
-      "api": "csp_Symx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://film.symx.club",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "KanJuMe",
-      "name": "🌍世界┃1080P",
-      "type": 3,
-      "api": "csp_KanJuMe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "dyx",
-      "name": "🦸影侠┃1080P",
-      "type": 3,
-      "api": "csp_DianYingXia",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "dongpian",
-      "name": "📼懂片┃1080P",
-      "type": 3,
-      "api": "csp_DongPianDi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "JpysWorld",
-      "name": "🌏海外┃1080P",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://yvyeigh.com",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "Gulu",
-      "name": "🌀咕噜┃1080P",
-      "type": 3,
-      "api": "csp_Gulu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "Wwys",
-      "name": "🌾农民┃1080P",
-      "type": 3,
-      "api": "csp_Wwys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "timeout": 12,
-      "ext": {
-        "site": "https://vip.wwgz.cn:5200",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "Gz360",
-      "name": "🌻瓜子┃1080P",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 0,
-      "timeout": 12,
-      "ext": {
-        "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
@@ -315,8 +99,206 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
+      "key": "AppV7_Fz",
+      "name": "🐷猪猪┃影视",
+      "type": 3,
+      "api": "csp_AppV7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AppV7Fz",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "AppV7_Zjdr",
+      "name": "📺追剧┃影视",
+      "type": 3,
+      "api": "csp_AppV7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AppV7Zjdr",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "AppV7_Dsx",
+      "name": "📦师兄┃影视",
+      "type": 3,
+      "api": "csp_DaShiXiong",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "mtq",
+      "name": "🍊太奇┃影视",
+      "type": 3,
+      "api": "csp_Mtq",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "hide_unplayable": false
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "mino",
+      "name": "📱MiNO┃影视",
+      "type": 3,
+      "api": "csp_MiNO",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "rotate_device": 1,
+        "auto_fallback": 1
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "JuXiaFan",
+      "name": "🍚下饭┃影视",
+      "type": 3,
+      "api": "csp_JuXiaFan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "site": "http://jumianfei.com",
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "tvb_yunbo",
+      "name": "🌐云播┃影视",
+      "type": 3,
+      "api": "csp_HiApp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "api_base": "http://app.tuxianimg.com/api/vod/",
+        "aes_key": "MickwrKuMickwrKu",
+        "aes_iv": "MickwrKuMickwrKu",
+        "platform": "android",
+        "referer": "http://app.tuxianimg.com/",
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "AppRJ",
+      "name": "⚡秒播┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "timeout": 12,
+      "ext": {
+        "site": "http://v.rbotv.cn",
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "symx",
+      "name": "🌿木兮┃影视",
+      "type": 3,
+      "api": "csp_Symx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://film.symx.club",
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "KanJuMe",
+      "name": "🌍世界┃影视",
+      "type": 3,
+      "api": "csp_KanJuMe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "dyx",
+      "name": "🦸影侠┃影视",
+      "type": 3,
+      "api": "csp_DianYingXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "dongpian",
+      "name": "📼懂片┃影视",
+      "type": 3,
+      "api": "csp_DongPianDi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "Gulu",
+      "name": "🌀咕噜┃影视",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "ShanJu",
+      "name": "⚡闪剧┃影视",
+      "type": 3,
+      "api": "csp_ShanJu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "timeout": 15,
+      "ext": {},
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "Gz360",
+      "name": "🌻瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 0,
+      "timeout": 12,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
       "key": "YunDuo",
-      "name": "🦢大鹅┃1080P",
+      "name": "🦢大鹅┃影视",
       "type": 3,
       "api": "csp_YunDuo",
       "searchable": 1,
@@ -350,7 +332,7 @@
     },
     {
       "key": "共和国",
-      "name": "🚩共和国┃动漫",
+      "name": "🚩国国┃动漫",
       "type": 3,
       "api": "csp_Dmghg",
       "searchable": 1,
@@ -367,8 +349,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "username": "nimasile",
-        "password": "xiaomi888",
+        "username": "",
+        "password": "",
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
@@ -388,6 +370,18 @@
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
+      "key": "Shipu",
+      "name": "🥘AI漫剧┃漫剧",
+      "type": 3,
+      "api": "csp_Shipu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 15,
+      "ext": {},
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
@@ -474,7 +468,7 @@
     },
     {
       "key": "App99",
-      "name": "🎭剧圈┃1080P",
+      "name": "🎭剧圈┃影视",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -493,7 +487,7 @@
     },
     {
       "key": "半日99",
-      "name": "🌞半日┃1080P",
+      "name": "🌞半日┃影视",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -511,7 +505,7 @@
     },
     {
       "key": "AppDramaPingguo",
-      "name": "🍏苹果┃1080P",
+      "name": "🍏苹果┃影视",
       "type": 3,
       "api": "csp_AppDramaV5",
       "searchable": 1,
@@ -535,7 +529,7 @@
     },
     {
       "key": "橘子",
-      "name": "🍊橘子┃1080P",
+      "name": "🍊橘子┃影视",
       "type": 3,
       "api": "csp_AppDramaV5",
       "searchable": 1,
@@ -548,19 +542,16 @@
         "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.asjdhjhd.mgd.p3",
-        "host": "http://juziapp.hzhcbkj.cn",
-        "site": "https://12345-1349250429.cos.ap-guangzhou.myqcloud.com/app.txt",
+        "host": "",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
         "version": "3.0.7.0",
-        "vApp": "3070",
-        "decrypt": "1",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
+        "decrypt": "1"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
       "key": "Jianpian",
-      "name": "🎯荐片┃1080P",
+      "name": "🎯荐片┃影视",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -628,7 +619,7 @@
     },
     {
       "key": "南瓜视频APP",
-      "name": "🎃南瓜┃1080P",
+      "name": "🎃南瓜┃影视",
       "type": 3,
       "api": "csp_Lanlan",
       "ext": {
