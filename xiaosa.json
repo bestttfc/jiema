@@ -55,10 +55,20 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
     },
     {
-      "key": "米诺",
-      "name": "米诺 • APP",
+      "key": "云播",
+      "name": "云播 • APP",
       "type": 3,
-      "api": "csp_AppMN",
+      "api": "csp_AppYB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaosa.jar"
+    },
+    {
+      "key": "未来",
+      "name": "未来 • APP",
+      "type": 3,
+      "api": "csp_AppWL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
