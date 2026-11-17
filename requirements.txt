@@ -1,0 +1,5 @@
+requests
+pycryptodome
+pyinstaller
+# 可选，但建议加上，以便打包 curl_cffi 回退层
+curl_cffi
