@@ -88,20 +88,20 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
-      "key": "py_2e9f2021",
-      "name": "红果短剧(修复版)",
+      "key": "py_8170e6cb",
+      "name": "网盘聚合",
       "type": 3,
-      "api": "http://movie.66608880.xyz/tvbox/py/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%28%E4%BF%AE%E5%A4%8D%E7%89%88%29.py",
+      "api": "http://movie.66608880.xyz/tvbox/py/%E7%BD%91%E7%9B%98%E8%81%9A%E5%90%88.py",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
-      "key": "py_8170e6cb",
-      "name": "网盘聚合",
+      "key": "py_bde06c8a",
+      "name": "红果短剧",
       "type": 3,
-      "api": "http://movie.66608880.xyz/tvbox/py/%E7%BD%91%E7%9B%98%E8%81%9A%E5%90%88.py",
+      "api": "http://movie.66608880.xyz/tvbox/py/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "",
