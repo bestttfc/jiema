@@ -5,6 +5,13 @@
   "notice": "❤️马叉虫收集整理🐸支持正版人人有责❤️",
   "sites": [
     {
+      "key": "ytjh_py",
+      "name": "影聚ᵖʸ｜影视",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/ytjh.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "kanglong_cms",
       "name": "亢龙ᶜᵐˢ｜影视",
       "type": 1,
@@ -47,6 +54,13 @@
       "name": "橘汁ᵖʸ｜影视",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/juzi.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "yunzhenxiang_py",
+      "name": "帧享ᵖʸ｜影视",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/yunzhenxiang.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -896,6 +910,13 @@
       "ua": "okhttp/3.15"
     },
     {
+      "name": "港澳台备用",
+      "url": "https://gh-proxy.org/github.com/807080747/zv/raw/main/lidfffgghhgififjfjjfve.txt",
+      "playerType": 2,
+      "type": 0,
+      "ua": "okhttp/3.15"
+    },
+    {
       "name": "恒轩源备用",
       "type": 0,
       "url": "https://gitee.com/t-v/tt/raw/t/t/k.png",
@@ -910,6 +931,11 @@
     }
   ],
   "parses": [
+    {
+      "name": "探",
+      "type": 1,
+      "url": "http://140.210.14.201:2026/api/index?parsesId=2&appid=10000&videoUrl="
+    },
     {
       "name": "鸭",
       "type": 1,
@@ -969,6 +995,11 @@
       "name": "院",
       "type": 1,
       "url": "http://wnbox.top:88/php/TMDB/jx.php?url="
+    },
+    {
+      "name": "藤",
+      "type": 1,
+      "url": "https://jx4k.fuyingapi.top/api/?key=f9ecd007748997c6a81a83c425e9448a&url="
     },
     {
       "name": "初",
