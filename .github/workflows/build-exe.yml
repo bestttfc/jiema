@@ -1,0 +1,37 @@
+name: Build Windows EXE
+
+on:
+  push:
+    branches: [ main ]  # 推送到 main 分支时触发，可改为你的分支名
+  workflow_dispatch:      # 允许在 Actions 页面手动触发
+
+jobs:
+  build:
+    runs-on: windows-latest  # 使用 GitHub 提供的 Windows 环境
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'  # 可根据需要调整
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          # 如果 requirements.txt 里没有 pyinstaller，这里单独装
+          pip install pyinstaller
+
+      - name: Build with PyInstaller
+        run: |
+          pyinstaller tvbox.spec  # 使用 .spec 文件，确保 curl_cffi 等特殊依赖被正确包含
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4  # 上传构建产物供下载[reference:5]
+        with:
+          name: TvBoxHelper-Windows
+          path: dist/TvBoxHelper.exe
+          retention-days: 7  # Artifact 保留天数，可根据需要调整
