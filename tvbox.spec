@@ -1,6 +1,6 @@
 # tvbox.spec
 a = Analysis(
-    ['tvbox_server.py'],
+    ['tvbox_server_qianwen.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -20,7 +20,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='TvBoxHelper',
+    name='TvBoxHelper_qianwen',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
