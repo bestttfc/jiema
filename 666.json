@@ -98,6 +98,16 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
+      "key": "py_dd5efac5",
+      "name": "动漫共和国",
+      "type": 3,
+      "api": "http://movie.66608880.xyz/tvbox/py/%E5%8A%A8%E6%BC%AB%E5%85%B1%E5%92%8C%E5%9B%BD.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
+    },
+    {
       "key": "py_bde06c8a",
       "name": "红果短剧",
       "type": 3,
