@@ -33,5 +33,5 @@ jobs:
         uses: actions/upload-artifact@v4  # 上传构建产物供下载[reference:5]
         with:
           name: TvBoxHelper-Windows
-          path: dist/TvBoxHelper.exe
+          path: dist/TvBoxHelper*.exe
           retention-days: 7  # Artifact 保留天数，可根据需要调整
