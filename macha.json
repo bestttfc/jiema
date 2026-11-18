@@ -130,8 +130,8 @@
       "changeable": 1,
       "ext": {
         "mode": "",
-        "uc_cookie": "UDRIVE_TRANSFER_SESS=3GAMPP9YU8_a6FEywghLkrnpXVlHLQHWFzcI2EQ3dyfniiTzK3gfXSr1NaF68gcBOh6Gu9jsygvvsUVc_pN2xAtwGHZ98LXYdSTi4fr_yIyAFcAABIpTmtjWZlIL_SvrjsNBm8bIRg39SjS4nLSFRNtMnjNQ6iSKk7OxRs6IpNsJFvKwwX9EW0oNEd-dbUH0; b-user-id=59425ad2-8f00-a589-369a-20d1c80eefe1; __itrace_wid=bc32a2db-fde6-4a69-1775-be6d8b80033a; ctoken=JvApU6ghAdeo0nKnSxjGdYnR; Hm_lvt_d2853e18bbb01bff13374d73c9fd1e3d=1788999879; HMACCOUNT=BF3323AD0991A568; __pus=381f272d0fbffb1db5693570ba0f50deAASPlh1U3ye4nk8UmaXRBZ7UFdjjSa7ZtQEpFb345tiiWbTdS/OMPbQHxS4kZy2syzGsFSKswqD7nn69drg+vpnu; __kp=10e9f0d0-acae-11f1-b9f9-9b7b652e468f; __kps=AAQ7N8o90plq2alShXur+epY; __ktd=exx87X2qVm/ibgJRUlp8fg==; __uid=AAQ7N8o90plq2alShXur+epY; Hm_lpvt_d2853e18bbb01bff13374d73c9fd1e3d=1788999903; __puus=465b7a2cc2c1bbdc9464f332f19f84a6AASQO/n1r3zvOC/DycvNA60uV1dEzkeXsB4qgCTgowJwuLrMsDRO5odgEr+/KvAmCpXJOs08Tw/l8No/IC/HoyyYbSk/zLX6EdAp17z+w2liTwMzEi9jR22UJZtrBgyiHFrpt0SZw+ArpzU2xZR/rdfwvt6BXIrIR1WHLBJs3d6qat7vWa+omNaK6QGyBLwFmvI=",
-        "quark_cookie": "ctoken=hKK7X7oVfYJs750DgSrBzSiC; b-user-id=627d77e5-6aa6-80ed-164a-cd0837a91d93; grey-id=ce55b0cc-a768-379e-1368-015bb4795f4f; grey-id.sig=etIxEsoWi5pDNynyF43sqnF-LunVEtoS5Mjo1-gdyNk; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; _UP_A4A_11_=wba2a19f4e9940e4a2b6db4e2759b961; web-grey-id=20505e07-14a0-846d-fa7f-ec172b09ca1e; web-grey-id.sig=th7Fez9OpahapjSS18CZ1cpLtr2PcjEWKaaRmy7MCVM; __wpkreporterwid_=7d42b932-83e9-47c8-36e3-322edd8e81b2; isg=BGBg0iMlHgOXgqIHi9qAxU8gOmwyaUQztPYYsdpxLHsO1QD_gnkUwzbkaHvVsfwL; tfstk=gRBZnOMdcfsQOGUl4gv4zlZ7ZCV9GKz5ItTXmijDfFYMh5CVTiszXn_1mE52-wjsCEaN8o71DxTg6ZZqX97rhAaT6iD2hK47P8w5XfpvnzNa8T_WWnIHokOGwQ0sfK47P8GIxCU6niazOJAhxeK2oAcGopjH4exMmxbD-BxkVVvDnZqe-ntjoqvDoB2HVeYDnKbcxk-v-hvDnZj3YndjIa_3JHdgEc89hm39TC8ljekcx9-M_fIM8xDcLdRwrq8EnxXeXielb7MU3UfR-6fGKrlvRs8piNb0uv8GNg613Bm0jCjGdZ-V4bgvx1zAHtexgCxpYUZUYzR3sluQAAdZMjde_H87AXcxMCxpYUZUYjhvt2KePkGh.; _UP_F7E_8D_=KB6aK8WMbchqXmAnnP4y0BnddrW%2FaXF6rtOFmrP%2F5Q5wcWnAXRGlxIDsMcOusUQQFD435Ot23OvjYXXua%2FholA28n8jS8UunmecVm%2FRn2dS4GexloG8xl%2BcyJIU4mS68ixz8M%2Bo8ELqILaKMWQAwARJtEkBMfdIs2qwxibCGjKNbxCbjp%2FFWuk7YOosyhNuXMLGq%2FDUfcz5IMuuD5JZNwuhd446swdKtlMgu6%2FgnEUSusPXMzAkWO0pLx87eebl%2F5jAUk2Wt6XebiS4zE6RzqsjWxZaSxVV%2FpJB8QGhoKxfqC5wVx4%2FSnJiwx84EE704Zx8LET8RCgn42kZuLkLGu8l0eQIA7hlMi5QT3%2BzlysNKA59RoH3psGmr79OfqYItAkcrxmLrknAx0CUapxaUCSNhR5d6IzLSJTVVm7gO3BGgCDcnfp1L1qPWb0%2FbTg1B01%2Fk3KjeV23DpNa2tyDTIl25xBVsf5PnIzpNDTJJZDzyYXIyGPZWi5D74Uoz7S0vWCBj3dUmoP6C5nYabDlf9Vcbn4BOv14QrEi%2BTsIs1VNk8b4xfJVHQaPGhuStcBnd4gxMTtHJmu4%3D; _UP_D_=pc; __pus=893319bd82a289bce20b0e43fe3e83c2AATzqJdp18loiYMhPSNM8xqixBquFYuWO6AU/7Wnot/fKl+Tng+85TH1Gh/4wZbqnPlxKQmeM4jsh1AY+3WZQuL+; __kp=c8f2d3b0-da97-11f1-add5-9759ce36d1b2; __kps=AAQLaMf8ANDu5AIgMurbHWab; __ktd=Jg9nLDJS506LHUKqPqoMTQ==; __uid=AAQLaMf8ANDu5AIgMurbHWab",
+        "uc_cookie": "",
+        "quark_cookie": "",
         "夸父cookie": "bbs_sid=xxx; bbs_token=xxx",
         "123cookie": "bbs_sid=xxx; bbs_token=xxx",
         "fast": "1",
@@ -921,7 +921,7 @@
       "key": "juese_py",
       "name": "惊艳ᵖʸ｜🔞禁",
       "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/ssm123-coder/a/main/py/juese.py",
+      "api": "https://gh-proxy.org/github.com/ssm123-coder/a/raw/main/py/juese.py",
       "searchable": 0,
       "changeable": 0,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
