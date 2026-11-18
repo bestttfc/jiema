@@ -60,7 +60,7 @@
       "key": "yunzhenxiang_py",
       "name": "帧享ᵖʸ｜影视",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/yunzhenxiang.py",
+      "api": "https://gh-proxy.org/github.com/ssm123-coder/a/raw/main/py/yunzhenxiang.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -73,14 +73,6 @@
       "ext": "https://gitee.com/zdrnko/aa/raw/master/js/baipiao.png"
     },
     {
-      "key": "yksp_js",
-      "name": "优酷ᶜᵃᵗ｜解析",
-      "type": 3,
-      "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
-      "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/yksp.png"
-    },
-    {
       "key": "cai_cms",
       "name": "开心果ᶜᵐˢ｜解析",
       "type": 4,
@@ -90,6 +82,34 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "tengxun_py",
+      "name": "腾讯ᵖʸ｜解析",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/tengxun.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "mangguo_py",
+      "name": "芒果ᵖʸ｜解析",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/mangguo.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "aiqiyi_py",
+      "name": "爱奇艺ᵖʸ｜解析",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/aiqiyi.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "youku_py",
+      "name": "优酷ᵖʸ｜解析",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/youku.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -601,10 +621,10 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "ytbts_py",
-      "name": "悦听ᵖʸ｜听书",
+      "key": "tingyou_py",
+      "name": "听友ᵖʸ｜听书",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/ytbts.py",
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/tingyou.py",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
