@@ -71,6 +71,17 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
+      "ext": "",
+      "filterable": 0,
+      "quickSearch": 1,
+      "name": "🍎果果┃短剧",
+      "api": "csp_KaFeiDJ",
+      "type": 3,
+      "key": "djaowu",
+      "searchable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
       "key": "华数",
       "name": "🍒咖啡┃老剧",
       "type": 3,
