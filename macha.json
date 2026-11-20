@@ -129,7 +129,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "mode": "",
+        "mode": "uc,quark",
         "uc_cookie": "",
         "quark_cookie": "",
         "夸父cookie": "bbs_sid=xxx; bbs_token=xxx",
@@ -373,6 +373,18 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "kklm_py",
+      "name": "联盟ᵖʸ｜视频",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master//py/kklm.py",
+      "ext": {
+        "host": "https://kankelm.cn:2024/appdomain.txt",
+        "key": "ygcnbcvybqqckwqy",
+        "iv": "1583560747143708"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "bubu_py",
       "name": "布布ᵖʸ｜视频",
       "type": 3,
@@ -518,10 +530,10 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "Acfun_py",
-      "name": "杂视ᵖʸ｜天下",
+      "key": "ghgdm_py",
+      "name": "共和国ᵖʸ｜动漫",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/Acfun.py",
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/ghgdm.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -973,19 +985,29 @@
   ],
   "parses": [
     {
-      "name": "探",
+      "name": "李",
       "type": 1,
-      "url": "http://140.210.14.201:2026/api/index?parsesId=2&appid=10000&videoUrl="
-    },
-    {
-      "name": "鸭",
-      "type": 1,
-      "url": "https://niubi.69mini.com/api/?key=a4614b0adbcde48c8677cd2458670426&url="
+      "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
     },
     {
       "name": "凯",
       "type": 1,
-      "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
+      "url": "http://120.26.0.137:2022/api/?key=NbtfszbOeiNjROMqcC&url="
+    },
+    {
+      "name": "胜",
+      "type": 1,
+      "url": "http://niubi.69mini.com/api?key=5826c5388ce47abc5919ef5474f075d1&url="
+    },
+    {
+      "name": "的",
+      "type": 1,
+      "url": "http://120.26.0.137:2022/api/?key=e6yF9hBqVAtIWZvGWu&url="
+    },
+    {
+      "name": "白",
+      "type": 1,
+      "url": "http://jiexi.fc8001.top/leZNmbHdSceTrNsR.php?url="
     },
     {
       "name": "牛",
@@ -993,52 +1015,22 @@
       "url": "https://nm.4688888.xyz/niuma.php?key=dfl&url="
     },
     {
+      "name": "分",
+      "type": 1,
+      "url": "https://niubi.69mini.com/api/?key=0a93b8f6303b79f7be0465c30d305c44&url="
+    },
+    {
+      "name": "享",
+      "type": 1,
+      "url": "http://jiexi.fc8001.top/QdmDeQSTpxSyDwgn.php?url="
+    },
+    {
       "name": "千",
       "type": 1,
       "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
     },
     {
-      "name": "蓝",
-      "type": 0,
-      "url": "http://zxy-th1.jsszks.dpdns.org:8090/?url="
-    },
-    {
-      "name": "腾",
-      "type": 0,
-      "url": "http://zq0143yimmi.xian.zxtongshuo.cn/qq.php?url="
-    },
-    {
-      "name": "污",
-      "type": 1,
-      "url": "http://jiexi.fc8001.top/leZNmbHdSceTrNsR.php?url="
-    },
-    {
-      "name": "影",
-      "type": 1,
-      "url": "https://niubi.69mini.com/api/?key=a0a626df433e41f4b1e433226f11b434&url="
-    },
-    {
-      "name": "富",
-      "type": 1,
-      "url": "https://jx4k.fuyingapi.top/api/?key=f9ecd007748997c6a81a83c425e9448a&url="
-    },
-    {
-      "name": "弟",
-      "type": 1,
-      "url": "http://120.26.0.137:2022/api/?key=NbtfszbOeiNjROMqcC&url="
-    },
-    {
-      "name": "影",
-      "type": 1,
-      "url": "http://gktv.cc:88/php/TMDB/jx.php?url="
-    },
-    {
-      "name": "院",
-      "type": 1,
-      "url": "http://wnbox.top:88/php/TMDB/jx.php?url="
-    },
-    {
-      "name": "藤",
+      "name": "尤",
       "type": 1,
       "url": "https://jx4k.fuyingapi.top/api/?key=f9ecd007748997c6a81a83c425e9448a&url="
     },
