@@ -5,13 +5,6 @@
   "notice": "❤️马叉虫收集整理🐸支持正版人人有责❤️",
   "sites": [
     {
-      "key": "ytjh_py",
-      "name": "影聚ᵖʸ｜影视",
-      "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/ytjh.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
       "key": "kanglong_cms",
       "name": "亢龙ᶜᵐˢ｜影视",
       "type": 1,
@@ -26,13 +19,6 @@
       "name": "星影ᶜᵐˢ｜影视",
       "type": 4,
       "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
-      "key": "ytcc_js",
-      "name": "影探ᶜᵃᵗ｜影视",
-      "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/js/ytcc.js",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -86,31 +72,35 @@
     },
     {
       "key": "tengxun_py",
-      "name": "腾讯ᵖʸ｜解析",
+      "name": "腾讯ᶜᵃᵗ｜解析",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/tengxun.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+      "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
+      "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/txsp.png"
     },
     {
       "key": "mangguo_py",
-      "name": "芒果ᵖʸ｜解析",
+      "name": "芒果ᶜᵃᵗ｜解析",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/mangguo.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+      "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
+      "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/mgsp.png"
     },
     {
       "key": "aiqiyi_py",
-      "name": "爱奇艺ᵖʸ｜解析",
+      "name": "爱奇艺ᶜᵃᵗ｜解析",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/aiqiyi.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+      "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
+      "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/aqysp.png"
     },
     {
       "key": "youku_py",
-      "name": "优酷ᵖʸ｜解析",
+      "name": "优酷ᶜᵃᵗ｜解析",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/youku.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+      "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
+      "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/yksp.png"
     },
     {
       "key": "bilibili_py",
@@ -370,18 +360,6 @@
       "name": "看客ᵖʸ｜视频",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/kanke.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
-      "key": "kklm_py",
-      "name": "联盟ᵖʸ｜视频",
-      "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master//py/kklm.py",
-      "ext": {
-        "host": "https://kankelm.cn:2024/appdomain.txt",
-        "key": "ygcnbcvybqqckwqy",
-        "iv": "1583560747143708"
-      },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -985,11 +963,6 @@
   ],
   "parses": [
     {
-      "name": "李",
-      "type": 1,
-      "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
-    },
-    {
       "name": "凯",
       "type": 1,
       "url": "http://120.26.0.137:2022/api/?key=NbtfszbOeiNjROMqcC&url="
@@ -1005,7 +978,7 @@
       "url": "http://120.26.0.137:2022/api/?key=e6yF9hBqVAtIWZvGWu&url="
     },
     {
-      "name": "白",
+      "name": "鸭",
       "type": 1,
       "url": "http://jiexi.fc8001.top/leZNmbHdSceTrNsR.php?url="
     },
