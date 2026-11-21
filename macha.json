@@ -22,6 +22,13 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "ytjh_py",
+      "name": "影聚ᵖʸ｜影视",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/ytjh.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "yingtan_py",
       "name": "影探ᵖʸ｜影视",
       "type": 3,
@@ -50,57 +57,55 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "ddcj_cms",
+      "name": "多多ᶜᵐˢ｜解析",
+      "type": 4,
+      "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php?filter=true",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "baipiao_js",
       "name": "白鸭ᶜᵃᵗ｜解析",
       "playerType": "2",
       "type": 3,
       "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
       "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/baipiao.png"
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/baipiao.js"
     },
     {
-      "key": "cai_cms",
-      "name": "开心果ᶜᵐˢ｜解析",
-      "type": 4,
-      "playerType": 2,
-      "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
-      "key": "tengxun_py",
+      "key": "tengxun_js",
       "name": "腾讯ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
       "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/txsp.png"
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/txsp.js"
     },
     {
-      "key": "mangguo_py",
+      "key": "mangguo_js",
       "name": "芒果ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
       "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/mgsp.png"
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/mgsp.js"
     },
     {
-      "key": "aiqiyi_py",
+      "key": "aiqiyi_js",
       "name": "爱奇艺ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
       "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/aqysp.png"
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/aqysp.js"
     },
     {
-      "key": "youku_py",
+      "key": "youku_js",
       "name": "优酷ᶜᵃᵗ｜解析",
       "type": 3,
       "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
       "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/yksp.png"
+      "ext": "https://gitee.com/zdrnko/aa/raw/master/js/yksp.js"
     },
     {
       "key": "bilibili_py",
@@ -978,7 +983,7 @@
       "url": "http://120.26.0.137:2022/api/?key=e6yF9hBqVAtIWZvGWu&url="
     },
     {
-      "name": "鸭",
+      "name": "污",
       "type": 1,
       "url": "http://jiexi.fc8001.top/leZNmbHdSceTrNsR.php?url="
     },
@@ -1001,6 +1006,11 @@
       "name": "千",
       "type": 1,
       "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
+    },
+    {
+      "name": "竹",
+      "type": 1,
+      "url": "http://zhuyun.shanhaiguanwu.top/api/index?parsesId=1&appid=10000&videoUrl="
     },
     {
       "name": "尤",
