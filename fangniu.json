@@ -17,7 +17,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20261121】🐮",
+      "name": "🐮【更新日期:20261123】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -148,16 +148,6 @@
       "name": "💓蜡笔┃4K💓",
       "type": 3,
       "api": "csp_AiNewLaBiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/fangniu.jar"
-    },
-    {
-      "key": "AiNewShanDian",
-      "name": "💓闪电┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewShanDianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
