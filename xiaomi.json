@@ -71,6 +71,17 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
+      "key": "cy_hetunmanju",
+      "name": "🐡河豚┃漫剧",
+      "type": 3,
+      "api": "csp_HetunManju",
+      "group": "短剧",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
       "key": "红果·短剧",
       "name": "🍒红果┃短剧",
       "type": 3,
@@ -131,6 +142,17 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
     {
+      "key": "cy_yunzhenxiang",
+      "name": "🦶帧享┃影视",
+      "type": 3,
+      "api": "csp_YunZhenXiang",
+      "group": "综合影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
+    },
+    {
       "key": "mtq",
       "name": "🍊太奇┃影视",
       "type": 3,
@@ -154,21 +176,6 @@
       "ext": {
         "rotate_device": 1,
         "auto_fallback": 1
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
-    },
-    {
-      "key": "JuXiaFan",
-      "name": "🍚下饭┃影视",
-      "type": 3,
-      "api": "csp_JuXiaFan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "http://jumianfei.com",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
       },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/xiaomi.jar"
     },
@@ -518,10 +525,10 @@
       "key": "橘子",
       "name": "🍊橘子┃影视",
       "type": 3,
-      "api": "csp_AppDramaV5",
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": {
         "appName": "橘汁",
         "commonKey": "ed5fdsgucxumegqa",
