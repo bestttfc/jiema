@@ -108,10 +108,10 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
-      "key": "py_bde06c8a",
-      "name": "红果短剧",
+      "key": "py_pobox",
+      "name": "红果短剧（pobox可预约下一季）",
       "type": 3,
-      "api": "http://movie.66608880.xyz/tvbox/py/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+      "api": "http://movie.66608880.xyz/tvbox/py/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%EF%BC%88pobox%E5%8F%AF%E9%A2%84%E7%BA%A6%E4%B8%8B%E4%B8%80%E5%AD%A3%EF%BC%89.py",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "",
