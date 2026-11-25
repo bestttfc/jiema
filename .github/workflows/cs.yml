@@ -60,8 +60,18 @@ jobs:
 
       # # 在这里定义你的 JSON 配置数组，注意格式和引号
       env:
+            # TVBOX_DIRECT_FIRST  1/0，先直连再回退（默认 1）
+            # TVBOX_DEADLINE      总预算秒（默认 60）
+            # TVBOX_REFETCH       1/0，命中后长超时重拉（默认 1）
+            # TVBOX_TRY_ALL       1/0，成功后是否继续试其余地址做对比（默认 0，命中即停）
+            # TVBOX_ACTION_LOG    额外把 AUTO 结果追加写到的日志文件路径
+
+        TVBOX_DIRECT_FIRST: "0"  
+        TVBOX_TRY_ALL: "1"
         TVBOX_REMOTE_CONFIGS: >-
           [
+            {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "AUTO"},
+            {"name": "2015888", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "AUTO"},
             {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "AUTO"}
 
           ]   
