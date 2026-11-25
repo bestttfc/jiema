@@ -112,13 +112,14 @@ jobs:
             # TVBOX_REFETCH       1/0，命中后长超时重拉（默认 1）
             # TVBOX_TRY_ALL       1/0，成功后是否继续试其余地址做对比（默认 0，命中即停）
             # TVBOX_ACTION_LOG    额外把 AUTO 结果追加写到的日志文件路径
-            # {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "AUTO"},
+            # {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "AUTO"},在auto时会轮询各种格式，日志输出MODE
         TVBOX_DIRECT_FIRST: "0"  
         TVBOX_TRY_ALL: "0"
         TVBOX_REMOTE_CONFIGS: >-
           [
             {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "GET_QUERY_OU"},
             {"name": "2015888", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "POST_FORM"},
+            {"name": "feimao",   "url": "http://xn--z7x900a.net/api/parse","mode": "POST_JSON","timeout": 60},
             {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "POST_JSON_NESTED"}
 
           ]   
