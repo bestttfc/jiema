@@ -189,11 +189,6 @@
       "name": "糖豆舞蹈",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/tangdou.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -201,9 +196,6 @@
       "name": "听友听书",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/tingyou.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
@@ -223,6 +215,15 @@
       "name": "绝色🔞禁",
       "type": 3,
       "api": "https://gh-proxy.org/github.com/ssm123-coder/a/raw/main/py/juese.py",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "hddj_py",
+      "name": "黄豆🔞禁",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/hddj.py",
       "searchable": 1,
       "changeable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
