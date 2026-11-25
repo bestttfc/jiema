@@ -21,8 +21,8 @@ jobs:
       GIT_USER: "rrzt"
       GIT_CK: "jiemi"
       #输出文件名，按需修改
-      JAR_FILE:  "wuyiyun.jar"
-      JSON_FILE: "wuyiyun.json"
+      JAR_FILE:  "cs.jar"
+      JSON_FILE: "cs.json"
       #解密后原文存放临时文件中，不保存，如需测试保存情况，提前以前代码 name: 4. 强行提交最新的 cpu.json 和 cpu.jar 到仓库，按需修改输出文件名
       CONFIG_FILE: "tmp_config.json"
     # 固定基础域名，针对  ./a.jar文件  本地化包赋 下载路径 供后续下载
@@ -64,7 +64,7 @@ jobs:
           echo "TVBOX_REMOTE_FALLBACK_URL_1=[${TVBOX_REMOTE_FALLBACK_URL_1}]"
           echo "TVBOX_REMOTE_FALLBACK_URL_2=[${TVBOX_REMOTE_FALLBACK_URL_2}]"  
           #按需修改需解网址
-          python tvbox_pic3.py "$URL" "$CONFIG_FILE"
+          python test_remote_api.py "$URL"
     
     - name: 1.1.1 执行原有的解密脚本，
       continue-on-error: true
