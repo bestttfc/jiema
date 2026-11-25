@@ -69,7 +69,7 @@ jobs:
       run: |
          cd tool/
           #按需修改需解网址
-          python test_remote_api.py "$URL"
+          python test.py "$URL" "$CONFIG_FILE"
     
     # - name: 1.1.1 执行原有的解密脚本，
     #   continue-on-error: true
