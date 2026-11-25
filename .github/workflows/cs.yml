@@ -64,6 +64,7 @@ jobs:
         TVBOX_REMOTE_CONFIGS: >-
           [
 
+            {"name": "嗷呜",   "url": "http://xn--nsr30b.cc/api/decode.php","mode": "AUTO","timeout": 60},
             {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "GET_QUERY_OU"},
             {"name": "2015888", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "POST_FORM"},
             {"name": "feimao",   "url": "http://xn--z7x900a.net/api/parse","mode": "POST_JSON","timeout": 60},
