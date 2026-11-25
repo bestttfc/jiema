@@ -61,7 +61,7 @@ jobs:
       env:
         TVBOX_REMOTE_CONFIGS: >-
           [
-            {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "AUTO"}
+            {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "POST_JSON_NESTED"}
 
           ]   
         
