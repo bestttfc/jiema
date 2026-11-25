@@ -53,26 +53,20 @@ jobs:
       #   # 需要远程兜底时再取消注释：
       #   TVBOX_REMOTE_FALLBACK_URL_1: "http://159.75.152.41:88/api.php"
       #   TVBOX_REMOTE_FALLBACK_URL_2: "http://www.y456y.com/helper/api.php"
-      
+      # {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "AUTO"},
+      # {"name": "2015888", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "AUTO"},
+      # {"name": "自动探测测试", "url": "http://xxx.xxx/api", "mode": "AUTO"}
 
       # # 在这里定义你的 JSON 配置数组，注意格式和引号
       env:
         TVBOX_REMOTE_CONFIGS: >-
           [
             {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "AUTO"},
-            # {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "AUTO"},
-            # {"name": "2015888", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "AUTO"},
-            # {"name": "自动探测测试", "url": "http://xxx.xxx/api", "mode": "AUTO"}
+
           ]   
         
       run: |
          cd tool/
-         #python decrypt_cpu.py
-          #python tvbox.py "$URL" "$CONFIG_FILE" dec        
-          #http://itv666.cc/aowu/config.webp   http://我不是.摸鱼儿.cc  https://raw.githubusercontent.com/rrzt/jiemi/main/mw.json  https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png
-          # echo "TVBOX_FALLBACK=[${TVBOX_FALLBACK}]"
-          # echo "TVBOX_REMOTE_FALLBACK_URL_1=[${TVBOX_REMOTE_FALLBACK_URL_1}]"
-          # echo "TVBOX_REMOTE_FALLBACK_URL_2=[${TVBOX_REMOTE_FALLBACK_URL_2}]"  
           #按需修改需解网址
           python test_remote_api.py "$URL"
     
