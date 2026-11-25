@@ -281,7 +281,7 @@
       "api": "csp_WoNiu",
       "searchable": 1,
       "changeable": 1,
-      "ext": "AbvEOGyzh3fW6tpCea+L6eAY33zMo6BHdaOLQa1M1Z31Z1YO+rrgF4bLLo9pL0iuiiIrIqXsrZkaHK7sBBec9Jg=",
+      "ext": "AXzDNRnsTbQ6qZd6i7KVpTrcT5pOvrabmNVR1r+D4D83GTjZYvCMkxq0T1IrwS1fB/HxDLIVS6OOxcxqbnjMtQ0=",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
     },
     {
@@ -492,7 +492,7 @@
     },
     {
       "key": "HDmoli",
-      "name": "茉莉┃4K",
+      "name": "茉莉┆4K",
       "type": 3,
       "api": "csp_HDmoli",
       "searchable": 1,
@@ -502,6 +502,24 @@
         "site": [
           "https://www.hdmoli.com",
           "https://www.hdmoli.pro"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/wuyiyun.jar"
+    },
+    {
+      "key": "种子",
+      "name": "种子 • 4K",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": {
+        "site": [
+          "https://sidhub.cc",
+          "https://seeduck.cc",
+          "https://hubdog.cc",
+          "http://104.243.25.80"
         ]
       },
       "timeout": 60,
