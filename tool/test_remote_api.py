@@ -102,7 +102,14 @@ def _build_and_send(endpoint: str, mode: str, target_url: str) -> bytes:
         resp = requests.post(endpoint, json={"url": target_url}, headers=base_headers, timeout=30)
     elif mode == "POST_JSON_NESTED":
         base_headers["Content-Type"] = "application/json"
-        payload = {"action": "fetch", "params": {"url": target_url}, "ts": int(time.time())}
+        # 修复：带上特定的 Referer 和正确的 action
+        base_headers["Referer"] = "http://www.y456y.com/helper/"
+        
+        payload = {
+            "action": "fetch_content",
+            "params": {"url": target_url}, 
+            "ts": int(time.time())
+        }
         resp = requests.post(endpoint, json=payload, headers=base_headers, timeout=30)
     elif mode == "POST_JSON_ARRAY":
         base_headers["Content-Type"] = "application/json"
