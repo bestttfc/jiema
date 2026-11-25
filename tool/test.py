@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-TVBOX 远程拉取测试单文件版
+TVBOX 远程拉取测试单文件版（v2）
 
 用法：
     python test.py <URL或本地文件路径> <输出文件名>
 
 环境变量：
-    TVBOX_REMOTE_CONFIGS  JSON 数组，每项一个服务：
-        {"name": "159",   "url": "http://159.75.152.41:88/api.php",        "mode": "AUTO"}
-        {"name": "y456y", "url": "http://www.y456y.com/helper/api.php",    "mode": "POST_JSON_NESTED"}
+    TVBOX_REMOTE_CONFIGS   JSON 数组，按顺序尝试，一个地址失败自动换下一个：
+        [{"name": "159",   "url": "http://159.75.152.41:88/api.php",     "mode": "AUTO"},
+         {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "POST_JSON_NESTED"}]
 
     mode 取值：
-        AUTO              自动探测全部格式（推荐给新地址）
+        AUTO              自动探测 7 种格式，成功后会打印可回填的 {"名称","url","mode"}
         GET_QUERY_URL     GET  ?url=
         GET_QUERY_OU      GET  ?ou=
         GET_PATH_B64      GET  /<base64url>
@@ -20,13 +20,16 @@ TVBOX 远程拉取测试单文件版
         POST_JSON         POST JSON 平铺 {"url": ...}
         POST_JSON_NESTED  POST JSON 嵌套 {"action":"fetch_content","params":{"url":...},"ts":...}
         POST_JSON_ARRAY   POST JSON 数组 ["<url>"]
-        （也可以写成列表，如 ["POST_JSON_NESTED","POST_FORM"]，按顺序尝试）
+        也可以是列表，如 ["POST_JSON_NESTED","POST_FORM"]，按顺序尝试
 
-    可选字段：headers（自定义请求头）、enabled（false 可临时停用）、timeout。
+    其余可选字段：headers（追加请求头）、timeout（单次超时秒）、enabled（false 停用）
 
-其他环境变量（可选）：
-    TVBOX_DIRECT_FIRST   1/0，是否先走直连再回退（默认 1）
-    TVBOX_DEADLINE       总预算秒数（默认 60）
+其他环境变量：
+    TVBOX_DIRECT_FIRST  1/0，先直连再回退（默认 1）
+    TVBOX_DEADLINE      总预算秒（默认 60）
+    TVBOX_REFETCH       1/0，命中后长超时重拉（默认 1）
+    TVBOX_TRY_ALL       1/0，成功后是否继续试其余地址做对比（默认 0，命中即停）
+    TVBOX_ACTION_LOG    额外把 AUTO 结果追加写到的日志文件路径
 """
 
 from __future__ import annotations
@@ -39,7 +42,7 @@ import re
 import sys
 import time
 import urllib.parse
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
 import requests
 
@@ -54,8 +57,8 @@ DEFAULT_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36")
 PROBE_TIMEOUT = 8.0
 FETCH_TIMEOUT = 120.0
-REFETCH = os.environ.get("TVBOX_REFETCH", "1") != "0"   # 命中后是否长超时重拉
-
+REFETCH = os.environ.get("TVBOX_REFETCH", "1") != "0"
+TRY_ALL = os.environ.get("TVBOX_TRY_ALL", "0") == "1"
 
 # ============================================================ 请求格式
 
@@ -93,16 +96,9 @@ AUTO_ORDER = ["GET_QUERY_URL", "GET_QUERY_OU", "POST_FORM", "POST_JSON",
 # ============================================================ 环境变量解析
 
 def _normalize_json(text: str) -> str:
-    """把常见的"手工录入污染"修正掉，且不破坏字符串内部的内容。
-
-    处理：BOM、全角逗号/分号/冒号、中文引号、单引号、尾逗号。
-    只在字符串外部替换标点，因此 URL、header 内部不会被改坏。
-    """
+    """修正手工录入污染（全角标点/中文引号/单引号/尾逗号），不破坏字符串内部。"""
     text = text.lstrip("\ufeff").strip()
-    out = []
-    quote = None      # None / '"' / "'"
-    esc = False       # 上一个字符是反斜杠
-
+    out, quote, esc = [], None, False
     for ch in text:
         if esc:
             out.append(ch)
@@ -112,7 +108,7 @@ def _normalize_json(text: str) -> str:
             if ch == '"':
                 quote = '"'
                 out.append('"')
-            elif ch in ("'", "“"):           # 中文/单引号一律归一成双引号
+            elif ch in ("'", "“"):
                 quote = '"'
                 out.append('"')
             elif ch in "，；、":
@@ -135,9 +131,7 @@ def _normalize_json(text: str) -> str:
                 out.append('"')
             else:
                 out.append(ch)
-
-    fixed = "".join(out)
-    return re.sub(r",\s*([}\]])", r"\1", fixed)   # 去掉尾逗号
+    return re.sub(r",\s*([}\]])", r"\1", "".join(out))
 
 
 def load_configs() -> list[dict]:
@@ -166,7 +160,7 @@ def load_configs() -> list[dict]:
 
 def resolve_formats(mode) -> list[Fmt]:
     if isinstance(mode, list):
-        names = mode
+        names = [str(n).strip().upper() for n in mode]
     elif str(mode).strip().upper() == "AUTO":
         names = AUTO_ORDER
     else:
@@ -183,16 +177,29 @@ def resolve_formats(mode) -> list[Fmt]:
 class Service:
     name: str
     url: str
+    declared_mode: str            # 配置里写的原始 mode，用于判断是否需要回写
     formats: list[Fmt]
-    headers: dict
-    timeout: float
+    headers: dict = field(default_factory=dict)
+    timeout: float = PROBE_TIMEOUT
+
+    @property
+    def is_auto(self) -> bool:
+        return self.declared_mode == "AUTO"
 
     @classmethod
     def from_dict(cls, d: dict) -> "Service":
+        raw_mode = d.get("mode", "AUTO")
+        if str(raw_mode).strip().upper() == "AUTO":
+            declared = "AUTO"
+        elif isinstance(raw_mode, list):
+            declared = json.dumps(raw_mode, ensure_ascii=False)
+        else:
+            declared = str(raw_mode).strip().upper()
         return cls(
             name=d.get("name") or d["url"],
             url=d["url"],
-            formats=resolve_formats(d.get("mode", "AUTO")),
+            declared_mode=declared,
+            formats=resolve_formats(raw_mode),
             headers=d.get("headers") or {},
             timeout=float(d.get("timeout") or PROBE_TIMEOUT),
         )
@@ -211,9 +218,8 @@ def build_request(fmt: Fmt, svc: Service, target: str) -> tuple[str, str, dict]:
     headers.update(svc.headers)
 
     url, kwargs = svc.url, {"headers": headers}
-
     if fmt.where == "query":
-        kwargs["params"] = {fmt.param: encoded}       # 交给 requests 编码，防 & 截断
+        kwargs["params"] = {fmt.param: encoded}
     elif fmt.where == "path":
         url = url.rstrip("/") + "/" + encoded
     elif fmt.where == "form":
@@ -234,17 +240,15 @@ def build_request(fmt: Fmt, svc: Service, target: str) -> tuple[str, str, dict]:
 # ============================================================ 载荷解码
 
 def _decode_hex_config(text: str) -> str:
-    """十六进制 + '2324' 标记的 TVBOX 加密配置。"""
     if not _HAS_AES:
-        raise ValueError("缺少 pycryptodome，无法解密十六进制配置（pip install pycryptodome）")
+        raise ValueError("缺少 pycryptodome，无法解密十六进制配置")
     data = text.strip()
     idx = data.find("2324")
     prefix, cipher_hex, iv_hex = data[:idx + 4], data[idx + 4:-26], data[-26:]
     key_hex = prefix[4:-4] if prefix.startswith("2423") else prefix[:-4]
     key = bytes.fromhex(key_hex).decode("utf-8", "ignore").ljust(16, "0").encode()[:16]
     iv = bytes.fromhex(iv_hex).decode("utf-8", "ignore").ljust(16, "0").encode()[:16]
-    cipher = AES.new(key, AES.MODE_CBC, iv)
-    plain = cipher.decrypt(binascii.unhexlify(cipher_hex))
+    plain = AES.new(key, AES.MODE_CBC, iv).decrypt(binascii.unhexlify(cipher_hex))
     try:
         plain = unpad(plain, AES.block_size)
     except ValueError:
@@ -253,7 +257,7 @@ def _decode_hex_config(text: str) -> str:
 
 
 def _check_json(text: str) -> str:
-    """严格判定：必须是 JSON 对象，且 sites 是数组（或 spider 是字符串）。"""
+    """严格判定：JSON 对象 + sites 是数组（或 spider 是字符串）。"""
     obj = json.loads(text)
     if not isinstance(obj, dict):
         raise ValueError("顶层不是 JSON 对象")
@@ -267,31 +271,25 @@ def _check_json(text: str) -> str:
 
 
 def decode_config(payload: bytes) -> str:
-    """把一份载荷变成配置文本；不可用就抛异常。"""
-    # 1) 图片形态：'**' 之后是 base64
-    if b"**" in payload[:4096]:
+    """把载荷变成明文配置；不可用抛异常（=> 视为"没解析出明文"，换下一个地址）。"""
+    if b"**" in payload[:4096]:                      # 图片隐写
         pos = payload.find(b"**")
-        b64 = payload[pos + 2:].decode("ascii", "ignore").strip()
-        inner = base64.b64decode(b64)
-        return decode_config(inner)
+        return decode_config(base64.b64decode(payload[pos + 2:].decode("ascii", "ignore").strip()))
 
     text = payload.decode("utf-8", "ignore").strip()
     if not text:
         raise ValueError("空内容")
 
-    # 2) 十六进制加密形态
     hexed = text.replace(" ", "")
     if "2324" in hexed and all(c in "0123456789abcdefABCDEF" for c in hexed):
         return _check_json(_decode_hex_config(text))
 
-    # 3) 明文形态
     if not text.startswith("{"):
         raise ValueError(f"非 JSON 文本，开头={text[:60]!r}")
     return _check_json(text)
 
 
 def candidate_payloads(content: bytes):
-    """裸 body + JSON 包装里的字段（含 base64 解码结果）。"""
     yield content
     body = content.strip()
     if not body.startswith((b"{", b"[")):
@@ -325,70 +323,205 @@ def _iter_strings(o):
             yield from _iter_strings(v)
 
 
+# ============================================================ 结果预览
+
+def preview_lines(text: str | None, head_bytes: bytes | None, limit: int = 120) -> list[str]:
+    """给"每个地址的解析结果"生成可读预览。
+
+    成功：spider / sites 数量与示例 / 开头片段
+    失败：响应开头片段，便于判断是地址错还是格式错
+    """
+    if text is None:
+        snippet = (head_bytes or b"")[:limit].decode("utf-8", "ignore").replace("\n", " ")
+        return [f"响应开头: {snippet!r}"] if snippet else ["无响应内容"]
+
+    out = []
+    try:
+        obj = json.loads(text)
+    except Exception:
+        return [f"开头: {text[:limit].replace(chr(10), ' ')}"]
+
+    spider = obj.get("spider")
+    sites = obj.get("sites") if isinstance(obj.get("sites"), list) else []
+    lives = obj.get("lives") if isinstance(obj.get("lives"), list) else []
+    if spider:
+        out.append(f"spider: {str(spider)[:100]}")
+    names = [str(s.get("name")) for s in sites[:3] if isinstance(s, dict) and s.get("name")]
+    out.append(f"sites: {len(sites)} 个" + (f" | 示例: {'、'.join(names)}" if names else " | 示例: 无"))
+    if lives:
+        out.append(f"lives: {len(lives)} 个")
+    out.append(f"parsed: {len(text)} 字符 | 开头: {text[:limit].replace(chr(10), ' ')}")
+    return out
+
+
+# ============================================================ ACTION 日志
+
+def emit_action_mode(svc: Service, fmt: Fmt):
+    """把 AUTO 探测出的可用 mode 回写成可直接粘回配置的 JSON。
+
+    三种落点：
+      1) GitHub Actions 注解 ::notice::（显示在 run 日志里，可折叠）
+      2) 单行 TVBOX_AUTO_MODE=...（便于 grep / 下游脚本解析）
+      3) 可选 TVBOX_ACTION_LOG 文件 + GITHUB_STEP_SUMMARY
+    """
+    payload = {"名称": svc.name, "url": svc.url, "mode": fmt.key}
+    one_line = json.dumps(payload, ensure_ascii=False)
+
+    print("\n📌 AUTO 模式探测结果（可直接粘回 TVBOX_REMOTE_CONFIGS）:")
+    print(json.dumps(payload, ensure_ascii=False, indent=2))
+    print(f"::notice title=TVBOX_AUTO_MODE::{one_line}")
+    print(f"TVBOX_AUTO_MODE={one_line}")
+
+    log_path = os.environ.get("TVBOX_ACTION_LOG", "").strip()
+    if log_path:
+        try:
+            with open(log_path, "a", encoding="utf-8") as f:
+                f.write(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] TVBOX_AUTO_MODE {one_line}\n")
+            print(f"   已追加到 {log_path}")
+        except Exception as e:
+            print(f"   ⚠ 写日志文件失败: {e}")
+
+    summary = os.environ.get("GITHUB_STEP_SUMMARY", "").strip()
+    if summary:
+        try:
+            with open(summary, "a", encoding="utf-8") as f:
+                f.write(f"\n| 名称 | url | 建议 mode |\n|---|---|---|\n"
+                        f"| {svc.name} | {svc.url} | `{fmt.key}` |\n")
+        except Exception:
+            pass
+
+
 # ============================================================ 探测
 
 @dataclass
 class Attempt:
-    service: str
+    svc: Service
     mode: str
-    status: str        # OK / HTTP 400 / 请求异常 / 内容不符
+    status: str            # OK / HTTP 400 / 请求异常 / 内容不符
     ms: int
     detail: str = ""
+    text: str | None = None
+    body_head: bytes = b""
 
 
-def try_once(svc: Service, fmt: Fmt, target: str, timeout: float):
-    """返回 (解码文本, Attempt)。失败时文本为 None。"""
+def try_once(svc: Service, fmt: Fmt, target: str, timeout: float) -> Attempt:
     t0 = time.time()
     try:
         method, url, kwargs = build_request(fmt, svc, target)
         resp = requests.request(method, url, timeout=timeout, **kwargs)
     except Exception as e:
-        return None, Attempt(svc.name, fmt.key, "请求异常", int((time.time() - t0) * 1000),
-                             str(e)[:120])
+        return Attempt(svc, fmt.key, "请求异常", int((time.time() - t0) * 1000), str(e)[:120])
+
     if resp.status_code != 200:
-        return None, Attempt(svc.name, fmt.key, f"HTTP {resp.status_code}",
-                             int((time.time() - t0) * 1000),
-                             resp.text[:80].replace("\n", " ") if resp.text else "")
+        body = resp.content[:200]
+        return Attempt(svc, fmt.key, f"HTTP {resp.status_code}",
+                       int((time.time() - t0) * 1000),
+                       body.decode("utf-8", "ignore")[:80].replace("\n", " "), body_head=body)
+
     for payload in candidate_payloads(resp.content):
         try:
             text = decode_config(payload)
         except Exception:
             continue
-        return text, Attempt(svc.name, fmt.key, "OK", int((time.time() - t0) * 1000),
-                             f"{len(resp.content)}B")
-    return None, Attempt(svc.name, fmt.key, "内容不符", int((time.time() - t0) * 1000),
-                         f"{len(resp.content)}B {resp.content[:60]!r}")
+        return Attempt(svc, fmt.key, "OK", int((time.time() - t0) * 1000),
+                       f"{len(resp.content)}B", text, resp.content[:200])
+
+    return Attempt(svc, fmt.key, "内容不符", int((time.time() - t0) * 1000),
+                   f"{len(resp.content)}B 无明文", body_head=resp.content[:200])
 
 
-def probe(target: str, services: list[Service], deadline: float) -> tuple[str, list[Attempt]]:
-    log: list[Attempt] = []
+def probe(target: str, services: list[Service], deadline: float):
+    """按数组顺序逐地址尝试；某地址全部格式失败或没解析出明文，自动换下一个。"""
+    attempts: list[Attempt] = []
+    results: list[tuple[Service, Fmt, str]] = []
     end = time.time() + deadline
-    for svc in services:
+
+    for idx, svc in enumerate(services, 1):
+        print(f"\n[{idx}/{len(services)}] 尝试 {svc.name}: {svc.url} (mode={svc.declared_mode})")
+        hit: tuple[Fmt, str] | None = None
         for fmt in svc.formats:
             if time.time() > end:
-                raise RuntimeError(f"总预算 {deadline}s 已耗尽")
-            print(f"  → {svc.name} / {fmt.key} ...", end="", flush=True)
-            text, att = try_once(svc, fmt, target, svc.timeout)
-            log.append(att)
-            print(f" {att.status} ({att.ms}ms)" + (f" | {att.detail}" if att.status != "OK" else ""))
-            if text is not None:
-                # 探测阶段是短超时，正文可能被截断：按同格式长超时重拉一次
-                if not REFETCH:
-                    return text, log
-                print(f"  ↻ 长超时重拉 {svc.name} / {fmt.key} ({FETCH_TIMEOUT}s)")
-                text2, att2 = try_once(svc, fmt, target, FETCH_TIMEOUT)
-                log.append(att2)
-                if text2 is not None:
-                    return text2, log
-                print("  ⚠ 重拉失败，使用探测结果")
-                return text, log
-    raise RuntimeError("所有服务 × 所有格式均未拿到可用配置")
+                raise RuntimeError(f"总预算 {deadline}s 已耗尽（未完成全部地址）")
+            print(f"  → {fmt.key} ...", end="", flush=True)
+            att = try_once(svc, fmt, target, svc.timeout)
+            attempts.append(att)
+            print(f" {att.status} ({att.ms}ms)" + (f" | {att.detail}" if att.detail else ""))
+            if att.text is None:
+                continue
+
+            if REFETCH:     # 短超时可能截断正文，按同格式长超时重拉
+                print(f"  ↻ 长超时重拉 ({FETCH_TIMEOUT}s)", end="", flush=True)
+                att2 = try_once(svc, fmt, target, FETCH_TIMEOUT)
+                attempts.append(att2)
+                print(f" {att2.status} ({att2.ms}ms)")
+                if att2.text is not None:
+                    att = att2
+            hit = (fmt, att.text)
+            break
+
+        if hit:
+            results.append((svc, hit[0], hit[1]))
+            print(f"  ✓ {svc.name} 解析成功（{hit[0].key}）")
+            if not TRY_ALL:
+                print("  命中即停（TVBOX_TRY_ALL=0）")
+                break
+        else:
+            print(f"  ✗ {svc.name} 未解析出明文，切换到下一个地址")
+
+    return results, attempts
+
+
+# ============================================================ 报表
+
+def print_service_previews(services: list[Service], attempts: list[Attempt],
+                           results: list[tuple[Service, Fmt, str]]):
+    win = {svc.name: (fmt, text) for svc, fmt, text in results}
+    by_svc: dict[str, list[Attempt]] = {}
+    for a in attempts:
+        by_svc.setdefault(a.svc.name, []).append(a)
+
+    print("\n" + "=" * 62)
+    print("每个解析地址的结果预览")
+    print("=" * 62)
+    for svc in services:
+        rows = by_svc.get(svc.name, [])
+        if svc.name in win:
+            fmt, text = win[svc.name]
+            print(f"\n● {svc.name}  [成功]  mode={fmt.key}  url={svc.url}")
+            for line in preview_lines(text, None):
+                print(f"    {line}")
+            if svc.is_auto:
+                print(f"    ↳ 该地址配置为 AUTO，可回填 mode=\"{fmt.key}\"")
+        elif rows:
+            # 优先展示"拿到了 200 响应但内容不可用"的那次，比 404 更有诊断价值
+            informative = [r for r in rows if r.status == "内容不符"]
+            last = informative[-1] if informative else rows[-1]
+            print(f"\n● {svc.name}  [失败]  共试 {len(rows)} 种格式，"
+                  f"代表结果 {last.mode}: {last.status} {last.detail}")
+            for line in preview_lines(None, last.body_head):
+                print(f"    {line}")
+        else:
+            print(f"\n● {svc.name}  [跳过]  未发起请求")
+
+
+def print_report(attempts: list[Attempt], results: list[tuple[Service, Fmt, str]]):
+    if not attempts:
+        return
+    print("\n附：请求明细")
+    header = f"{'#':>2}  {'服务':<10} {'格式':<18} {'状态':<11} {'耗时':>7}  说明"
+    print(header)
+    print("-" * len(header))
+    for i, a in enumerate(attempts, 1):
+        print(f"{i:>2}  {a.svc.name:<10} {a.mode:<18} {a.status:<11} {a.ms:>6}ms  {a.detail[:36]}")
+    total_ms = sum(a.ms for a in attempts)
+    print(f"\n共 {len(attempts)} 次请求，合计 {total_ms/1000:.2f}s，"
+          f"成功地址 {len(results)} 个"
+          + (f"，首个: {results[0][0].name} / {results[0][1].key}" if results else ""))
 
 
 # ============================================================ 主流程
 
 def download(url: str) -> bytes:
-    """直连下载（和 tvbox_core.download_url 同样的 UA 轮换思路，简化版）。"""
     last = None
     for ua in ("okhttp/3.15", "okhttp/4.9.3", "TVBox/1.0.0", DEFAULT_UA):
         try:
@@ -409,11 +542,13 @@ def main():
     source, out_name = args[0], args[1]
 
     deadline = float(os.environ.get("TVBOX_DEADLINE") or 60)
-    direct_first = os.environ.get("TVBOX_DIRECT_FIRST", "0") != "0"
+    direct_first = os.environ.get("TVBOX_DIRECT_FIRST", "1") != "0"
 
-    raw_services = [d for d in load_configs() if d.get("enabled", True) is not False]
     services: list[Service] = []
-    for d in raw_services:
+    for d in load_configs():
+        if d.get("enabled", True) is False:
+            print(f"⚠ 已跳过停用项: {d.get('name', d.get('url'))}")
+            continue
         if not d.get("url"):
             print(f"⚠ 跳过缺少 url 的配置项: {d}")
             continue
@@ -422,22 +557,26 @@ def main():
         except ValueError as e:
             print(f"❌ 配置项 [{d.get('name', '?')}] 有误: {e}")
             sys.exit(2)
-    if services:
-        print("📋 服务列表:")
-        for s in services:
-            print(f"   - {s.name}: {s.url} | mode={[f.key for f in s.formats]} | timeout={s.timeout}s")
 
-    # 1) 取数据
-    data = None
-    text = None
+    if services:
+        print(f"📋 服务列表（按顺序尝试 {len(services)} 个）:")
+        for i, s in enumerate(services, 1):
+            print(f"   {i}. {s.name}: {s.url} | mode={s.declared_mode} "
+                  f"| 待试格式={[f.key for f in s.formats]} | timeout={s.timeout}s")
+
     attempts: list[Attempt] = []
+    results: list[tuple[Service, Fmt, str]] = []
+    text: str | None = None
+
+    # 1) 直连优先
+    data = None
     if source.startswith(("http://", "https://")) and direct_first:
         print(f"\n📥 直连下载: {source}")
         try:
             data = download(source)
             print("✅ 直连成功")
         except Exception as e:
-            print(f"⚠ 直连失败: {str(e)[:160]}")
+            print(f"⚠ 直连失败: {str(e)[:150]}")
 
     if data is not None:
         try:
@@ -446,40 +585,44 @@ def main():
             print(f"⚠ 直连内容不可用（{e}），转入远程服务")
             data, text = None, None
 
-    if data is None:
-        print("\n🔁 进入远程服务探测")
+    # 2) 远程探测
+    if text is None:
+        print("\n🔁 进入远程服务解析")
         try:
-            text, attempts = probe(source, services, deadline)
-            print("✅ 远程探测成功，已选中可用服务")
+            results, attempts = probe(source, services, deadline)
         except RuntimeError as e:
-            print(f"❌ {e}")
-            print_report(attempts)
+            print(f"\n❌ {e}")
+            print_service_previews(services, attempts, results)
+            print_report(attempts, results)
             sys.exit(1)
 
-    # 2) 落盘
+        if not results:
+            print("\n❌ 所有地址均未解析出明文")
+            print_service_previews(services, attempts, results)
+            print_report(attempts, results)
+            sys.exit(1)
+
+        svc, fmt, text = results[0]        # 最终采用第一个成功地址的结果
+        print(f"\n✅ 最终采用: {svc.name} / {fmt.key}")
+
+    # 3) 每个地址的结果预览 + AUTO 回写
+    if services and attempts:
+        print_service_previews(services, attempts, results)
+
+    if results:
+        win_svc, win_fmt, _ = results[0]
+        if win_svc.is_auto:
+            emit_action_mode(win_svc, win_fmt)
+        else:
+            print(f"\n📌 该地址 mode 已显式指定为 {win_svc.declared_mode}，无需回写")
+
+    # 4) 落盘
     with open(out_name, "w", encoding="utf-8") as f:
         f.write(text)
     print(f"\n🎉 已写入 {out_name}（{len(text)} 字符）")
-    print(f"   预览: {text[:120].replace(chr(10), ' ')}...")
     if attempts:
-        print_report(attempts)
-
-
-def print_report(attempts: list[Attempt]):
-    if not attempts:
-        return
-    print("\n附：请求明细")
-    header = f"{'#':>2}  {'服务':<10} {'格式':<18} {'状态':<10} {'耗时':>6}  说明"
-    print(header)
-    print("-" * len(header))
-    for i, a in enumerate(attempts, 1):
-        print(f"{i:>2}  {a.service:<10} {a.mode:<18} {a.status:<10} {a.ms:>5}ms  {a.detail[:40]}")
-    ok = [a for a in attempts if a.status == "OK"]
-    total_ms = sum(a.ms for a in attempts)
-    print(f"\n共 {len(attempts)} 次请求，耗时合计 {total_ms/1000:.2f}s，"
-          f"成功 {len(ok)} 次，首选成功项: {ok[0].service + ' / ' + ok[0].mode if ok else '无'}")
+        print_report(attempts, results)
 
 
 if __name__ == "__main__":
     main()
-#（注：内容由AI生成）
