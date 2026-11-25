@@ -409,7 +409,7 @@ def main():
     source, out_name = args[0], args[1]
 
     deadline = float(os.environ.get("TVBOX_DEADLINE") or 60)
-    direct_first = os.environ.get("TVBOX_DIRECT_FIRST", "1") != "0"
+    direct_first = os.environ.get("TVBOX_DIRECT_FIRST", "0") != "0"
 
     raw_services = [d for d in load_configs() if d.get("enabled", True) is not False]
     services: list[Service] = []
