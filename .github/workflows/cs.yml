@@ -56,12 +56,13 @@ jobs:
       # {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "AUTO"},
       # {"name": "2015888", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "AUTO"},
       # {"name": "自动探测测试", "url": "http://xxx.xxx/api", "mode": "AUTO"}
+      # {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "POST_JSON_NESTED"}
 
       # # 在这里定义你的 JSON 配置数组，注意格式和引号
       env:
         TVBOX_REMOTE_CONFIGS: >-
           [
-            {"name": "y456y", "url": "http://www.y456y.com/helper/api.php", "mode": "POST_JSON_NESTED"}
+            {"name": "159", "url": "http://159.75.152.41:88/api.php", "mode": "AUTO"}
 
           ]   
         
