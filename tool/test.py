@@ -69,11 +69,11 @@ class Fmt:
     where: str = "query"           # query | form | json | json_array | path
     param: str = "url"
     action: str | None = None      # 非空 => JSON 嵌套结构
-    encode: str = "none"           # none | quote | b64url
+    encode: str = "none"           # 仅 path 段使用 b64url；query/form/json 必须 none
 
     def encode_target(self, target: str) -> str:
         if self.encode == "quote":
-            return urllib.parse.quote(target, safe="")
+            raise ValueError("quote 已废弃：requests 的 params/data 会自行编码，预编码会导致二次编码")
         if self.encode == "b64url":
             return base64.urlsafe_b64encode(target.encode()).decode().rstrip("=")
         return target
@@ -83,7 +83,9 @@ FMTS: dict[str, Fmt] = {
     "GET_QUERY_URL":     Fmt("GET_QUERY_URL", "GET", "query", "url"),
     "GET_QUERY_OU":      Fmt("GET_QUERY_OU", "GET", "query", "ou"),
     "GET_PATH_B64":      Fmt("GET_PATH_B64", "GET", "path", "url", None, "b64url"),
-    "POST_FORM":         Fmt("POST_FORM", "POST", "form", "url", None, "quote"),
+    # 对应 curl: -X POST -H "Content-Type: application/x-www-form-urlencoded" --data-urlencode "url=$URL"
+    # 不要预编码：交给 requests 的 data 编码一次即可
+    "POST_FORM":         Fmt("POST_FORM", "POST", "form", "url"),
     "POST_JSON":         Fmt("POST_JSON", "POST", "json", "url"),
     "POST_JSON_NESTED":  Fmt("POST_JSON_NESTED", "POST", "json", "url", "fetch_content"),
     "POST_JSON_ARRAY":   Fmt("POST_JSON_ARRAY", "POST", "json_array", "url"),
@@ -208,6 +210,8 @@ class Service:
 # ============================================================ 请求构造
 
 def build_request(fmt: Fmt, svc: Service, target: str) -> tuple[str, str, dict]:
+    if fmt.where != "path" and fmt.encode != "none":
+        raise ValueError(f"{fmt.key}: 非 path 位置不允许预编码，否则会被 requests 二次编码")
     encoded = fmt.encode_target(target)
     parsed = urllib.parse.urlsplit(svc.url)
     origin = f"{parsed.scheme}://{parsed.netloc}" if parsed.netloc else ""
@@ -256,9 +260,72 @@ def _decode_hex_config(text: str) -> str:
     return plain.decode("utf-8", "ignore")
 
 
+def _strip_json_comments(text: str) -> str:
+    """去掉 // 与 /* */ 注释，只在字符串外部生效（URL 里的 // 不会被误伤）。
+
+    TVBox 客户端用 Fastjson，默认容忍注释，因此真实配置里常见 // 说明行，
+    标准 json 库却会直接报错，这一层就是补这个差异。
+    """
+    out, i, n, in_str, esc = [], 0, len(text), False, False
+    while i < n:
+        ch = text[i]
+        if in_str:
+            out.append(ch)
+            if esc:
+                esc = False
+            elif ch == "\\":
+                esc = True
+            elif ch == '"':
+                in_str = False
+            i += 1
+            continue
+        if ch == '"':
+            in_str = True
+            out.append(ch)
+            i += 1
+            continue
+        if text.startswith("//", i):
+            j = text.find("\n", i)
+            i = n if j == -1 else j          # 保留换行，避免两个值粘在一起
+            continue
+        if text.startswith("/*", i):
+            j = text.find("*/", i + 2)
+            i = n if j == -1 else j + 2
+            continue
+        out.append(ch)
+        i += 1
+    return "".join(out)
+
+
+def _drop_trailing_commas(text: str) -> str:
+    return re.sub(r",\s*([}\]])", r"\1", text)
+
+
+def _parse_json_lenient(text: str):
+    """容忍：BOM、首个 { 之前的说明文字、// 与 /* */ 注释、尾逗号、尾部多余内容。
+
+    返回 (清洗后的合法 JSON 文本, 解析对象)。
+    """
+    t = _strip_json_comments(text.lstrip("\ufeff").strip())
+    i = t.find("{")
+    if i < 0:
+        raise ValueError(f"没有找到 JSON 对象，开头={t[:60]!r}")
+    t = _drop_trailing_commas(t[i:])
+    try:
+        return t.strip(), json.loads(t)          # 整体就是合法 JSON
+    except Exception:
+        pass
+    obj, end = json.JSONDecoder().raw_decode(t)  # 尾部还有说明/junk，截到对象结束
+    return t[:end].strip(), obj
+
+
 def _check_json(text: str) -> str:
-    """严格判定：JSON 对象 + sites 是数组（或 spider 是字符串）。"""
-    obj = json.loads(text)
+    """严格判定内容语义：必须是 JSON 对象，sites 数组 / spider 字符串类型正确。
+
+    形态上放宽（见 _parse_json_lenient），语义上不放宽：
+    错误页、{"code":0,"data":null} 这类空壳依然会被拒。
+    """
+    clean, obj = _parse_json_lenient(text)
     if not isinstance(obj, dict):
         raise ValueError("顶层不是 JSON 对象")
     if "sites" in obj and not isinstance(obj["sites"], list):
@@ -267,7 +334,7 @@ def _check_json(text: str) -> str:
         raise ValueError("spider 不是字符串")
     if "sites" not in obj and "spider" not in obj:
         raise ValueError("缺少 sites/spider 字段")
-    return text
+    return clean
 
 
 def decode_config(payload: bytes) -> str:
@@ -284,8 +351,7 @@ def decode_config(payload: bytes) -> str:
     if "2324" in hexed and all(c in "0123456789abcdefABCDEF" for c in hexed):
         return _check_json(_decode_hex_config(text))
 
-    if not text.startswith("{"):
-        raise ValueError(f"非 JSON 文本，开头={text[:60]!r}")
+    # 明文形态：允许 // 注释、开头说明行、尾逗号（TVBox 自身就容忍这些）
     return _check_json(text)
 
 
