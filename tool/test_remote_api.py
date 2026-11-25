@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-TVBox 远程解密接口 - 通用请求模式测试脚本
+TVBox 远程解密接口 - 通用请求模式测试脚本 (支持环境变量模式)
 """
 
 import sys
@@ -135,26 +135,21 @@ def test_remote_configs(target_url: str, configs: list):
 
         modes_to_test = [mode]
         if mode == "AUTO":
-            # 自动探测的优先级（最不容易被拦截的放前面）
             modes_to_test = ["POST_JSON", "POST_FORM", "GET_QUERY"]
 
         success = False
         for m in modes_to_test:
             try:
-                # 1. 请求数据
                 content = _build_and_send(url, m, target_url)
-                
-                # 2. 试解密校验
                 final_text = process_data_and_check(content)
                 
-                # 3. 成功，写入本地文件
                 out_file = f"test_output_{idx+1}.json"
                 with open(out_file, "w", encoding="utf-8") as f:
                     f.write(final_text)
                 
                 print(f"    ✅ 成功！(模式: {m}) 数据已保存至 {out_file}")
                 success = True
-                break # 成功后跳出模式循环
+                break 
                 
             except Exception as e:
                 print(f"    ❌ 失败 (模式: {m}): {str(e)[:80]}")
@@ -164,29 +159,39 @@ def test_remote_configs(target_url: str, configs: list):
         else:
             print()
 
+# ==================== 主入口 ====================
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("用法: python test_remote_api.py <目标URL> [配置文件.json]")
-        print("  如果不传配置文件，将使用脚本内预设的测试数据。")
+        print("用法: python test_remote_api.py <目标URL> [本地配置文件.json]")
         sys.exit(1)
 
     target = sys.argv[1]
-    
-    # 默认测试配置
-    test_configs = [
-        # 1. 159 接口 (自动识别模式)
-        {"name": "159接口", "url": "http://159.75.152.41:88/api.php", "mode": "GET_QUERY"},
-        # 2. y456y 接口 (嵌套 JSON)
-        {"name": "y456y接口", "url": "http://www.y456y.com/helper/api.php", "mode": "POST_JSON_NESTED"},
-        # 3. 2015888 接口 (表单 POST)
-        {"name": "2015888接口", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "POST_FORM"},
-        # 4. 一个未知的新接口（自动探测）
-        # {"name": "神秘接口", "url": "http://xxx.xxx/api", "mode": "AUTO"}
-    ]
+    test_configs = []
 
-    # 如果命令行传了配置文件，则读取并覆盖
-    if len(sys.argv) >= 3 and os.path.exists(sys.argv[2]):
+    # 1. 优先读取环境变量
+    env_configs_str = os.environ.get("TVBOX_REMOTE_CONFIGS")
+    if env_configs_str:
+        print("发现环境变量 TVBOX_REMOTE_CONFIGS，正在解析...")
+        try:
+            test_configs = json.loads(env_configs_str)
+        except json.JSONDecodeError as e:
+            print(f"❌ 环境变量解析失败，不是合法的 JSON: {e}")
+            sys.exit(1)
+    
+    # 2. 如果环境变量不存在，尝试读取命令行传入的本地 JSON 文件
+    elif len(sys.argv) >= 3 and os.path.exists(sys.argv[2]):
+        print(f"从文件读取配置: {sys.argv[2]}")
         with open(sys.argv[2], "r", encoding="utf-8") as f:
             test_configs = json.load(f)
+            
+    # 3. 都没有，使用内置默认配置
+    else:
+        print("未提供环境变量，也未提供配置文件，使用内置默认配置...")
+        test_configs = [
+            {"name": "159接口", "url": "http://159.75.152.41:88/api.php", "mode": "GET_QUERY"},
+            {"name": "y456y接口", "url": "http://www.y456y.com/helper/api.php", "mode": "POST_JSON_NESTED"},
+            {"name": "2015888接口", "url": "http://2015888.xyz/jiemi/get_jiemi.php", "mode": "POST_FORM"}
+        ]
 
     test_remote_configs(target, test_configs)
