@@ -4,57 +4,74 @@
   "notice": "❤️马叉虫收集整理🐸支持正版人人有责❤️",
   "sites": [
     {
-      "key": "小白弹幕",
-      "name": "豆瓣导航",
+      "key": "Douban_csp",
+      "name": "豆瓣｜导航",
       "type": 3,
-      "api": "csp_SecureDanmu",
+      "api": "csp_Douban",
       "searchable": 1,
-      "ext": {
-        "apiUrls": [
-          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|源1",
-          "https://logo.saodu.work:8888/87654321|源2",
-          "https://dm.ljiaovm.com/luosen|源3",
-          "https://logdanmu.kongcheng666.dpdns.org/a123456|源4",
-          "https://api.dandanplay.net|源5",
-          "https://danmu.lily.lat/lilyemby|源6",
-          "https://danmu.longemby.com/lilyemby|源7"
-        ],
-        "titleMappingsUrl": "https://gh-proxy.org/raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
-        "filter": "https://raw.giteeusercontent.com/zdrnko/aa/raw/master/lib/douban.json"
-      },
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "yingtan_py",
-      "name": "影探视频",
+      "name": "影探｜影视",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/yingtan.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "kanglong_cms",
-      "name": "亢龙视频",
+      "name": "亢龙｜影视",
       "type": 1,
       "api": "http://110.42.66.100:12678/api.php",
       "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "sx4k_cms",
-      "name": "星影视频",
+      "name": "星影｜影视",
       "type": 4,
       "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "pianku_py",
+      "name": "片库｜影视",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/pianku.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "hetun_py",
+      "name": "河豚｜影视",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/hetun.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "mino_py",
+      "name": "米诺｜影视",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/mino.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "yunzhenxiang_py",
+      "name": "云帧享｜影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/github.com/ssm123-coder/a/raw/main/py/yunzhenxiang.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "ddcj_cms",
-      "name": "开心果视频",
+      "name": "开心果｜解析",
       "type": 4,
       "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php?filter=true",
-      "playUrl": "json:http://niubi.69mini.com/api?key=5826c5388ce47abc5919ef5474f075d1&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -62,7 +79,7 @@
     },
     {
       "key": "baipiao_js",
-      "name": "白嫖鸭聚合",
+      "name": "白嫖鸭｜聚合",
       "playerType": "2",
       "type": 3,
       "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
@@ -70,116 +87,486 @@
       "ext": "https://gitee.com/zdrnko/aa/raw/master/js/baipiao.js"
     },
     {
-      "key": "wpjh_py",
-      "name": "网盘聚合",
+      "key": "bilibili_py",
+      "name": "哔哩｜视频",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/76bPI3/wangpanMD.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "mode": "",
-        "uc_cookie": "",
-        "quark_cookie": "",
-        "夸父cookie": "bbs_sid=xxx; bbs_token=xxx",
-        "123cookie": "bbs_sid=xxx; bbs_token=xxx",
-        "fast": "1",
-        "accel": "1",
-        "accel_thread": "96"
-      },
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/bilibili.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "移动云盘",
-      "name": "移动云盘",
+      "name": "移动｜免扫",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/ydyp.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "gulu_py",
-      "name": "咕噜视频",
+      "key": "玩偶自扫",
+      "name": "玩偶｜自扫",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/gulu.py",
+      "api": "csp_CloudPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "木偶自扫",
+      "name": "木偶｜自扫",
+      "type": 3,
+      "api": "csp_CloudPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://123.666291.xyz",
+          "https://666.666291.xyz",
+          "https://www.muou.site",
+          "https://www.muou.asia"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "快映自扫",
+      "name": "快映｜自扫",
+      "type": 3,
+      "api": "csp_CloudPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "闪电自扫",
+      "name": "闪电｜自扫",
+      "type": 3,
+      "api": "csp_CloudPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://shandian.blog",
+          "http://sd.sduc.site"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "多多自扫",
+      "name": "多多｜自扫",
+      "type": 3,
+      "api": "csp_CloudPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "虎斑自扫",
+      "name": "虎斑｜自扫",
+      "type": 3,
+      "api": "csp_CloudPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "傻样自扫",
+      "name": "傻样｜自扫",
+      "type": 3,
+      "api": "csp_CloudPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://xsayang.fun:12512"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "花卷自扫",
+      "name": "花卷｜自扫",
+      "type": 3,
+      "api": "csp_CloudHJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "种子自扫",
+      "name": "种子｜自扫",
+      "type": 3,
+      "api": "csp_CloudHub",
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": {
+        "site": [
+          "https://sidhub.cc",
+          "https://seeduck.cc",
+          "https://hubdog.cc",
+          "http://104.243.25.80"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "咕噜APP",
+      "name": "咕噜｜APP",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "天堂APP",
+      "name": "天堂｜APP",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "苹果APP",
+      "name": "苹果｜APP",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "qiyiguo_cms",
+      "name": "奇异果｜视频",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.iqiyizyjx.com/?url=",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "kanke_py",
+      "name": "看客｜视频",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/kanke.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "dyls_py",
-      "name": "猎手视频",
+      "name": "猎手｜视频",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/dyls.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "yunzhenxiang_py",
-      "name": "云帧享视频",
+      "key": "guazi_py",
+      "name": "瓜子｜视频",
       "type": 3,
-      "api": "https://gh-proxy.org/github.com/ssm123-coder/a/raw/main/py/yunzhenxiang.py",
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/guazi.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "hanju_py",
-      "name": "韩小圈视频",
+      "name": "韩小圈｜韩剧",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/hanju.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "mddcloud_py",
-      "name": "埋堆堆粤剧",
+      "name": "埋堆堆｜备用",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/mddcloud.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "dylive_py",
-      "name": "抖音直播",
+      "key": "Mdd",
+      "name": "埋堆堆｜粤剧",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/dylive.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
-      "key": "ghgdm_py",
-      "name": "共和国动漫",
-      "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/ghgdm.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
-      "key": "dydj_py",
-      "name": "某音短剧",
-      "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/dydj.py",
+      "api": "csp_Mdd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "Xigua",
+      "name": "西瓜｜视频",
+      "type": 3,
+      "api": "csp_Xigua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌｜视频",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "夸克网盘",
+      "name": "夸克｜网盘",
+      "type": 3,
+      "api": "csp_MyQuark",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "UC网盘",
+      "name": "U C｜网盘",
+      "type": 3,
+      "api": "csp_MyUC",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "百度网盘",
+      "name": "百度｜网盘",
+      "type": 3,
+      "api": "csp_MyBaidu",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "wllive_py",
+      "name": "网络｜Live",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/wllive.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "bililive_py",
+      "name": "哔哩｜Live",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/bililive.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "dylive_py",
+      "name": "抖音｜Live",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/dylive.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "kglive",
+      "name": "酷狗｜Live",
+      "type": 4,
+      "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "ghgdm_py",
+      "name": "共和国｜动漫",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/ghgdm.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "lmmdm_py",
+      "name": "路漫漫｜动漫",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/lmmdm.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "某音短剧",
+      "name": "某音｜短剧",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/dydj.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "hgdj_py",
-      "name": "红果短剧",
+      "name": "红果｜备用",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/hgdj.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
-      "key": "hgdj备用_py",
-      "name": "红果备用",
+      "key": "ShortHG",
+      "name": "红果｜短剧",
       "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/hgdj备用.py",
+      "api": "csp_ShortHG",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "api": "https://nm.4688888.xyz/douyin/hg.php/provide/vod",
+        "liushen": "https://nm.4688888.xyz/douyin/liushen_server.php",
+        "bridge": "https://nm.4688888.xyz/douyin/bridge.php"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "hortQM",
+      "name": "七猫｜短剧",
+      "type": 3,
+      "api": "csp_ShortQM",
+      "genre": "shortdrama",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "ShortHM",
+      "name": "河马｜短剧",
+      "type": 3,
+      "api": "csp_ShortHM",
+      "genre": "shortdrama",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "ShortWG",
+      "name": "围观｜短剧",
+      "type": 3,
+      "api": "csp_ShortWG",
+      "genre": "shortdrama",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "ShortHK",
+      "name": "好看｜短剧",
+      "type": 3,
+      "api": "csp_ShortHK",
+      "genre": "shortdrama",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "ShortXY",
+      "name": "星芽｜短剧",
+      "type": 3,
+      "api": "csp_ShortXY",
+      "genre": "shortdrama",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "kwmusic_py",
-      "name": "酷我音乐",
+      "name": "酷我｜音乐",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/kwmusic.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "Djuu",
+      "name": "呦呦｜D J",
+      "type": 3,
+      "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "qtfm_js",
-      "name": "蜻蜓广播",
+      "name": "蜻蜓｜广播",
       "type": 3,
       "jar": "https://gitee.com/zdrnko/aa/raw/master/jar/fmjs.zip",
       "api": "https://gitee.com/zdrnko/aa/raw/master/js/drpy2.min.js",
@@ -187,33 +574,287 @@
     },
     {
       "key": "tangdou_py",
-      "name": "糖豆舞蹈",
+      "name": "糖豆｜舞蹈",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/tangdou.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "tingyou_py",
-      "name": "听友听书",
+      "name": "听友｜听书",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/tingyou.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
+      "key": "TingBK",
+      "name": "博看｜听书",
+      "type": 3,
+      "api": "csp_TingBK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
       "key": "体育聚合",
-      "name": "体育聚合",
+      "name": "聚合｜球赛",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/js/体育聚合.js",
       "style": {
         "type": "rect"
       },
       "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "蜘蛛体育",
+      "name": "蜘蛛｜球赛",
+      "type": 3,
+      "api": "https://gitee.com/zdrnko/aa/raw/master/js/蜘蛛体育.js",
+      "style": {
+        "type": "rect"
+      },
+      "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "AppLY",
+      "name": "多多｜戏曲",
+      "type": 3,
+      "api": "csp_AppLY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "BeiLeHu",
+      "name": "贝乐虎｜儿童",
+      "type": 3,
+      "api": "csp_BeiLeHu",
+      "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "哔哩音乐",
+      "name": "哔哩｜音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "哔哩音乐",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "哔哩听书",
+      "name": "哔哩｜听书",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "哔哩听书",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "哔哩相声",
+      "name": "哔哩｜相声",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "哔哩相声",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "哔哩小品",
+      "name": "哔哩｜小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "哔哩小品",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "哔哩戏曲",
+      "name": "哔哩｜戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "哔哩戏曲",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "少儿教育",
+      "name": "少儿｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "少儿教育"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "小学课堂",
+      "name": "小学｜课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "小学课堂"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "初中课堂",
+      "name": "初中｜课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "初中课堂"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "高中课堂",
+      "name": "高中｜课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "type": "高中课堂"
+      },
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "配置中心",
+      "name": "配置｜中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect"
+      },
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "觅盘搜索",
+      "name": "勿信｜插播",
+      "type": 3,
+      "api": "csp_MiPan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "盘搜搜索",
+      "name": "字幕｜广告",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "趣盘搜索",
+      "name": "支持｜正版",
+      "type": 3,
+      "api": "csp_QuPanSo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
+    },
+    {
+      "key": "push_agent",
+      "name": "人人｜有责",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "juese_py",
-      "name": "绝色🔞禁",
+      "name": "绝色｜🔞禁",
       "type": 3,
       "api": "https://gh-proxy.org/github.com/ssm123-coder/a/raw/main/py/juese.py",
       "searchable": 1,
@@ -222,7 +863,7 @@
     },
     {
       "key": "hddj_py",
-      "name": "黄豆🔞禁",
+      "name": "黄豆｜🔞禁",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/hddj.py",
       "searchable": 1,
@@ -243,7 +884,33 @@
       "playerType": 3,
       "type": 0,
       "ua": "okhttp/3.15"
+    },
+    {
+      "name": "完盒源",
+      "type": 0,
+      "url": "https://app.tgyes.eu.org/111.txt?token=tvbox2026"
     }
   ],
-  "parses": []
+  "parses": [
+    {
+      "name": "咪妮",
+      "type": 1,
+      "url": "http://niubi.69mini.com/api?key=5826c5388ce47abc5919ef5474f075d1&url="
+    },
+    {
+      "name": "备用",
+      "type": 1,
+      "url": "http://jiexi.fc8001.top/leZNmbHdSceTrNsR.php?url="
+    },
+    {
+      "name": "牛马",
+      "type": 1,
+      "url": "https://nm.4688888.xyz/niuma.php?key=dfl&url="
+    },
+    {
+      "name": "千易",
+      "type": 1,
+      "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
+    }
+  ]
 }
