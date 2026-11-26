@@ -58,30 +58,10 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
     },
     {
-      "key": "py_4f591dd7",
-      "name": "4k站点聚合",
-      "type": 3,
-      "api": "http://movie.66608880.xyz/tvbox/py/4k%E7%AB%99%E7%82%B9%E8%81%9A%E5%90%88.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
-    },
-    {
       "key": "py_4k",
       "name": "4k线路聚合",
       "type": 3,
       "api": "http://movie.66608880.xyz/tvbox/py/4k%E7%BA%BF%E8%B7%AF%E8%81%9A%E5%90%88.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/666.jar"
-    },
-    {
-      "key": "py_0bee2984",
-      "name": "影探聚合",
-      "type": 3,
-      "api": "http://movie.66608880.xyz/tvbox/py/%E5%BD%B1%E6%8E%A2%E8%81%9A%E5%90%88.py",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "",
