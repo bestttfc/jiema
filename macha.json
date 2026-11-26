@@ -11,13 +11,13 @@
       "searchable": 1,
       "ext": {
         "apiUrls": [
-          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源1",
-          "https://logo.saodu.work:8888/87654321|公益源2",
-          "https://dm.ljiaovm.com/luosen|公益源3",
-          "https://logdanmu.kongcheng666.dpdns.org/a123456|公益源4",
-          "https://api.dandanplay.net|公益源5",
-          "https://danmu.lily.lat/lilyemby|公益源6",
-          "https://danmu.longemby.com/lilyemby|公益源7"
+          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|源1",
+          "https://logo.saodu.work:8888/87654321|源2",
+          "https://dm.ljiaovm.com/luosen|源3",
+          "https://logdanmu.kongcheng666.dpdns.org/a123456|源4",
+          "https://api.dandanplay.net|源5",
+          "https://danmu.lily.lat/lilyemby|源6",
+          "https://danmu.longemby.com/lilyemby|源7"
         ],
         "titleMappingsUrl": "https://gh-proxy.org/raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
         "filter": "https://raw.giteeusercontent.com/zdrnko/aa/raw/master/lib/douban.json"
@@ -54,6 +54,7 @@
       "name": "开心果视频",
       "type": 4,
       "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php?filter=true",
+      "playUrl": "json:http://niubi.69mini.com/api?key=5826c5388ce47abc5919ef5474f075d1&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -244,21 +245,5 @@
       "ua": "okhttp/3.15"
     }
   ],
-  "parses": [
-    {
-      "name": "解析",
-      "type": 1,
-      "url": "http://niubi.69mini.com/api?key=5826c5388ce47abc5919ef5474f075d1&url="
-    },
-    {
-      "name": "备用",
-      "type": 1,
-      "url": "http://jiexi.fc8001.top/leZNmbHdSceTrNsR.php?url="
-    },
-    {
-      "name": "白嫖鸭",
-      "type": 1,
-      "url": "https://jx4k.fuyingapi.top/api/?key=f9ecd007748997c6a81a83c425e9448a&url="
-    }
-  ]
+  "parses": []
 }
