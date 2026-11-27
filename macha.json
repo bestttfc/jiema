@@ -626,9 +626,9 @@
       "name": "多多｜戏曲",
       "type": 3,
       "api": "csp_AppLY",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "style": {
         "type": "list"
       },
@@ -652,9 +652,9 @@
       "name": "哔哩｜音乐",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "哔哩音乐",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
@@ -669,9 +669,9 @@
       "name": "哔哩｜听书",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "哔哩听书",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
@@ -686,9 +686,9 @@
       "name": "哔哩｜相声",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "哔哩相声",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
@@ -703,9 +703,9 @@
       "name": "哔哩｜小品",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "哔哩小品",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
@@ -720,9 +720,9 @@
       "name": "哔哩｜戏曲",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "哔哩戏曲",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
@@ -737,9 +737,9 @@
       "name": "少儿｜教育",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "少儿教育"
       },
@@ -753,9 +753,9 @@
       "name": "小学｜课堂",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "小学课堂"
       },
@@ -769,9 +769,9 @@
       "name": "初中｜课堂",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "初中课堂"
       },
@@ -785,9 +785,9 @@
       "name": "高中｜课堂",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "type": "高中课堂"
       },
@@ -911,6 +911,11 @@
       "name": "千易",
       "type": 1,
       "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
+    },
+    {
+      "name": "胖大海",
+      "type": 1,
+      "url": "https://api.suxun.site/api/gjth?url="
     }
   ]
 }
