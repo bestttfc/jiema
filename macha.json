@@ -4,21 +4,11 @@
   "notice": "❤️马叉虫收集整理🐸支持正版人人有责❤️",
   "sites": [
     {
-      "key": "小白弹幕",
-      "name": "豆瓣导航",
+      "key": "yingtan_py",
+      "name": "影探视频",
       "type": 3,
-      "jar": "https://gh-proxy.org/raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
-      "api": "csp_SecureDanmu",
-      "searchable": 1,
-      "ext": {
-        "apiUrls": [
-          "https://danmu.qianting168.com/456765847636987622146901|源1",
-          "https://dandan.wenjian.de/wenjian|源2",
-          "https://danmu.cynn.top/cynnsq|源3"
-        ],
-        "titleMappingsUrl": "https://gh-proxy.org/raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
-        "filter": "https://raw.giteeusercontent.com/zdrnko/aa/raw/master/lib/douban.json"
-      }
+      "api": "https://gitee.com/zdrnko/aa/raw/master/py/yingtan.py",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
       "key": "网盘聚合",
@@ -42,13 +32,6 @@
       "name": "移动免扫",
       "type": 3,
       "api": "https://gitee.com/zdrnko/aa/raw/master/py/ydyp.py",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
-    },
-    {
-      "key": "yingtan_py",
-      "name": "影探视频",
-      "type": 3,
-      "api": "https://gitee.com/zdrnko/aa/raw/master/py/yingtan.py",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bestttfc/jiema/main/macha.jar"
     },
     {
